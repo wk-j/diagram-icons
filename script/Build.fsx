@@ -34,6 +34,7 @@ let getIconInfo(dir: DirectoryInfo) =
                 .Replace(currentDir, "")
                 .Replace("resources", "")
                 .Replace("/", ".").ToLower()
+                .Replace(".png", "")
                 .TrimStart('.')
 
         let path =
@@ -52,7 +53,7 @@ let createMD (icons: ResizeArray<IconInfo>) =
 
     for item in icons do
         // let fmt = $"{item.Category}|{item.Name}|![]({item.Path} =50x50)\n"
-        let fmt = $"diagram.{item.Namespace}|<img src=\"{item.Path}\" width=\"50px\" />\n"
+        let fmt = $"diagram.{item.Namespace}|{item.Name}|<img src=\"{item.Path}\" width=\"50px\" />\n"
         builder.Append(fmt) |> ignore
 
     builder.ToString()
