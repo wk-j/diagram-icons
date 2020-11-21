@@ -3,8 +3,7 @@ open System.Text
 
 type IconInfo = {
     Name: string
-    Category: string
-    Vendor: string
+    Namespace: string
     Path: string
 }
 
@@ -22,17 +21,30 @@ let getIconInfo(dir: DirectoryInfo) =
         dir.GetFiles("*.png", SearchOption.AllDirectories)
 
     let data = ResizeArray<IconInfo>()
+    let currentDir = DirectoryInfo(".").FullName
 
     for item in files do
         let name = item.Name
         let cateogry = item.Directory.Name
         let vendor = item.Directory.Parent.Name
+        let fullPath = item.FullName
+
+        let ns =
+            fullPath
+                .Replace(currentDir, "")
+                .Replace("resources", "")
+                .Replace("/", ".").ToLower()
+                .TrimStart('.')
+
+        let path =
+            fullPath
+                .Replace(currentDir, "")
+                .TrimStart('/')
 
         data.Add
             { Name = name |> toPascal
-              Category = cateogry
-              Vendor = vendor
-              Path = $"../resources/{vendor}/{cateogry}/{name}" }
+              Namespace = ns
+              Path = $"../{path}" }
     data
 
 let createMD (icons: ResizeArray<IconInfo>) =
@@ -40,7 +52,7 @@ let createMD (icons: ResizeArray<IconInfo>) =
 
     for item in icons do
         // let fmt = $"{item.Category}|{item.Name}|![]({item.Path} =50x50)\n"
-        let fmt = $"diagram.{item.Vendor}.{item.Category}|{item.Name}|<img src=\"{item.Path}\" width=\"50px\" />\n"
+        let fmt = $"diagram.{item.Namespace}|<img src=\"{item.Path}\" width=\"50px\" />\n"
         builder.Append(fmt) |> ignore
 
     builder.ToString()
