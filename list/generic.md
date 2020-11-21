@@ -2,25 +2,25 @@ generic
 
 Type | Name | Icon
 --|--|--
-database|sql.png|![](../resources/generic/database/sql.png =50x50)
-virtualization|vmware.png|![](../resources/generic/virtualization/vmware.png =50x50)
-virtualization|virtualbox.png|![](../resources/generic/virtualization/virtualbox.png =50x50)
-virtualization|xen.png|![](../resources/generic/virtualization/xen.png =50x50)
-network|vpn.png|![](../resources/generic/network/vpn.png =50x50)
-network|firewall.png|![](../resources/generic/network/firewall.png =50x50)
-network|switch.png|![](../resources/generic/network/switch.png =50x50)
-network|router.png|![](../resources/generic/network/router.png =50x50)
-network|subnet.png|![](../resources/generic/network/subnet.png =50x50)
-storage|storage.png|![](../resources/generic/storage/storage.png =50x50)
-blank|blank.png|![](../resources/generic/blank/blank.png =50x50)
-compute|rack.png|![](../resources/generic/compute/rack.png =50x50)
-device|tablet.png|![](../resources/generic/device/tablet.png =50x50)
-device|mobile.png|![](../resources/generic/device/mobile.png =50x50)
-os|android.png|![](../resources/generic/os/android.png =50x50)
-os|ios.png|![](../resources/generic/os/ios.png =50x50)
-os|windows.png|![](../resources/generic/os/windows.png =50x50)
-os|suse.png|![](../resources/generic/os/suse.png =50x50)
-os|ubuntu.png|![](../resources/generic/os/ubuntu.png =50x50)
-os|centos.png|![](../resources/generic/os/centos.png =50x50)
-os|linux-general.png|![](../resources/generic/os/linux-general.png =50x50)
-place|datacenter.png|![](../resources/generic/place/datacenter.png =50x50)
+database|sql.png|<img src="../resources/generic/database/sql.png" witdh="50px" />
+virtualization|vmware.png|<img src="../resources/generic/virtualization/vmware.png" witdh="50px" />
+virtualization|virtualbox.png|<img src="../resources/generic/virtualization/virtualbox.png" witdh="50px" />
+virtualization|xen.png|<img src="../resources/generic/virtualization/xen.png" witdh="50px" />
+network|vpn.png|<img src="../resources/generic/network/vpn.png" witdh="50px" />
+network|firewall.png|<img src="../resources/generic/network/firewall.png" witdh="50px" />
+network|switch.png|<img src="../resources/generic/network/switch.png" witdh="50px" />
+network|router.png|<img src="../resources/generic/network/router.png" witdh="50px" />
+network|subnet.png|<img src="../resources/generic/network/subnet.png" witdh="50px" />
+storage|storage.png|<img src="../resources/generic/storage/storage.png" witdh="50px" />
+blank|blank.png|<img src="../resources/generic/blank/blank.png" witdh="50px" />
+compute|rack.png|<img src="../resources/generic/compute/rack.png" witdh="50px" />
+device|tablet.png|<img src="../resources/generic/device/tablet.png" witdh="50px" />
+device|mobile.png|<img src="../resources/generic/device/mobile.png" witdh="50px" />
+os|android.png|<img src="../resources/generic/os/android.png" witdh="50px" />
+os|ios.png|<img src="../resources/generic/os/ios.png" witdh="50px" />
+os|windows.png|<img src="../resources/generic/os/windows.png" witdh="50px" />
+os|suse.png|<img src="../resources/generic/os/suse.png" witdh="50px" />
+os|ubuntu.png|<img src="../resources/generic/os/ubuntu.png" witdh="50px" />
+os|centos.png|<img src="../resources/generic/os/centos.png" witdh="50px" />
+os|linux-general.png|<img src="../resources/generic/os/linux-general.png" witdh="50px" />
+place|datacenter.png|<img src="../resources/generic/place/datacenter.png" witdh="50px" />

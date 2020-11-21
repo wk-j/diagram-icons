@@ -2,48 +2,48 @@ k8s
 
 Type | Name | Icon
 --|--|--
-ecosystem|kustomize.png|![](../resources/k8s/ecosystem/kustomize.png =50x50)
-ecosystem|helm.png|![](../resources/k8s/ecosystem/helm.png =50x50)
-ecosystem|krew.png|![](../resources/k8s/ecosystem/krew.png =50x50)
-ecosystem|external-dns.png|![](../resources/k8s/ecosystem/external-dns.png =50x50)
-rbac|group.png|![](../resources/k8s/rbac/group.png =50x50)
-rbac|sa.png|![](../resources/k8s/rbac/sa.png =50x50)
-rbac|rb.png|![](../resources/k8s/rbac/rb.png =50x50)
-rbac|user.png|![](../resources/k8s/rbac/user.png =50x50)
-rbac|role.png|![](../resources/k8s/rbac/role.png =50x50)
-rbac|c-role.png|![](../resources/k8s/rbac/c-role.png =50x50)
-rbac|crb.png|![](../resources/k8s/rbac/crb.png =50x50)
-infra|etcd.png|![](../resources/k8s/infra/etcd.png =50x50)
-infra|master.png|![](../resources/k8s/infra/master.png =50x50)
-infra|node.png|![](../resources/k8s/infra/node.png =50x50)
-podconfig|cm.png|![](../resources/k8s/podconfig/cm.png =50x50)
-podconfig|secret.png|![](../resources/k8s/podconfig/secret.png =50x50)
-group|ns.png|![](../resources/k8s/group/ns.png =50x50)
-network|netpol.png|![](../resources/k8s/network/netpol.png =50x50)
-network|ep.png|![](../resources/k8s/network/ep.png =50x50)
-network|ing.png|![](../resources/k8s/network/ing.png =50x50)
-network|svc.png|![](../resources/k8s/network/svc.png =50x50)
-others|psp.png|![](../resources/k8s/others/psp.png =50x50)
-others|crd.png|![](../resources/k8s/others/crd.png =50x50)
-storage|vol.png|![](../resources/k8s/storage/vol.png =50x50)
-storage|sc.png|![](../resources/k8s/storage/sc.png =50x50)
-storage|pvc.png|![](../resources/k8s/storage/pvc.png =50x50)
-storage|pv.png|![](../resources/k8s/storage/pv.png =50x50)
-clusterconfig|hpa.png|![](../resources/k8s/clusterconfig/hpa.png =50x50)
-clusterconfig|limits.png|![](../resources/k8s/clusterconfig/limits.png =50x50)
-clusterconfig|quota.png|![](../resources/k8s/clusterconfig/quota.png =50x50)
-controlplane|sched.png|![](../resources/k8s/controlplane/sched.png =50x50)
-controlplane|kubelet.png|![](../resources/k8s/controlplane/kubelet.png =50x50)
-controlplane|c-m.png|![](../resources/k8s/controlplane/c-m.png =50x50)
-controlplane|c-c-m.png|![](../resources/k8s/controlplane/c-c-m.png =50x50)
-controlplane|api.png|![](../resources/k8s/controlplane/api.png =50x50)
-controlplane|k-proxy.png|![](../resources/k8s/controlplane/k-proxy.png =50x50)
-compute|sts.png|![](../resources/k8s/compute/sts.png =50x50)
-compute|rs.png|![](../resources/k8s/compute/rs.png =50x50)
-compute|deploy.png|![](../resources/k8s/compute/deploy.png =50x50)
-compute|cronjob.png|![](../resources/k8s/compute/cronjob.png =50x50)
-compute|pod.png|![](../resources/k8s/compute/pod.png =50x50)
-compute|ds.png|![](../resources/k8s/compute/ds.png =50x50)
-compute|job.png|![](../resources/k8s/compute/job.png =50x50)
-chaos|litmus-chaos.png|![](../resources/k8s/chaos/litmus-chaos.png =50x50)
-chaos|chaos-mesh.png|![](../resources/k8s/chaos/chaos-mesh.png =50x50)
+ecosystem|kustomize.png|<img src="../resources/k8s/ecosystem/kustomize.png" witdh="50px" />
+ecosystem|helm.png|<img src="../resources/k8s/ecosystem/helm.png" witdh="50px" />
+ecosystem|krew.png|<img src="../resources/k8s/ecosystem/krew.png" witdh="50px" />
+ecosystem|external-dns.png|<img src="../resources/k8s/ecosystem/external-dns.png" witdh="50px" />
+rbac|group.png|<img src="../resources/k8s/rbac/group.png" witdh="50px" />
+rbac|sa.png|<img src="../resources/k8s/rbac/sa.png" witdh="50px" />
+rbac|rb.png|<img src="../resources/k8s/rbac/rb.png" witdh="50px" />
+rbac|user.png|<img src="../resources/k8s/rbac/user.png" witdh="50px" />
+rbac|role.png|<img src="../resources/k8s/rbac/role.png" witdh="50px" />
+rbac|c-role.png|<img src="../resources/k8s/rbac/c-role.png" witdh="50px" />
+rbac|crb.png|<img src="../resources/k8s/rbac/crb.png" witdh="50px" />
+infra|etcd.png|<img src="../resources/k8s/infra/etcd.png" witdh="50px" />
+infra|master.png|<img src="../resources/k8s/infra/master.png" witdh="50px" />
+infra|node.png|<img src="../resources/k8s/infra/node.png" witdh="50px" />
+podconfig|cm.png|<img src="../resources/k8s/podconfig/cm.png" witdh="50px" />
+podconfig|secret.png|<img src="../resources/k8s/podconfig/secret.png" witdh="50px" />
+group|ns.png|<img src="../resources/k8s/group/ns.png" witdh="50px" />
+network|netpol.png|<img src="../resources/k8s/network/netpol.png" witdh="50px" />
+network|ep.png|<img src="../resources/k8s/network/ep.png" witdh="50px" />
+network|ing.png|<img src="../resources/k8s/network/ing.png" witdh="50px" />
+network|svc.png|<img src="../resources/k8s/network/svc.png" witdh="50px" />
+others|psp.png|<img src="../resources/k8s/others/psp.png" witdh="50px" />
+others|crd.png|<img src="../resources/k8s/others/crd.png" witdh="50px" />
+storage|vol.png|<img src="../resources/k8s/storage/vol.png" witdh="50px" />
+storage|sc.png|<img src="../resources/k8s/storage/sc.png" witdh="50px" />
+storage|pvc.png|<img src="../resources/k8s/storage/pvc.png" witdh="50px" />
+storage|pv.png|<img src="../resources/k8s/storage/pv.png" witdh="50px" />
+clusterconfig|hpa.png|<img src="../resources/k8s/clusterconfig/hpa.png" witdh="50px" />
+clusterconfig|limits.png|<img src="../resources/k8s/clusterconfig/limits.png" witdh="50px" />
+clusterconfig|quota.png|<img src="../resources/k8s/clusterconfig/quota.png" witdh="50px" />
+controlplane|sched.png|<img src="../resources/k8s/controlplane/sched.png" witdh="50px" />
+controlplane|kubelet.png|<img src="../resources/k8s/controlplane/kubelet.png" witdh="50px" />
+controlplane|c-m.png|<img src="../resources/k8s/controlplane/c-m.png" witdh="50px" />
+controlplane|c-c-m.png|<img src="../resources/k8s/controlplane/c-c-m.png" witdh="50px" />
+controlplane|api.png|<img src="../resources/k8s/controlplane/api.png" witdh="50px" />
+controlplane|k-proxy.png|<img src="../resources/k8s/controlplane/k-proxy.png" witdh="50px" />
+compute|sts.png|<img src="../resources/k8s/compute/sts.png" witdh="50px" />
+compute|rs.png|<img src="../resources/k8s/compute/rs.png" witdh="50px" />
+compute|deploy.png|<img src="../resources/k8s/compute/deploy.png" witdh="50px" />
+compute|cronjob.png|<img src="../resources/k8s/compute/cronjob.png" witdh="50px" />
+compute|pod.png|<img src="../resources/k8s/compute/pod.png" witdh="50px" />
+compute|ds.png|<img src="../resources/k8s/compute/ds.png" witdh="50px" />
+compute|job.png|<img src="../resources/k8s/compute/job.png" witdh="50px" />
+chaos|litmus-chaos.png|<img src="../resources/k8s/chaos/litmus-chaos.png" witdh="50px" />
+chaos|chaos-mesh.png|<img src="../resources/k8s/chaos/chaos-mesh.png" witdh="50px" />

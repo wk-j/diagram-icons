@@ -34,8 +34,9 @@ let createMD (icons: ResizeArray<IconInfo>) =
     let builder = StringBuilder()
 
     for item in icons do
-        let fmt = $"{item.Category}|{item.Name}|![]({item.Path} =50x50)\n"
-        builder.Append(fmt)
+        // let fmt = $"{item.Category}|{item.Name}|![]({item.Path} =50x50)\n"
+        let fmt = $"{item.Category}|{item.Name}|<img src=\"{item.Path}\" witdh=\"50px\" />\n"
+        builder.Append(fmt) |> ignore
 
     builder.ToString()
 
@@ -52,6 +53,4 @@ for item in topDir do
             .Replace("{_title_}", name)
             .Replace("{_icons_}", md)
 
-    File.WriteAllText(target, value)
-
-    ()
+    File.WriteAllText(target, value) |> ignore

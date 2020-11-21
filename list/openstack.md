@@ -2,54 +2,54 @@ openstack
 
 Type | Name | Icon
 --|--|--
-openstack|openstack.png|![](../resources/resources/openstack/openstack.png =50x50)
-frontend|horizon.png|![](../resources/openstack/frontend/horizon.png =50x50)
-applicationlifecycle|solum.png|![](../resources/openstack/applicationlifecycle/solum.png =50x50)
-applicationlifecycle|masakari.png|![](../resources/openstack/applicationlifecycle/masakari.png =50x50)
-applicationlifecycle|murano.png|![](../resources/openstack/applicationlifecycle/murano.png =50x50)
-applicationlifecycle|freezer.png|![](../resources/openstack/applicationlifecycle/freezer.png =50x50)
-networking|designate.png|![](../resources/openstack/networking/designate.png =50x50)
-networking|octavia.png|![](../resources/openstack/networking/octavia.png =50x50)
-networking|neutron.png|![](../resources/openstack/networking/neutron.png =50x50)
-baremetal|ironic.png|![](../resources/openstack/baremetal/ironic.png =50x50)
-baremetal|cyborg.png|![](../resources/openstack/baremetal/cyborg.png =50x50)
-user|openstackclient.png|![](../resources/openstack/user/openstackclient.png =50x50)
-storage|manila.png|![](../resources/openstack/storage/manila.png =50x50)
-storage|swift.png|![](../resources/openstack/storage/swift.png =50x50)
-storage|cinder.png|![](../resources/openstack/storage/cinder.png =50x50)
-compute|zun.png|![](../resources/openstack/compute/zun.png =50x50)
-compute|qinling.png|![](../resources/openstack/compute/qinling.png =50x50)
-compute|nova.png|![](../resources/openstack/compute/nova.png =50x50)
-workloadprovisioning|magnum.png|![](../resources/openstack/workloadprovisioning/magnum.png =50x50)
-workloadprovisioning|trove.png|![](../resources/openstack/workloadprovisioning/trove.png =50x50)
-workloadprovisioning|sahara.png|![](../resources/openstack/workloadprovisioning/sahara.png =50x50)
-orchestration|mistral.png|![](../resources/openstack/orchestration/mistral.png =50x50)
-orchestration|blazar.png|![](../resources/openstack/orchestration/blazar.png =50x50)
-orchestration|zaqar.png|![](../resources/openstack/orchestration/zaqar.png =50x50)
-orchestration|heat.png|![](../resources/openstack/orchestration/heat.png =50x50)
-orchestration|senlin.png|![](../resources/openstack/orchestration/senlin.png =50x50)
-sharedservices|keystone.png|![](../resources/openstack/sharedservices/keystone.png =50x50)
-sharedservices|karbor.png|![](../resources/openstack/sharedservices/karbor.png =50x50)
-sharedservices|searchlight.png|![](../resources/openstack/sharedservices/searchlight.png =50x50)
-sharedservices|barbican.png|![](../resources/openstack/sharedservices/barbican.png =50x50)
-sharedservices|glance.png|![](../resources/openstack/sharedservices/glance.png =50x50)
-apiproxies|ec2api.png|![](../resources/openstack/apiproxies/ec2api.png =50x50)
-optimization|watcher.png|![](../resources/operations/optimization/watcher.png =50x50)
-optimization|vitrage.png|![](../resources/operations/optimization/vitrage.png =50x50)
-optimization|rally.png|![](../resources/operations/optimization/rally.png =50x50)
-optimization|congress.png|![](../resources/operations/optimization/congress.png =50x50)
-multiregion|tricircle.png|![](../resources/operations/multiregion/tricircle.png =50x50)
-monitoring|telemetry.png|![](../resources/operations/monitoring/telemetry.png =50x50)
-monitoring|monasca.png|![](../resources/operations/monitoring/monasca.png =50x50)
-billing|cloudkitty.png|![](../resources/operations/billing/cloudkitty.png =50x50)
-packaging|loci.png|![](../resources/lifecyclemanagement/packaging/loci.png =50x50)
-packaging|rpm.png|![](../resources/lifecyclemanagement/packaging/rpm.png =50x50)
-packaging|puppet.png|![](../resources/lifecyclemanagement/packaging/puppet.png =50x50)
-deployment|helm.png|![](../resources/lifecyclemanagement/deployment/helm.png =50x50)
-deployment|chef.png|![](../resources/lifecyclemanagement/deployment/chef.png =50x50)
-deployment|kolla.png|![](../resources/lifecyclemanagement/deployment/kolla.png =50x50)
-deployment|charms.png|![](../resources/lifecyclemanagement/deployment/charms.png =50x50)
-deployment|tripleo.png|![](../resources/lifecyclemanagement/deployment/tripleo.png =50x50)
-deployment|ansible.png|![](../resources/lifecyclemanagement/deployment/ansible.png =50x50)
-containerservices|kuryr.png|![](../resources/adjacentenablers/containerservices/kuryr.png =50x50)
-nfv|tacker.png|![](../resources/adjacentenablers/nfv/tacker.png =50x50)
+openstack|openstack.png|<img src="../resources/resources/openstack/openstack.png" witdh="50px" />
+frontend|horizon.png|<img src="../resources/openstack/frontend/horizon.png" witdh="50px" />
+applicationlifecycle|solum.png|<img src="../resources/openstack/applicationlifecycle/solum.png" witdh="50px" />
+applicationlifecycle|masakari.png|<img src="../resources/openstack/applicationlifecycle/masakari.png" witdh="50px" />
+applicationlifecycle|murano.png|<img src="../resources/openstack/applicationlifecycle/murano.png" witdh="50px" />
+applicationlifecycle|freezer.png|<img src="../resources/openstack/applicationlifecycle/freezer.png" witdh="50px" />
+networking|designate.png|<img src="../resources/openstack/networking/designate.png" witdh="50px" />
+networking|octavia.png|<img src="../resources/openstack/networking/octavia.png" witdh="50px" />
+networking|neutron.png|<img src="../resources/openstack/networking/neutron.png" witdh="50px" />
+baremetal|ironic.png|<img src="../resources/openstack/baremetal/ironic.png" witdh="50px" />
+baremetal|cyborg.png|<img src="../resources/openstack/baremetal/cyborg.png" witdh="50px" />
+user|openstackclient.png|<img src="../resources/openstack/user/openstackclient.png" witdh="50px" />
+storage|manila.png|<img src="../resources/openstack/storage/manila.png" witdh="50px" />
+storage|swift.png|<img src="../resources/openstack/storage/swift.png" witdh="50px" />
+storage|cinder.png|<img src="../resources/openstack/storage/cinder.png" witdh="50px" />
+compute|zun.png|<img src="../resources/openstack/compute/zun.png" witdh="50px" />
+compute|qinling.png|<img src="../resources/openstack/compute/qinling.png" witdh="50px" />
+compute|nova.png|<img src="../resources/openstack/compute/nova.png" witdh="50px" />
+workloadprovisioning|magnum.png|<img src="../resources/openstack/workloadprovisioning/magnum.png" witdh="50px" />
+workloadprovisioning|trove.png|<img src="../resources/openstack/workloadprovisioning/trove.png" witdh="50px" />
+workloadprovisioning|sahara.png|<img src="../resources/openstack/workloadprovisioning/sahara.png" witdh="50px" />
+orchestration|mistral.png|<img src="../resources/openstack/orchestration/mistral.png" witdh="50px" />
+orchestration|blazar.png|<img src="../resources/openstack/orchestration/blazar.png" witdh="50px" />
+orchestration|zaqar.png|<img src="../resources/openstack/orchestration/zaqar.png" witdh="50px" />
+orchestration|heat.png|<img src="../resources/openstack/orchestration/heat.png" witdh="50px" />
+orchestration|senlin.png|<img src="../resources/openstack/orchestration/senlin.png" witdh="50px" />
+sharedservices|keystone.png|<img src="../resources/openstack/sharedservices/keystone.png" witdh="50px" />
+sharedservices|karbor.png|<img src="../resources/openstack/sharedservices/karbor.png" witdh="50px" />
+sharedservices|searchlight.png|<img src="../resources/openstack/sharedservices/searchlight.png" witdh="50px" />
+sharedservices|barbican.png|<img src="../resources/openstack/sharedservices/barbican.png" witdh="50px" />
+sharedservices|glance.png|<img src="../resources/openstack/sharedservices/glance.png" witdh="50px" />
+apiproxies|ec2api.png|<img src="../resources/openstack/apiproxies/ec2api.png" witdh="50px" />
+optimization|watcher.png|<img src="../resources/operations/optimization/watcher.png" witdh="50px" />
+optimization|vitrage.png|<img src="../resources/operations/optimization/vitrage.png" witdh="50px" />
+optimization|rally.png|<img src="../resources/operations/optimization/rally.png" witdh="50px" />
+optimization|congress.png|<img src="../resources/operations/optimization/congress.png" witdh="50px" />
+multiregion|tricircle.png|<img src="../resources/operations/multiregion/tricircle.png" witdh="50px" />
+monitoring|telemetry.png|<img src="../resources/operations/monitoring/telemetry.png" witdh="50px" />
+monitoring|monasca.png|<img src="../resources/operations/monitoring/monasca.png" witdh="50px" />
+billing|cloudkitty.png|<img src="../resources/operations/billing/cloudkitty.png" witdh="50px" />
+packaging|loci.png|<img src="../resources/lifecyclemanagement/packaging/loci.png" witdh="50px" />
+packaging|rpm.png|<img src="../resources/lifecyclemanagement/packaging/rpm.png" witdh="50px" />
+packaging|puppet.png|<img src="../resources/lifecyclemanagement/packaging/puppet.png" witdh="50px" />
+deployment|helm.png|<img src="../resources/lifecyclemanagement/deployment/helm.png" witdh="50px" />
+deployment|chef.png|<img src="../resources/lifecyclemanagement/deployment/chef.png" witdh="50px" />
+deployment|kolla.png|<img src="../resources/lifecyclemanagement/deployment/kolla.png" witdh="50px" />
+deployment|charms.png|<img src="../resources/lifecyclemanagement/deployment/charms.png" witdh="50px" />
+deployment|tripleo.png|<img src="../resources/lifecyclemanagement/deployment/tripleo.png" witdh="50px" />
+deployment|ansible.png|<img src="../resources/lifecyclemanagement/deployment/ansible.png" witdh="50px" />
+containerservices|kuryr.png|<img src="../resources/adjacentenablers/containerservices/kuryr.png" witdh="50px" />
+nfv|tacker.png|<img src="../resources/adjacentenablers/nfv/tacker.png" witdh="50px" />

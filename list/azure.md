@@ -2,195 +2,195 @@ azure
 
 Type | Name | Icon
 --|--|--
-database|elastic-database-pools.png|![](../resources/azure/database/elastic-database-pools.png =50x50)
-database|blob-storage.png|![](../resources/azure/database/blob-storage.png =50x50)
-database|sql-servers.png|![](../resources/azure/database/sql-servers.png =50x50)
-database|sql-managed-instances.png|![](../resources/azure/database/sql-managed-instances.png =50x50)
-database|data-lake.png|![](../resources/azure/database/data-lake.png =50x50)
-database|cache-for-redis.png|![](../resources/azure/database/cache-for-redis.png =50x50)
-database|managed-databases.png|![](../resources/azure/database/managed-databases.png =50x50)
-database|sql-datawarehouse.png|![](../resources/azure/database/sql-datawarehouse.png =50x50)
-database|elastic-job-agents.png|![](../resources/azure/database/elastic-job-agents.png =50x50)
-database|sql-databases.png|![](../resources/azure/database/sql-databases.png =50x50)
-database|database-for-postgresql-servers.png|![](../resources/azure/database/database-for-postgresql-servers.png =50x50)
-database|virtual-datacenter.png|![](../resources/azure/database/virtual-datacenter.png =50x50)
-database|cosmos-db.png|![](../resources/azure/database/cosmos-db.png =50x50)
-database|virtual-clusters.png|![](../resources/azure/database/virtual-clusters.png =50x50)
-database|sql-server-stretch-databases.png|![](../resources/azure/database/sql-server-stretch-databases.png =50x50)
-database|database-for-mysql-servers.png|![](../resources/azure/database/database-for-mysql-servers.png =50x50)
-database|database-for-mariadb-servers.png|![](../resources/azure/database/database-for-mariadb-servers.png =50x50)
-devops|devtest-labs.png|![](../resources/azure/devops/devtest-labs.png =50x50)
-devops|repos.png|![](../resources/azure/devops/repos.png =50x50)
-devops|boards.png|![](../resources/azure/devops/boards.png =50x50)
-devops|application-insights.png|![](../resources/azure/devops/application-insights.png =50x50)
-devops|test-plans.png|![](../resources/azure/devops/test-plans.png =50x50)
-devops|devops.png|![](../resources/azure/devops/devops.png =50x50)
-devops|artifacts.png|![](../resources/azure/devops/artifacts.png =50x50)
-devops|pipelines.png|![](../resources/azure/devops/pipelines.png =50x50)
-identity|conditional-access.png|![](../resources/azure/identity/conditional-access.png =50x50)
-identity|active-directory-connect-health.png|![](../resources/azure/identity/active-directory-connect-health.png =50x50)
-identity|managed-identities.png|![](../resources/azure/identity/managed-identities.png =50x50)
-identity|app-registrations.png|![](../resources/azure/identity/app-registrations.png =50x50)
-identity|active-directory.png|![](../resources/azure/identity/active-directory.png =50x50)
-identity|ad-b2c.png|![](../resources/azure/identity/ad-b2c.png =50x50)
-identity|ad-identity-protection.png|![](../resources/azure/identity/ad-identity-protection.png =50x50)
-identity|ad-privileged-identity-management.png|![](../resources/azure/identity/ad-privileged-identity-management.png =50x50)
-identity|identity-governance.png|![](../resources/azure/identity/identity-governance.png =50x50)
-identity|access-review.png|![](../resources/azure/identity/access-review.png =50x50)
-identity|information-protection.png|![](../resources/azure/identity/information-protection.png =50x50)
-identity|enterprise-applications.png|![](../resources/azure/identity/enterprise-applications.png =50x50)
-identity|ad-domain-services.png|![](../resources/azure/identity/ad-domain-services.png =50x50)
-security|security-center.png|![](../resources/azure/security/security-center.png =50x50)
-security|sentinel.png|![](../resources/azure/security/sentinel.png =50x50)
-security|key-vaults.png|![](../resources/azure/security/key-vaults.png =50x50)
-general|resourcegroups.png|![](../resources/azure/general/resourcegroups.png =50x50)
-general|developertools.png|![](../resources/azure/general/developertools.png =50x50)
-general|subscriptions.png|![](../resources/azure/general/subscriptions.png =50x50)
-general|support.png|![](../resources/azure/general/support.png =50x50)
-general|twousericon.png|![](../resources/azure/general/twousericon.png =50x50)
-general|templates.png|![](../resources/azure/general/templates.png =50x50)
-general|azurehome.png|![](../resources/azure/general/azurehome.png =50x50)
-general|userprivacy.png|![](../resources/azure/general/userprivacy.png =50x50)
-general|userhealthicon.png|![](../resources/azure/general/userhealthicon.png =50x50)
-general|recent.png|![](../resources/azure/general/recent.png =50x50)
-general|whatsnew.png|![](../resources/azure/general/whatsnew.png =50x50)
-general|tag.png|![](../resources/azure/general/tag.png =50x50)
-general|supportrequests.png|![](../resources/azure/general/supportrequests.png =50x50)
-general|userresource.png|![](../resources/azure/general/userresource.png =50x50)
-general|information.png|![](../resources/azure/general/information.png =50x50)
-general|allresources.png|![](../resources/azure/general/allresources.png =50x50)
-general|servicehealth.png|![](../resources/azure/general/servicehealth.png =50x50)
-general|quickstartcenter.png|![](../resources/azure/general/quickstartcenter.png =50x50)
-general|usericon.png|![](../resources/azure/general/usericon.png =50x50)
-general|tags.png|![](../resources/azure/general/tags.png =50x50)
-general|marketplace.png|![](../resources/azure/general/marketplace.png =50x50)
-general|managementgroups.png|![](../resources/azure/general/managementgroups.png =50x50)
-general|shareddashboard.png|![](../resources/azure/general/shareddashboard.png =50x50)
-general|reservations.png|![](../resources/azure/general/reservations.png =50x50)
-general|resource.png|![](../resources/azure/general/resource.png =50x50)
-general|helpsupport.png|![](../resources/azure/general/helpsupport.png =50x50)
-web|signalr.png|![](../resources/azure/web/signalr.png =50x50)
-web|media-services.png|![](../resources/azure/web/media-services.png =50x50)
-web|app-service-certificates.png|![](../resources/azure/web/app-service-certificates.png =50x50)
-web|app-service-environments.png|![](../resources/azure/web/app-service-environments.png =50x50)
-web|app-service-domains.png|![](../resources/azure/web/app-service-domains.png =50x50)
-web|api-connections.png|![](../resources/azure/web/api-connections.png =50x50)
-web|search.png|![](../resources/azure/web/search.png =50x50)
-web|app-services.png|![](../resources/azure/web/app-services.png =50x50)
-web|notification-hub-namespaces.png|![](../resources/azure/web/notification-hub-namespaces.png =50x50)
-web|app-service-plans.png|![](../resources/azure/web/app-service-plans.png =50x50)
-integration|event-grid-topics.png|![](../resources/azure/integration/event-grid-topics.png =50x50)
-integration|logic-apps-custom-connector.png|![](../resources/azure/integration/logic-apps-custom-connector.png =50x50)
-integration|integration-service-environments.png|![](../resources/azure/integration/integration-service-environments.png =50x50)
-integration|app-configuration.png|![](../resources/azure/integration/app-configuration.png =50x50)
-integration|event-grid-domains.png|![](../resources/azure/integration/event-grid-domains.png =50x50)
-integration|api-for-fhir.png|![](../resources/azure/integration/api-for-fhir.png =50x50)
-integration|data-catalog.png|![](../resources/azure/integration/data-catalog.png =50x50)
-integration|service-catalog-managed-application-definitions.png|![](../resources/azure/integration/service-catalog-managed-application-definitions.png =50x50)
-integration|logic-apps.png|![](../resources/azure/integration/logic-apps.png =50x50)
-integration|integration-accounts.png|![](../resources/azure/integration/integration-accounts.png =50x50)
-integration|software-as-a-service.png|![](../resources/azure/integration/software-as-a-service.png =50x50)
-integration|sendgrid-accounts.png|![](../resources/azure/integration/sendgrid-accounts.png =50x50)
-integration|api-management.png|![](../resources/azure/integration/api-management.png =50x50)
-integration|service-bus-relays.png|![](../resources/azure/integration/service-bus-relays.png =50x50)
-integration|event-grid-subscriptions.png|![](../resources/azure/integration/event-grid-subscriptions.png =50x50)
-integration|service-bus.png|![](../resources/azure/integration/service-bus.png =50x50)
-integration|storsimple-device-managers.png|![](../resources/azure/integration/storsimple-device-managers.png =50x50)
-network|route-filters.png|![](../resources/azure/network/route-filters.png =50x50)
-network|dns-zones.png|![](../resources/azure/network/dns-zones.png =50x50)
-network|application-security-groups.png|![](../resources/azure/network/application-security-groups.png =50x50)
-network|expressroute-circuits.png|![](../resources/azure/network/expressroute-circuits.png =50x50)
-network|traffic-manager-profiles.png|![](../resources/azure/network/traffic-manager-profiles.png =50x50)
-network|network-watcher.png|![](../resources/azure/network/network-watcher.png =50x50)
-network|public-ip-addresses.png|![](../resources/azure/network/public-ip-addresses.png =50x50)
-network|firewall.png|![](../resources/azure/network/firewall.png =50x50)
-network|on-premises-data-gateways.png|![](../resources/azure/network/on-premises-data-gateways.png =50x50)
-network|virtual-networks.png|![](../resources/azure/network/virtual-networks.png =50x50)
-network|route-tables.png|![](../resources/azure/network/route-tables.png =50x50)
-network|ddos-protection-plans.png|![](../resources/azure/network/ddos-protection-plans.png =50x50)
-network|connections.png|![](../resources/azure/network/connections.png =50x50)
-network|application-gateway.png|![](../resources/azure/network/application-gateway.png =50x50)
-network|dns-private-zones.png|![](../resources/azure/network/dns-private-zones.png =50x50)
-network|subnets.png|![](../resources/azure/network/subnets.png =50x50)
-network|cdn-profiles.png|![](../resources/azure/network/cdn-profiles.png =50x50)
-network|load-balancers.png|![](../resources/azure/network/load-balancers.png =50x50)
-network|front-doors.png|![](../resources/azure/network/front-doors.png =50x50)
-network|network-interfaces.png|![](../resources/azure/network/network-interfaces.png =50x50)
-network|virtual-network-classic.png|![](../resources/azure/network/virtual-network-classic.png =50x50)
-network|reserved-ip-addresses-classic.png|![](../resources/azure/network/reserved-ip-addresses-classic.png =50x50)
-network|virtual-wans.png|![](../resources/azure/network/virtual-wans.png =50x50)
-network|network-security-groups-classic.png|![](../resources/azure/network/network-security-groups-classic.png =50x50)
-network|virtual-network-gateways.png|![](../resources/azure/network/virtual-network-gateways.png =50x50)
-network|service-endpoint-policies.png|![](../resources/azure/network/service-endpoint-policies.png =50x50)
-network|local-network-gateways.png|![](../resources/azure/network/local-network-gateways.png =50x50)
-storage|blob-storage.png|![](../resources/azure/storage/blob-storage.png =50x50)
-storage|storage-accounts.png|![](../resources/azure/storage/storage-accounts.png =50x50)
-storage|table-storage.png|![](../resources/azure/storage/table-storage.png =50x50)
-storage|storage-sync-services.png|![](../resources/azure/storage/storage-sync-services.png =50x50)
-storage|data-box-edge---data-box-gateway.png|![](../resources/azure/storage/data-box-edge---data-box-gateway.png =50x50)
-storage|storage-accounts-classic.png|![](../resources/azure/storage/storage-accounts-classic.png =50x50)
-storage|archive-storage.png|![](../resources/azure/storage/archive-storage.png =50x50)
-storage|netapp-files.png|![](../resources/azure/storage/netapp-files.png =50x50)
-storage|data-box.png|![](../resources/azure/storage/data-box.png =50x50)
-storage|storage-explorer.png|![](../resources/azure/storage/storage-explorer.png =50x50)
-storage|data-lake-storage.png|![](../resources/azure/storage/data-lake-storage.png =50x50)
-storage|storsimple-data-managers.png|![](../resources/azure/storage/storsimple-data-managers.png =50x50)
-storage|azurefxtedgefiler.png|![](../resources/azure/storage/azurefxtedgefiler.png =50x50)
-storage|queues-storage.png|![](../resources/azure/storage/queues-storage.png =50x50)
-storage|general-storage.png|![](../resources/azure/storage/general-storage.png =50x50)
-storage|storsimple-device-managers.png|![](../resources/azure/storage/storsimple-device-managers.png =50x50)
-iot|iot-hub.png|![](../resources/azure/iot/iot-hub.png =50x50)
-iot|sphere.png|![](../resources/azure/iot/sphere.png =50x50)
-iot|time-series-insights-environments.png|![](../resources/azure/iot/time-series-insights-environments.png =50x50)
-iot|iot-central-applications.png|![](../resources/azure/iot/iot-central-applications.png =50x50)
-iot|time-series-insights-events-sources.png|![](../resources/azure/iot/time-series-insights-events-sources.png =50x50)
-iot|windows-10-iot-core-services.png|![](../resources/azure/iot/windows-10-iot-core-services.png =50x50)
-iot|digital-twins.png|![](../resources/azure/iot/digital-twins.png =50x50)
-iot|iot-hub-security.png|![](../resources/azure/iot/iot-hub-security.png =50x50)
-iot|device-provisioning-services.png|![](../resources/azure/iot/device-provisioning-services.png =50x50)
-iot|maps.png|![](../resources/azure/iot/maps.png =50x50)
-compute|vm-windows.png|![](../resources/azure/compute/vm-windows.png =50x50)
-compute|vm.png|![](../resources/azure/compute/vm.png =50x50)
-compute|mesh-applications.png|![](../resources/azure/compute/mesh-applications.png =50x50)
-compute|batch-accounts.png|![](../resources/azure/compute/batch-accounts.png =50x50)
-compute|cloudsimple-virtual-machines.png|![](../resources/azure/compute/cloudsimple-virtual-machines.png =50x50)
-compute|disk-snapshots.png|![](../resources/azure/compute/disk-snapshots.png =50x50)
-compute|citrix-virtual-desktops-essentials.png|![](../resources/azure/compute/citrix-virtual-desktops-essentials.png =50x50)
-compute|service-fabric-clusters.png|![](../resources/azure/compute/service-fabric-clusters.png =50x50)
-compute|kubernetes-services.png|![](../resources/azure/compute/kubernetes-services.png =50x50)
-compute|sap-hana-on-azure.png|![](../resources/azure/compute/sap-hana-on-azure.png =50x50)
-compute|function-apps.png|![](../resources/azure/compute/function-apps.png =50x50)
-compute|container-instances.png|![](../resources/azure/compute/container-instances.png =50x50)
-compute|container-registries.png|![](../resources/azure/compute/container-registries.png =50x50)
-compute|vm-classic.png|![](../resources/azure/compute/vm-classic.png =50x50)
-compute|cloud-services-classic.png|![](../resources/azure/compute/cloud-services-classic.png =50x50)
-compute|disks.png|![](../resources/azure/compute/disks.png =50x50)
-compute|availability-sets.png|![](../resources/azure/compute/availability-sets.png =50x50)
-compute|vm-images.png|![](../resources/azure/compute/vm-images.png =50x50)
-compute|vm-linux.png|![](../resources/azure/compute/vm-linux.png =50x50)
-compute|cloud-services.png|![](../resources/azure/compute/cloud-services.png =50x50)
-ml|cognitive-services.png|![](../resources/azure/ml/cognitive-services.png =50x50)
-ml|machine-learning-studio-web-service-plans.png|![](../resources/azure/ml/machine-learning-studio-web-service-plans.png =50x50)
-ml|machine-learning-studio-web-services.png|![](../resources/azure/ml/machine-learning-studio-web-services.png =50x50)
-ml|genomics-accounts.png|![](../resources/azure/ml/genomics-accounts.png =50x50)
-ml|machine-learning-studio-workspaces.png|![](../resources/azure/ml/machine-learning-studio-workspaces.png =50x50)
-ml|bot-services.png|![](../resources/azure/ml/bot-services.png =50x50)
-ml|machine-learning-service-workspaces.png|![](../resources/azure/ml/machine-learning-service-workspaces.png =50x50)
-ml|batch-ai.png|![](../resources/azure/ml/batch-ai.png =50x50)
-mobile|app-service---mobile.png|![](../resources/azure/mobile/app-service---mobile.png =50x50)
-mobile|mobile-engagement.png|![](../resources/azure/mobile/mobile-engagement.png =50x50)
-mobile|notification-hubs.png|![](../resources/azure/mobile/notification-hubs.png =50x50)
-migration|migration-projects.png|![](../resources/azure/migration/migration-projects.png =50x50)
-migration|database-migration-services.png|![](../resources/azure/migration/database-migration-services.png =50x50)
-migration|recovery-services-vaults.png|![](../resources/azure/migration/recovery-services-vaults.png =50x50)
-analytics|data-explorer-clusters.png|![](../resources/azure/analytics/data-explorer-clusters.png =50x50)
-analytics|stream-analytics-jobs.png|![](../resources/azure/analytics/stream-analytics-jobs.png =50x50)
-analytics|databricks.png|![](../resources/azure/analytics/databricks.png =50x50)
-analytics|data-lake-store-gen1.png|![](../resources/azure/analytics/data-lake-store-gen1.png =50x50)
-analytics|hdinsightclusters.png|![](../resources/azure/analytics/hdinsightclusters.png =50x50)
-analytics|analysis-services.png|![](../resources/azure/analytics/analysis-services.png =50x50)
-analytics|data-lake-analytics.png|![](../resources/azure/analytics/data-lake-analytics.png =50x50)
-analytics|event-hub-clusters.png|![](../resources/azure/analytics/event-hub-clusters.png =50x50)
-analytics|log-analytics-workspaces.png|![](../resources/azure/analytics/log-analytics-workspaces.png =50x50)
-analytics|event-hubs.png|![](../resources/azure/analytics/event-hubs.png =50x50)
-analytics|data-factories.png|![](../resources/azure/analytics/data-factories.png =50x50)
+database|elastic-database-pools.png|<img src="../resources/azure/database/elastic-database-pools.png" witdh="50px" />
+database|blob-storage.png|<img src="../resources/azure/database/blob-storage.png" witdh="50px" />
+database|sql-servers.png|<img src="../resources/azure/database/sql-servers.png" witdh="50px" />
+database|sql-managed-instances.png|<img src="../resources/azure/database/sql-managed-instances.png" witdh="50px" />
+database|data-lake.png|<img src="../resources/azure/database/data-lake.png" witdh="50px" />
+database|cache-for-redis.png|<img src="../resources/azure/database/cache-for-redis.png" witdh="50px" />
+database|managed-databases.png|<img src="../resources/azure/database/managed-databases.png" witdh="50px" />
+database|sql-datawarehouse.png|<img src="../resources/azure/database/sql-datawarehouse.png" witdh="50px" />
+database|elastic-job-agents.png|<img src="../resources/azure/database/elastic-job-agents.png" witdh="50px" />
+database|sql-databases.png|<img src="../resources/azure/database/sql-databases.png" witdh="50px" />
+database|database-for-postgresql-servers.png|<img src="../resources/azure/database/database-for-postgresql-servers.png" witdh="50px" />
+database|virtual-datacenter.png|<img src="../resources/azure/database/virtual-datacenter.png" witdh="50px" />
+database|cosmos-db.png|<img src="../resources/azure/database/cosmos-db.png" witdh="50px" />
+database|virtual-clusters.png|<img src="../resources/azure/database/virtual-clusters.png" witdh="50px" />
+database|sql-server-stretch-databases.png|<img src="../resources/azure/database/sql-server-stretch-databases.png" witdh="50px" />
+database|database-for-mysql-servers.png|<img src="../resources/azure/database/database-for-mysql-servers.png" witdh="50px" />
+database|database-for-mariadb-servers.png|<img src="../resources/azure/database/database-for-mariadb-servers.png" witdh="50px" />
+devops|devtest-labs.png|<img src="../resources/azure/devops/devtest-labs.png" witdh="50px" />
+devops|repos.png|<img src="../resources/azure/devops/repos.png" witdh="50px" />
+devops|boards.png|<img src="../resources/azure/devops/boards.png" witdh="50px" />
+devops|application-insights.png|<img src="../resources/azure/devops/application-insights.png" witdh="50px" />
+devops|test-plans.png|<img src="../resources/azure/devops/test-plans.png" witdh="50px" />
+devops|devops.png|<img src="../resources/azure/devops/devops.png" witdh="50px" />
+devops|artifacts.png|<img src="../resources/azure/devops/artifacts.png" witdh="50px" />
+devops|pipelines.png|<img src="../resources/azure/devops/pipelines.png" witdh="50px" />
+identity|conditional-access.png|<img src="../resources/azure/identity/conditional-access.png" witdh="50px" />
+identity|active-directory-connect-health.png|<img src="../resources/azure/identity/active-directory-connect-health.png" witdh="50px" />
+identity|managed-identities.png|<img src="../resources/azure/identity/managed-identities.png" witdh="50px" />
+identity|app-registrations.png|<img src="../resources/azure/identity/app-registrations.png" witdh="50px" />
+identity|active-directory.png|<img src="../resources/azure/identity/active-directory.png" witdh="50px" />
+identity|ad-b2c.png|<img src="../resources/azure/identity/ad-b2c.png" witdh="50px" />
+identity|ad-identity-protection.png|<img src="../resources/azure/identity/ad-identity-protection.png" witdh="50px" />
+identity|ad-privileged-identity-management.png|<img src="../resources/azure/identity/ad-privileged-identity-management.png" witdh="50px" />
+identity|identity-governance.png|<img src="../resources/azure/identity/identity-governance.png" witdh="50px" />
+identity|access-review.png|<img src="../resources/azure/identity/access-review.png" witdh="50px" />
+identity|information-protection.png|<img src="../resources/azure/identity/information-protection.png" witdh="50px" />
+identity|enterprise-applications.png|<img src="../resources/azure/identity/enterprise-applications.png" witdh="50px" />
+identity|ad-domain-services.png|<img src="../resources/azure/identity/ad-domain-services.png" witdh="50px" />
+security|security-center.png|<img src="../resources/azure/security/security-center.png" witdh="50px" />
+security|sentinel.png|<img src="../resources/azure/security/sentinel.png" witdh="50px" />
+security|key-vaults.png|<img src="../resources/azure/security/key-vaults.png" witdh="50px" />
+general|resourcegroups.png|<img src="../resources/azure/general/resourcegroups.png" witdh="50px" />
+general|developertools.png|<img src="../resources/azure/general/developertools.png" witdh="50px" />
+general|subscriptions.png|<img src="../resources/azure/general/subscriptions.png" witdh="50px" />
+general|support.png|<img src="../resources/azure/general/support.png" witdh="50px" />
+general|twousericon.png|<img src="../resources/azure/general/twousericon.png" witdh="50px" />
+general|templates.png|<img src="../resources/azure/general/templates.png" witdh="50px" />
+general|azurehome.png|<img src="../resources/azure/general/azurehome.png" witdh="50px" />
+general|userprivacy.png|<img src="../resources/azure/general/userprivacy.png" witdh="50px" />
+general|userhealthicon.png|<img src="../resources/azure/general/userhealthicon.png" witdh="50px" />
+general|recent.png|<img src="../resources/azure/general/recent.png" witdh="50px" />
+general|whatsnew.png|<img src="../resources/azure/general/whatsnew.png" witdh="50px" />
+general|tag.png|<img src="../resources/azure/general/tag.png" witdh="50px" />
+general|supportrequests.png|<img src="../resources/azure/general/supportrequests.png" witdh="50px" />
+general|userresource.png|<img src="../resources/azure/general/userresource.png" witdh="50px" />
+general|information.png|<img src="../resources/azure/general/information.png" witdh="50px" />
+general|allresources.png|<img src="../resources/azure/general/allresources.png" witdh="50px" />
+general|servicehealth.png|<img src="../resources/azure/general/servicehealth.png" witdh="50px" />
+general|quickstartcenter.png|<img src="../resources/azure/general/quickstartcenter.png" witdh="50px" />
+general|usericon.png|<img src="../resources/azure/general/usericon.png" witdh="50px" />
+general|tags.png|<img src="../resources/azure/general/tags.png" witdh="50px" />
+general|marketplace.png|<img src="../resources/azure/general/marketplace.png" witdh="50px" />
+general|managementgroups.png|<img src="../resources/azure/general/managementgroups.png" witdh="50px" />
+general|shareddashboard.png|<img src="../resources/azure/general/shareddashboard.png" witdh="50px" />
+general|reservations.png|<img src="../resources/azure/general/reservations.png" witdh="50px" />
+general|resource.png|<img src="../resources/azure/general/resource.png" witdh="50px" />
+general|helpsupport.png|<img src="../resources/azure/general/helpsupport.png" witdh="50px" />
+web|signalr.png|<img src="../resources/azure/web/signalr.png" witdh="50px" />
+web|media-services.png|<img src="../resources/azure/web/media-services.png" witdh="50px" />
+web|app-service-certificates.png|<img src="../resources/azure/web/app-service-certificates.png" witdh="50px" />
+web|app-service-environments.png|<img src="../resources/azure/web/app-service-environments.png" witdh="50px" />
+web|app-service-domains.png|<img src="../resources/azure/web/app-service-domains.png" witdh="50px" />
+web|api-connections.png|<img src="../resources/azure/web/api-connections.png" witdh="50px" />
+web|search.png|<img src="../resources/azure/web/search.png" witdh="50px" />
+web|app-services.png|<img src="../resources/azure/web/app-services.png" witdh="50px" />
+web|notification-hub-namespaces.png|<img src="../resources/azure/web/notification-hub-namespaces.png" witdh="50px" />
+web|app-service-plans.png|<img src="../resources/azure/web/app-service-plans.png" witdh="50px" />
+integration|event-grid-topics.png|<img src="../resources/azure/integration/event-grid-topics.png" witdh="50px" />
+integration|logic-apps-custom-connector.png|<img src="../resources/azure/integration/logic-apps-custom-connector.png" witdh="50px" />
+integration|integration-service-environments.png|<img src="../resources/azure/integration/integration-service-environments.png" witdh="50px" />
+integration|app-configuration.png|<img src="../resources/azure/integration/app-configuration.png" witdh="50px" />
+integration|event-grid-domains.png|<img src="../resources/azure/integration/event-grid-domains.png" witdh="50px" />
+integration|api-for-fhir.png|<img src="../resources/azure/integration/api-for-fhir.png" witdh="50px" />
+integration|data-catalog.png|<img src="../resources/azure/integration/data-catalog.png" witdh="50px" />
+integration|service-catalog-managed-application-definitions.png|<img src="../resources/azure/integration/service-catalog-managed-application-definitions.png" witdh="50px" />
+integration|logic-apps.png|<img src="../resources/azure/integration/logic-apps.png" witdh="50px" />
+integration|integration-accounts.png|<img src="../resources/azure/integration/integration-accounts.png" witdh="50px" />
+integration|software-as-a-service.png|<img src="../resources/azure/integration/software-as-a-service.png" witdh="50px" />
+integration|sendgrid-accounts.png|<img src="../resources/azure/integration/sendgrid-accounts.png" witdh="50px" />
+integration|api-management.png|<img src="../resources/azure/integration/api-management.png" witdh="50px" />
+integration|service-bus-relays.png|<img src="../resources/azure/integration/service-bus-relays.png" witdh="50px" />
+integration|event-grid-subscriptions.png|<img src="../resources/azure/integration/event-grid-subscriptions.png" witdh="50px" />
+integration|service-bus.png|<img src="../resources/azure/integration/service-bus.png" witdh="50px" />
+integration|storsimple-device-managers.png|<img src="../resources/azure/integration/storsimple-device-managers.png" witdh="50px" />
+network|route-filters.png|<img src="../resources/azure/network/route-filters.png" witdh="50px" />
+network|dns-zones.png|<img src="../resources/azure/network/dns-zones.png" witdh="50px" />
+network|application-security-groups.png|<img src="../resources/azure/network/application-security-groups.png" witdh="50px" />
+network|expressroute-circuits.png|<img src="../resources/azure/network/expressroute-circuits.png" witdh="50px" />
+network|traffic-manager-profiles.png|<img src="../resources/azure/network/traffic-manager-profiles.png" witdh="50px" />
+network|network-watcher.png|<img src="../resources/azure/network/network-watcher.png" witdh="50px" />
+network|public-ip-addresses.png|<img src="../resources/azure/network/public-ip-addresses.png" witdh="50px" />
+network|firewall.png|<img src="../resources/azure/network/firewall.png" witdh="50px" />
+network|on-premises-data-gateways.png|<img src="../resources/azure/network/on-premises-data-gateways.png" witdh="50px" />
+network|virtual-networks.png|<img src="../resources/azure/network/virtual-networks.png" witdh="50px" />
+network|route-tables.png|<img src="../resources/azure/network/route-tables.png" witdh="50px" />
+network|ddos-protection-plans.png|<img src="../resources/azure/network/ddos-protection-plans.png" witdh="50px" />
+network|connections.png|<img src="../resources/azure/network/connections.png" witdh="50px" />
+network|application-gateway.png|<img src="../resources/azure/network/application-gateway.png" witdh="50px" />
+network|dns-private-zones.png|<img src="../resources/azure/network/dns-private-zones.png" witdh="50px" />
+network|subnets.png|<img src="../resources/azure/network/subnets.png" witdh="50px" />
+network|cdn-profiles.png|<img src="../resources/azure/network/cdn-profiles.png" witdh="50px" />
+network|load-balancers.png|<img src="../resources/azure/network/load-balancers.png" witdh="50px" />
+network|front-doors.png|<img src="../resources/azure/network/front-doors.png" witdh="50px" />
+network|network-interfaces.png|<img src="../resources/azure/network/network-interfaces.png" witdh="50px" />
+network|virtual-network-classic.png|<img src="../resources/azure/network/virtual-network-classic.png" witdh="50px" />
+network|reserved-ip-addresses-classic.png|<img src="../resources/azure/network/reserved-ip-addresses-classic.png" witdh="50px" />
+network|virtual-wans.png|<img src="../resources/azure/network/virtual-wans.png" witdh="50px" />
+network|network-security-groups-classic.png|<img src="../resources/azure/network/network-security-groups-classic.png" witdh="50px" />
+network|virtual-network-gateways.png|<img src="../resources/azure/network/virtual-network-gateways.png" witdh="50px" />
+network|service-endpoint-policies.png|<img src="../resources/azure/network/service-endpoint-policies.png" witdh="50px" />
+network|local-network-gateways.png|<img src="../resources/azure/network/local-network-gateways.png" witdh="50px" />
+storage|blob-storage.png|<img src="../resources/azure/storage/blob-storage.png" witdh="50px" />
+storage|storage-accounts.png|<img src="../resources/azure/storage/storage-accounts.png" witdh="50px" />
+storage|table-storage.png|<img src="../resources/azure/storage/table-storage.png" witdh="50px" />
+storage|storage-sync-services.png|<img src="../resources/azure/storage/storage-sync-services.png" witdh="50px" />
+storage|data-box-edge---data-box-gateway.png|<img src="../resources/azure/storage/data-box-edge---data-box-gateway.png" witdh="50px" />
+storage|storage-accounts-classic.png|<img src="../resources/azure/storage/storage-accounts-classic.png" witdh="50px" />
+storage|archive-storage.png|<img src="../resources/azure/storage/archive-storage.png" witdh="50px" />
+storage|netapp-files.png|<img src="../resources/azure/storage/netapp-files.png" witdh="50px" />
+storage|data-box.png|<img src="../resources/azure/storage/data-box.png" witdh="50px" />
+storage|storage-explorer.png|<img src="../resources/azure/storage/storage-explorer.png" witdh="50px" />
+storage|data-lake-storage.png|<img src="../resources/azure/storage/data-lake-storage.png" witdh="50px" />
+storage|storsimple-data-managers.png|<img src="../resources/azure/storage/storsimple-data-managers.png" witdh="50px" />
+storage|azurefxtedgefiler.png|<img src="../resources/azure/storage/azurefxtedgefiler.png" witdh="50px" />
+storage|queues-storage.png|<img src="../resources/azure/storage/queues-storage.png" witdh="50px" />
+storage|general-storage.png|<img src="../resources/azure/storage/general-storage.png" witdh="50px" />
+storage|storsimple-device-managers.png|<img src="../resources/azure/storage/storsimple-device-managers.png" witdh="50px" />
+iot|iot-hub.png|<img src="../resources/azure/iot/iot-hub.png" witdh="50px" />
+iot|sphere.png|<img src="../resources/azure/iot/sphere.png" witdh="50px" />
+iot|time-series-insights-environments.png|<img src="../resources/azure/iot/time-series-insights-environments.png" witdh="50px" />
+iot|iot-central-applications.png|<img src="../resources/azure/iot/iot-central-applications.png" witdh="50px" />
+iot|time-series-insights-events-sources.png|<img src="../resources/azure/iot/time-series-insights-events-sources.png" witdh="50px" />
+iot|windows-10-iot-core-services.png|<img src="../resources/azure/iot/windows-10-iot-core-services.png" witdh="50px" />
+iot|digital-twins.png|<img src="../resources/azure/iot/digital-twins.png" witdh="50px" />
+iot|iot-hub-security.png|<img src="../resources/azure/iot/iot-hub-security.png" witdh="50px" />
+iot|device-provisioning-services.png|<img src="../resources/azure/iot/device-provisioning-services.png" witdh="50px" />
+iot|maps.png|<img src="../resources/azure/iot/maps.png" witdh="50px" />
+compute|vm-windows.png|<img src="../resources/azure/compute/vm-windows.png" witdh="50px" />
+compute|vm.png|<img src="../resources/azure/compute/vm.png" witdh="50px" />
+compute|mesh-applications.png|<img src="../resources/azure/compute/mesh-applications.png" witdh="50px" />
+compute|batch-accounts.png|<img src="../resources/azure/compute/batch-accounts.png" witdh="50px" />
+compute|cloudsimple-virtual-machines.png|<img src="../resources/azure/compute/cloudsimple-virtual-machines.png" witdh="50px" />
+compute|disk-snapshots.png|<img src="../resources/azure/compute/disk-snapshots.png" witdh="50px" />
+compute|citrix-virtual-desktops-essentials.png|<img src="../resources/azure/compute/citrix-virtual-desktops-essentials.png" witdh="50px" />
+compute|service-fabric-clusters.png|<img src="../resources/azure/compute/service-fabric-clusters.png" witdh="50px" />
+compute|kubernetes-services.png|<img src="../resources/azure/compute/kubernetes-services.png" witdh="50px" />
+compute|sap-hana-on-azure.png|<img src="../resources/azure/compute/sap-hana-on-azure.png" witdh="50px" />
+compute|function-apps.png|<img src="../resources/azure/compute/function-apps.png" witdh="50px" />
+compute|container-instances.png|<img src="../resources/azure/compute/container-instances.png" witdh="50px" />
+compute|container-registries.png|<img src="../resources/azure/compute/container-registries.png" witdh="50px" />
+compute|vm-classic.png|<img src="../resources/azure/compute/vm-classic.png" witdh="50px" />
+compute|cloud-services-classic.png|<img src="../resources/azure/compute/cloud-services-classic.png" witdh="50px" />
+compute|disks.png|<img src="../resources/azure/compute/disks.png" witdh="50px" />
+compute|availability-sets.png|<img src="../resources/azure/compute/availability-sets.png" witdh="50px" />
+compute|vm-images.png|<img src="../resources/azure/compute/vm-images.png" witdh="50px" />
+compute|vm-linux.png|<img src="../resources/azure/compute/vm-linux.png" witdh="50px" />
+compute|cloud-services.png|<img src="../resources/azure/compute/cloud-services.png" witdh="50px" />
+ml|cognitive-services.png|<img src="../resources/azure/ml/cognitive-services.png" witdh="50px" />
+ml|machine-learning-studio-web-service-plans.png|<img src="../resources/azure/ml/machine-learning-studio-web-service-plans.png" witdh="50px" />
+ml|machine-learning-studio-web-services.png|<img src="../resources/azure/ml/machine-learning-studio-web-services.png" witdh="50px" />
+ml|genomics-accounts.png|<img src="../resources/azure/ml/genomics-accounts.png" witdh="50px" />
+ml|machine-learning-studio-workspaces.png|<img src="../resources/azure/ml/machine-learning-studio-workspaces.png" witdh="50px" />
+ml|bot-services.png|<img src="../resources/azure/ml/bot-services.png" witdh="50px" />
+ml|machine-learning-service-workspaces.png|<img src="../resources/azure/ml/machine-learning-service-workspaces.png" witdh="50px" />
+ml|batch-ai.png|<img src="../resources/azure/ml/batch-ai.png" witdh="50px" />
+mobile|app-service---mobile.png|<img src="../resources/azure/mobile/app-service---mobile.png" witdh="50px" />
+mobile|mobile-engagement.png|<img src="../resources/azure/mobile/mobile-engagement.png" witdh="50px" />
+mobile|notification-hubs.png|<img src="../resources/azure/mobile/notification-hubs.png" witdh="50px" />
+migration|migration-projects.png|<img src="../resources/azure/migration/migration-projects.png" witdh="50px" />
+migration|database-migration-services.png|<img src="../resources/azure/migration/database-migration-services.png" witdh="50px" />
+migration|recovery-services-vaults.png|<img src="../resources/azure/migration/recovery-services-vaults.png" witdh="50px" />
+analytics|data-explorer-clusters.png|<img src="../resources/azure/analytics/data-explorer-clusters.png" witdh="50px" />
+analytics|stream-analytics-jobs.png|<img src="../resources/azure/analytics/stream-analytics-jobs.png" witdh="50px" />
+analytics|databricks.png|<img src="../resources/azure/analytics/databricks.png" witdh="50px" />
+analytics|data-lake-store-gen1.png|<img src="../resources/azure/analytics/data-lake-store-gen1.png" witdh="50px" />
+analytics|hdinsightclusters.png|<img src="../resources/azure/analytics/hdinsightclusters.png" witdh="50px" />
+analytics|analysis-services.png|<img src="../resources/azure/analytics/analysis-services.png" witdh="50px" />
+analytics|data-lake-analytics.png|<img src="../resources/azure/analytics/data-lake-analytics.png" witdh="50px" />
+analytics|event-hub-clusters.png|<img src="../resources/azure/analytics/event-hub-clusters.png" witdh="50px" />
+analytics|log-analytics-workspaces.png|<img src="../resources/azure/analytics/log-analytics-workspaces.png" witdh="50px" />
+analytics|event-hubs.png|<img src="../resources/azure/analytics/event-hubs.png" witdh="50px" />
+analytics|data-factories.png|<img src="../resources/azure/analytics/data-factories.png" witdh="50px" />

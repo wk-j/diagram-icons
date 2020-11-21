@@ -2,92 +2,92 @@ gcp
 
 Type | Name | Icon
 --|--|--
-database|memorystore.png|![](../resources/gcp/database/memorystore.png =50x50)
-database|firestore.png|![](../resources/gcp/database/firestore.png =50x50)
-database|datastore.png|![](../resources/gcp/database/datastore.png =50x50)
-database|sql.png|![](../resources/gcp/database/sql.png =50x50)
-database|bigtable.png|![](../resources/gcp/database/bigtable.png =50x50)
-database|spanner.png|![](../resources/gcp/database/spanner.png =50x50)
-security|security-command-center.png|![](../resources/gcp/security/security-command-center.png =50x50)
-security|iap.png|![](../resources/gcp/security/iap.png =50x50)
-security|iam.png|![](../resources/gcp/security/iam.png =50x50)
-security|security-scanner.png|![](../resources/gcp/security/security-scanner.png =50x50)
-security|key-management-service.png|![](../resources/gcp/security/key-management-service.png =50x50)
-security|resource-manager.png|![](../resources/gcp/security/resource-manager.png =50x50)
-network|vpn.png|![](../resources/gcp/network/vpn.png =50x50)
-network|dns.png|![](../resources/gcp/network/dns.png =50x50)
-network|nat.png|![](../resources/gcp/network/nat.png =50x50)
-network|external-ip-addresses.png|![](../resources/gcp/network/external-ip-addresses.png =50x50)
-network|dedicated-interconnect.png|![](../resources/gcp/network/dedicated-interconnect.png =50x50)
-network|standard-network-tier.png|![](../resources/gcp/network/standard-network-tier.png =50x50)
-network|armor.png|![](../resources/gcp/network/armor.png =50x50)
-network|virtual-private-cloud.png|![](../resources/gcp/network/virtual-private-cloud.png =50x50)
-network|routes.png|![](../resources/gcp/network/routes.png =50x50)
-network|router.png|![](../resources/gcp/network/router.png =50x50)
-network|partner-interconnect.png|![](../resources/gcp/network/partner-interconnect.png =50x50)
-network|cdn.png|![](../resources/gcp/network/cdn.png =50x50)
-network|firewall-rules.png|![](../resources/gcp/network/firewall-rules.png =50x50)
-network|load-balancing.png|![](../resources/gcp/network/load-balancing.png =50x50)
-network|premium-network-tier.png|![](../resources/gcp/network/premium-network-tier.png =50x50)
-network|network.png|![](../resources/gcp/network/network.png =50x50)
-network|traffic-director.png|![](../resources/gcp/network/traffic-director.png =50x50)
-storage|persistent-disk.png|![](../resources/gcp/storage/persistent-disk.png =50x50)
-storage|filestore.png|![](../resources/gcp/storage/filestore.png =50x50)
-storage|storage.png|![](../resources/gcp/storage/storage.png =50x50)
-iot|iot-core.png|![](../resources/gcp/iot/iot-core.png =50x50)
-compute|functions.png|![](../resources/gcp/compute/functions.png =50x50)
-compute|kubernetes-engine.png|![](../resources/gcp/compute/kubernetes-engine.png =50x50)
-compute|gpu.png|![](../resources/gcp/compute/gpu.png =50x50)
-compute|compute-engine.png|![](../resources/gcp/compute/compute-engine.png =50x50)
-compute|app-engine.png|![](../resources/gcp/compute/app-engine.png =50x50)
-compute|run.png|![](../resources/gcp/compute/run.png =50x50)
-compute|gke-on-prem.png|![](../resources/gcp/compute/gke-on-prem.png =50x50)
-compute|container-optimized-os.png|![](../resources/gcp/compute/container-optimized-os.png =50x50)
-devtools|tools-for-powershell.png|![](../resources/gcp/devtools/tools-for-powershell.png =50x50)
-devtools|container-registry.png|![](../resources/gcp/devtools/container-registry.png =50x50)
-devtools|code.png|![](../resources/gcp/devtools/code.png =50x50)
-devtools|maven-app-engine-plugin.png|![](../resources/gcp/devtools/maven-app-engine-plugin.png =50x50)
-devtools|tools-for-visual-studio.png|![](../resources/gcp/devtools/tools-for-visual-studio.png =50x50)
-devtools|build.png|![](../resources/gcp/devtools/build.png =50x50)
-devtools|source-repositories.png|![](../resources/gcp/devtools/source-repositories.png =50x50)
-devtools|tasks.png|![](../resources/gcp/devtools/tasks.png =50x50)
-devtools|sdk.png|![](../resources/gcp/devtools/sdk.png =50x50)
-devtools|test-lab.png|![](../resources/gcp/devtools/test-lab.png =50x50)
-devtools|code-for-intellij.png|![](../resources/gcp/devtools/code-for-intellij.png =50x50)
-devtools|tools-for-eclipse.png|![](../resources/gcp/devtools/tools-for-eclipse.png =50x50)
-devtools|gradle-app-engine-plugin.png|![](../resources/gcp/devtools/gradle-app-engine-plugin.png =50x50)
-devtools|scheduler.png|![](../resources/gcp/devtools/scheduler.png =50x50)
-devtools|ide-plugins.png|![](../resources/gcp/devtools/ide-plugins.png =50x50)
-ml|dialog-flow-enterprise-edition.png|![](../resources/gcp/ml/dialog-flow-enterprise-edition.png =50x50)
-ml|automl-tables.png|![](../resources/gcp/ml/automl-tables.png =50x50)
-ml|translation-api.png|![](../resources/gcp/ml/translation-api.png =50x50)
-ml|vision-api.png|![](../resources/gcp/ml/vision-api.png =50x50)
-ml|natural-language-api.png|![](../resources/gcp/ml/natural-language-api.png =50x50)
-ml|recommendations-ai.png|![](../resources/gcp/ml/recommendations-ai.png =50x50)
-ml|ai-platform-data-labeling-service.png|![](../resources/gcp/ml/ai-platform-data-labeling-service.png =50x50)
-ml|automl-vision.png|![](../resources/gcp/ml/automl-vision.png =50x50)
-ml|jobs-api.png|![](../resources/gcp/ml/jobs-api.png =50x50)
-ml|video-intelligence-api.png|![](../resources/gcp/ml/video-intelligence-api.png =50x50)
-ml|automl.png|![](../resources/gcp/ml/automl.png =50x50)
-ml|inference-api.png|![](../resources/gcp/ml/inference-api.png =50x50)
-ml|automl-translation.png|![](../resources/gcp/ml/automl-translation.png =50x50)
-ml|automl-natural-language.png|![](../resources/gcp/ml/automl-natural-language.png =50x50)
-ml|automl-video-intelligence.png|![](../resources/gcp/ml/automl-video-intelligence.png =50x50)
-ml|advanced-solutions-lab.png|![](../resources/gcp/ml/advanced-solutions-lab.png =50x50)
-ml|text-to-speech.png|![](../resources/gcp/ml/text-to-speech.png =50x50)
-ml|speech-to-text.png|![](../resources/gcp/ml/speech-to-text.png =50x50)
-ml|ai-hub.png|![](../resources/gcp/ml/ai-hub.png =50x50)
-ml|tpu.png|![](../resources/gcp/ml/tpu.png =50x50)
-ml|ai-platform.png|![](../resources/gcp/ml/ai-platform.png =50x50)
-api|endpoints.png|![](../resources/gcp/api/endpoints.png =50x50)
-migration|transfer-appliance.png|![](../resources/gcp/migration/transfer-appliance.png =50x50)
-analytics|dataflow.png|![](../resources/gcp/analytics/dataflow.png =50x50)
-analytics|dataprep.png|![](../resources/gcp/analytics/dataprep.png =50x50)
-analytics|dataproc.png|![](../resources/gcp/analytics/dataproc.png =50x50)
-analytics|data-catalog.png|![](../resources/gcp/analytics/data-catalog.png =50x50)
-analytics|composer.png|![](../resources/gcp/analytics/composer.png =50x50)
-analytics|datalab.png|![](../resources/gcp/analytics/datalab.png =50x50)
-analytics|bigquery.png|![](../resources/gcp/analytics/bigquery.png =50x50)
-analytics|genomics.png|![](../resources/gcp/analytics/genomics.png =50x50)
-analytics|data-fusion.png|![](../resources/gcp/analytics/data-fusion.png =50x50)
-analytics|pubsub.png|![](../resources/gcp/analytics/pubsub.png =50x50)
+database|memorystore.png|<img src="../resources/gcp/database/memorystore.png" witdh="50px" />
+database|firestore.png|<img src="../resources/gcp/database/firestore.png" witdh="50px" />
+database|datastore.png|<img src="../resources/gcp/database/datastore.png" witdh="50px" />
+database|sql.png|<img src="../resources/gcp/database/sql.png" witdh="50px" />
+database|bigtable.png|<img src="../resources/gcp/database/bigtable.png" witdh="50px" />
+database|spanner.png|<img src="../resources/gcp/database/spanner.png" witdh="50px" />
+security|security-command-center.png|<img src="../resources/gcp/security/security-command-center.png" witdh="50px" />
+security|iap.png|<img src="../resources/gcp/security/iap.png" witdh="50px" />
+security|iam.png|<img src="../resources/gcp/security/iam.png" witdh="50px" />
+security|security-scanner.png|<img src="../resources/gcp/security/security-scanner.png" witdh="50px" />
+security|key-management-service.png|<img src="../resources/gcp/security/key-management-service.png" witdh="50px" />
+security|resource-manager.png|<img src="../resources/gcp/security/resource-manager.png" witdh="50px" />
+network|vpn.png|<img src="../resources/gcp/network/vpn.png" witdh="50px" />
+network|dns.png|<img src="../resources/gcp/network/dns.png" witdh="50px" />
+network|nat.png|<img src="../resources/gcp/network/nat.png" witdh="50px" />
+network|external-ip-addresses.png|<img src="../resources/gcp/network/external-ip-addresses.png" witdh="50px" />
+network|dedicated-interconnect.png|<img src="../resources/gcp/network/dedicated-interconnect.png" witdh="50px" />
+network|standard-network-tier.png|<img src="../resources/gcp/network/standard-network-tier.png" witdh="50px" />
+network|armor.png|<img src="../resources/gcp/network/armor.png" witdh="50px" />
+network|virtual-private-cloud.png|<img src="../resources/gcp/network/virtual-private-cloud.png" witdh="50px" />
+network|routes.png|<img src="../resources/gcp/network/routes.png" witdh="50px" />
+network|router.png|<img src="../resources/gcp/network/router.png" witdh="50px" />
+network|partner-interconnect.png|<img src="../resources/gcp/network/partner-interconnect.png" witdh="50px" />
+network|cdn.png|<img src="../resources/gcp/network/cdn.png" witdh="50px" />
+network|firewall-rules.png|<img src="../resources/gcp/network/firewall-rules.png" witdh="50px" />
+network|load-balancing.png|<img src="../resources/gcp/network/load-balancing.png" witdh="50px" />
+network|premium-network-tier.png|<img src="../resources/gcp/network/premium-network-tier.png" witdh="50px" />
+network|network.png|<img src="../resources/gcp/network/network.png" witdh="50px" />
+network|traffic-director.png|<img src="../resources/gcp/network/traffic-director.png" witdh="50px" />
+storage|persistent-disk.png|<img src="../resources/gcp/storage/persistent-disk.png" witdh="50px" />
+storage|filestore.png|<img src="../resources/gcp/storage/filestore.png" witdh="50px" />
+storage|storage.png|<img src="../resources/gcp/storage/storage.png" witdh="50px" />
+iot|iot-core.png|<img src="../resources/gcp/iot/iot-core.png" witdh="50px" />
+compute|functions.png|<img src="../resources/gcp/compute/functions.png" witdh="50px" />
+compute|kubernetes-engine.png|<img src="../resources/gcp/compute/kubernetes-engine.png" witdh="50px" />
+compute|gpu.png|<img src="../resources/gcp/compute/gpu.png" witdh="50px" />
+compute|compute-engine.png|<img src="../resources/gcp/compute/compute-engine.png" witdh="50px" />
+compute|app-engine.png|<img src="../resources/gcp/compute/app-engine.png" witdh="50px" />
+compute|run.png|<img src="../resources/gcp/compute/run.png" witdh="50px" />
+compute|gke-on-prem.png|<img src="../resources/gcp/compute/gke-on-prem.png" witdh="50px" />
+compute|container-optimized-os.png|<img src="../resources/gcp/compute/container-optimized-os.png" witdh="50px" />
+devtools|tools-for-powershell.png|<img src="../resources/gcp/devtools/tools-for-powershell.png" witdh="50px" />
+devtools|container-registry.png|<img src="../resources/gcp/devtools/container-registry.png" witdh="50px" />
+devtools|code.png|<img src="../resources/gcp/devtools/code.png" witdh="50px" />
+devtools|maven-app-engine-plugin.png|<img src="../resources/gcp/devtools/maven-app-engine-plugin.png" witdh="50px" />
+devtools|tools-for-visual-studio.png|<img src="../resources/gcp/devtools/tools-for-visual-studio.png" witdh="50px" />
+devtools|build.png|<img src="../resources/gcp/devtools/build.png" witdh="50px" />
+devtools|source-repositories.png|<img src="../resources/gcp/devtools/source-repositories.png" witdh="50px" />
+devtools|tasks.png|<img src="../resources/gcp/devtools/tasks.png" witdh="50px" />
+devtools|sdk.png|<img src="../resources/gcp/devtools/sdk.png" witdh="50px" />
+devtools|test-lab.png|<img src="../resources/gcp/devtools/test-lab.png" witdh="50px" />
+devtools|code-for-intellij.png|<img src="../resources/gcp/devtools/code-for-intellij.png" witdh="50px" />
+devtools|tools-for-eclipse.png|<img src="../resources/gcp/devtools/tools-for-eclipse.png" witdh="50px" />
+devtools|gradle-app-engine-plugin.png|<img src="../resources/gcp/devtools/gradle-app-engine-plugin.png" witdh="50px" />
+devtools|scheduler.png|<img src="../resources/gcp/devtools/scheduler.png" witdh="50px" />
+devtools|ide-plugins.png|<img src="../resources/gcp/devtools/ide-plugins.png" witdh="50px" />
+ml|dialog-flow-enterprise-edition.png|<img src="../resources/gcp/ml/dialog-flow-enterprise-edition.png" witdh="50px" />
+ml|automl-tables.png|<img src="../resources/gcp/ml/automl-tables.png" witdh="50px" />
+ml|translation-api.png|<img src="../resources/gcp/ml/translation-api.png" witdh="50px" />
+ml|vision-api.png|<img src="../resources/gcp/ml/vision-api.png" witdh="50px" />
+ml|natural-language-api.png|<img src="../resources/gcp/ml/natural-language-api.png" witdh="50px" />
+ml|recommendations-ai.png|<img src="../resources/gcp/ml/recommendations-ai.png" witdh="50px" />
+ml|ai-platform-data-labeling-service.png|<img src="../resources/gcp/ml/ai-platform-data-labeling-service.png" witdh="50px" />
+ml|automl-vision.png|<img src="../resources/gcp/ml/automl-vision.png" witdh="50px" />
+ml|jobs-api.png|<img src="../resources/gcp/ml/jobs-api.png" witdh="50px" />
+ml|video-intelligence-api.png|<img src="../resources/gcp/ml/video-intelligence-api.png" witdh="50px" />
+ml|automl.png|<img src="../resources/gcp/ml/automl.png" witdh="50px" />
+ml|inference-api.png|<img src="../resources/gcp/ml/inference-api.png" witdh="50px" />
+ml|automl-translation.png|<img src="../resources/gcp/ml/automl-translation.png" witdh="50px" />
+ml|automl-natural-language.png|<img src="../resources/gcp/ml/automl-natural-language.png" witdh="50px" />
+ml|automl-video-intelligence.png|<img src="../resources/gcp/ml/automl-video-intelligence.png" witdh="50px" />
+ml|advanced-solutions-lab.png|<img src="../resources/gcp/ml/advanced-solutions-lab.png" witdh="50px" />
+ml|text-to-speech.png|<img src="../resources/gcp/ml/text-to-speech.png" witdh="50px" />
+ml|speech-to-text.png|<img src="../resources/gcp/ml/speech-to-text.png" witdh="50px" />
+ml|ai-hub.png|<img src="../resources/gcp/ml/ai-hub.png" witdh="50px" />
+ml|tpu.png|<img src="../resources/gcp/ml/tpu.png" witdh="50px" />
+ml|ai-platform.png|<img src="../resources/gcp/ml/ai-platform.png" witdh="50px" />
+api|endpoints.png|<img src="../resources/gcp/api/endpoints.png" witdh="50px" />
+migration|transfer-appliance.png|<img src="../resources/gcp/migration/transfer-appliance.png" witdh="50px" />
+analytics|dataflow.png|<img src="../resources/gcp/analytics/dataflow.png" witdh="50px" />
+analytics|dataprep.png|<img src="../resources/gcp/analytics/dataprep.png" witdh="50px" />
+analytics|dataproc.png|<img src="../resources/gcp/analytics/dataproc.png" witdh="50px" />
+analytics|data-catalog.png|<img src="../resources/gcp/analytics/data-catalog.png" witdh="50px" />
+analytics|composer.png|<img src="../resources/gcp/analytics/composer.png" witdh="50px" />
+analytics|datalab.png|<img src="../resources/gcp/analytics/datalab.png" witdh="50px" />
+analytics|bigquery.png|<img src="../resources/gcp/analytics/bigquery.png" witdh="50px" />
+analytics|genomics.png|<img src="../resources/gcp/analytics/genomics.png" witdh="50px" />
+analytics|data-fusion.png|<img src="../resources/gcp/analytics/data-fusion.png" witdh="50px" />
+analytics|pubsub.png|<img src="../resources/gcp/analytics/pubsub.png" witdh="50px" />

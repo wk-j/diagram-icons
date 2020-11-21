@@ -2,143 +2,143 @@ oci
 
 Type | Name | Icon
 --|--|--
-database|dms-white.png|![](../resources/oci/database/dms-white.png =50x50)
-database|database-service-white.png|![](../resources/oci/database/database-service-white.png =50x50)
-database|dataflow-apache-white.png|![](../resources/oci/database/dataflow-apache-white.png =50x50)
-database|science.png|![](../resources/oci/database/science.png =50x50)
-database|bigdata-service-white.png|![](../resources/oci/database/bigdata-service-white.png =50x50)
-database|dcat-white.png|![](../resources/oci/database/dcat-white.png =50x50)
-database|dis.png|![](../resources/oci/database/dis.png =50x50)
-database|stream-white.png|![](../resources/oci/database/stream-white.png =50x50)
-database|autonomous-white.png|![](../resources/oci/database/autonomous-white.png =50x50)
-database|autonomous.png|![](../resources/oci/database/autonomous.png =50x50)
-database|stream.png|![](../resources/oci/database/stream.png =50x50)
-database|dataflow-apache.png|![](../resources/oci/database/dataflow-apache.png =50x50)
-database|science-white.png|![](../resources/oci/database/science-white.png =50x50)
-database|dis-white.png|![](../resources/oci/database/dis-white.png =50x50)
-database|bigdata-service.png|![](../resources/oci/database/bigdata-service.png =50x50)
-database|database-service.png|![](../resources/oci/database/database-service.png =50x50)
-database|dcat.png|![](../resources/oci/database/dcat.png =50x50)
-database|dms.png|![](../resources/oci/database/dms.png =50x50)
-devops|resource-mgmt.png|![](../resources/oci/devops/resource-mgmt.png =50x50)
-devops|api-service.png|![](../resources/oci/devops/api-service.png =50x50)
-devops|api-service-white.png|![](../resources/oci/devops/api-service-white.png =50x50)
-devops|api-gateway-white.png|![](../resources/oci/devops/api-gateway-white.png =50x50)
-devops|api-gateway.png|![](../resources/oci/devops/api-gateway.png =50x50)
-devops|resource-mgmt-white.png|![](../resources/oci/devops/resource-mgmt-white.png =50x50)
-connectivity|fast-connect.png|![](../resources/oci/connectivity/fast-connect.png =50x50)
-connectivity|vpn.png|![](../resources/oci/connectivity/vpn.png =50x50)
-connectivity|backbone.png|![](../resources/oci/connectivity/backbone.png =50x50)
-connectivity|disconnected-regions-white.png|![](../resources/oci/connectivity/disconnected-regions-white.png =50x50)
-connectivity|dns.png|![](../resources/oci/connectivity/dns.png =50x50)
-connectivity|nat-gateway.png|![](../resources/oci/connectivity/nat-gateway.png =50x50)
-connectivity|customer-premise-white.png|![](../resources/oci/connectivity/customer-premise-white.png =50x50)
-connectivity|disconnected-regions.png|![](../resources/oci/connectivity/disconnected-regions.png =50x50)
-connectivity|customer-datacenter.png|![](../resources/oci/connectivity/customer-datacenter.png =50x50)
-connectivity|cdn-white.png|![](../resources/oci/connectivity/cdn-white.png =50x50)
-connectivity|vpn-white.png|![](../resources/oci/connectivity/vpn-white.png =50x50)
-connectivity|customer-datacntr-white.png|![](../resources/oci/connectivity/customer-datacntr-white.png =50x50)
-connectivity|backbone-white.png|![](../resources/oci/connectivity/backbone-white.png =50x50)
-connectivity|customer-premise.png|![](../resources/oci/connectivity/customer-premise.png =50x50)
-connectivity|cdn.png|![](../resources/oci/connectivity/cdn.png =50x50)
-connectivity|dns-white.png|![](../resources/oci/connectivity/dns-white.png =50x50)
-connectivity|fast-connect-white.png|![](../resources/oci/connectivity/fast-connect-white.png =50x50)
-connectivity|nat-gateway-white.png|![](../resources/oci/connectivity/nat-gateway-white.png =50x50)
-security|waf.png|![](../resources/oci/security/waf.png =50x50)
-security|encryption.png|![](../resources/oci/security/encryption.png =50x50)
-security|id-access-white.png|![](../resources/oci/security/id-access-white.png =50x50)
-security|cloud-guard.png|![](../resources/oci/security/cloud-guard.png =50x50)
-security|ddos.png|![](../resources/oci/security/ddos.png =50x50)
-security|max-security-zone-white.png|![](../resources/oci/security/max-security-zone-white.png =50x50)
-security|ddos-white.png|![](../resources/oci/security/ddos-white.png =50x50)
-security|key-management.png|![](../resources/oci/security/key-management.png =50x50)
-security|vault.png|![](../resources/oci/security/vault.png =50x50)
-security|vault-white.png|![](../resources/oci/security/vault-white.png =50x50)
-security|waf-white.png|![](../resources/oci/security/waf-white.png =50x50)
-security|key-management-white.png|![](../resources/oci/security/key-management-white.png =50x50)
-security|id-access.png|![](../resources/oci/security/id-access.png =50x50)
-security|max-security-zone.png|![](../resources/oci/security/max-security-zone.png =50x50)
-security|cloud-guard-white.png|![](../resources/oci/security/cloud-guard-white.png =50x50)
-security|encryption-white.png|![](../resources/oci/security/encryption-white.png =50x50)
-network|service-gateway.png|![](../resources/oci/network/service-gateway.png =50x50)
-network|route-table-white.png|![](../resources/oci/network/route-table-white.png =50x50)
-network|load-balancer-white.png|![](../resources/oci/network/load-balancer-white.png =50x50)
-network|firewall-white.png|![](../resources/oci/network/firewall-white.png =50x50)
-network|vcn.png|![](../resources/oci/network/vcn.png =50x50)
-network|firewall.png|![](../resources/oci/network/firewall.png =50x50)
-network|internet-gateway.png|![](../resources/oci/network/internet-gateway.png =50x50)
-network|load-balancer.png|![](../resources/oci/network/load-balancer.png =50x50)
-network|service-gateway-white.png|![](../resources/oci/network/service-gateway-white.png =50x50)
-network|security-lists.png|![](../resources/oci/network/security-lists.png =50x50)
-network|drg.png|![](../resources/oci/network/drg.png =50x50)
-network|security-lists-white.png|![](../resources/oci/network/security-lists-white.png =50x50)
-network|vcn-white.png|![](../resources/oci/network/vcn-white.png =50x50)
-network|internet-gateway-white.png|![](../resources/oci/network/internet-gateway-white.png =50x50)
-network|route-table.png|![](../resources/oci/network/route-table.png =50x50)
-network|drg-white.png|![](../resources/oci/network/drg-white.png =50x50)
-storage|block-storage-clone-white.png|![](../resources/oci/storage/block-storage-clone-white.png =50x50)
-storage|backup-restore.png|![](../resources/oci/storage/backup-restore.png =50x50)
-storage|buckets.png|![](../resources/oci/storage/buckets.png =50x50)
-storage|storage-gateway-white.png|![](../resources/oci/storage/storage-gateway-white.png =50x50)
-storage|block-storage-clone.png|![](../resources/oci/storage/block-storage-clone.png =50x50)
-storage|object-storage.png|![](../resources/oci/storage/object-storage.png =50x50)
-storage|elastic-performance-white.png|![](../resources/oci/storage/elastic-performance-white.png =50x50)
-storage|storage-gateway.png|![](../resources/oci/storage/storage-gateway.png =50x50)
-storage|file-storage.png|![](../resources/oci/storage/file-storage.png =50x50)
-storage|object-storage-white.png|![](../resources/oci/storage/object-storage-white.png =50x50)
-storage|elastic-performance.png|![](../resources/oci/storage/elastic-performance.png =50x50)
-storage|buckets-white.png|![](../resources/oci/storage/buckets-white.png =50x50)
-storage|block-storage-white.png|![](../resources/oci/storage/block-storage-white.png =50x50)
-storage|backup-restore-white.png|![](../resources/oci/storage/backup-restore-white.png =50x50)
-storage|data-transfer-white.png|![](../resources/oci/storage/data-transfer-white.png =50x50)
-storage|file-storage-white.png|![](../resources/oci/storage/file-storage-white.png =50x50)
-storage|data-transfer.png|![](../resources/oci/storage/data-transfer.png =50x50)
-storage|block-storage.png|![](../resources/oci/storage/block-storage.png =50x50)
-compute|functions.png|![](../resources/oci/compute/functions.png =50x50)
-compute|autoscale-white.png|![](../resources/oci/compute/autoscale-white.png =50x50)
-compute|oke.png|![](../resources/oci/compute/oke.png =50x50)
-compute|container.png|![](../resources/oci/compute/container.png =50x50)
-compute|bm-white.png|![](../resources/oci/compute/bm-white.png =50x50)
-compute|vm.png|![](../resources/oci/compute/vm.png =50x50)
-compute|bm.png|![](../resources/oci/compute/bm.png =50x50)
-compute|functions-white.png|![](../resources/oci/compute/functions-white.png =50x50)
-compute|instance-pools.png|![](../resources/oci/compute/instance-pools.png =50x50)
-compute|ocir-white.png|![](../resources/oci/compute/ocir-white.png =50x50)
-compute|instance-pools-white.png|![](../resources/oci/compute/instance-pools-white.png =50x50)
-compute|vm-white.png|![](../resources/oci/compute/vm-white.png =50x50)
-compute|ocir.png|![](../resources/oci/compute/ocir.png =50x50)
-compute|oke-white.png|![](../resources/oci/compute/oke-white.png =50x50)
-compute|container-white.png|![](../resources/oci/compute/container-white.png =50x50)
-compute|autoscale.png|![](../resources/oci/compute/autoscale.png =50x50)
-governance|audit-white.png|![](../resources/oci/governance/audit-white.png =50x50)
-governance|policies.png|![](../resources/oci/governance/policies.png =50x50)
-governance|tagging.png|![](../resources/oci/governance/tagging.png =50x50)
-governance|tagging-white.png|![](../resources/oci/governance/tagging-white.png =50x50)
-governance|audit.png|![](../resources/oci/governance/audit.png =50x50)
-governance|compartments-white.png|![](../resources/oci/governance/compartments-white.png =50x50)
-governance|groups-white.png|![](../resources/oci/governance/groups-white.png =50x50)
-governance|compartments.png|![](../resources/oci/governance/compartments.png =50x50)
-governance|ocid-white.png|![](../resources/oci/governance/ocid-white.png =50x50)
-governance|policies-white.png|![](../resources/oci/governance/policies-white.png =50x50)
-governance|ocid.png|![](../resources/oci/governance/ocid.png =50x50)
-governance|logging-white.png|![](../resources/oci/governance/logging-white.png =50x50)
-governance|groups.png|![](../resources/oci/governance/groups.png =50x50)
-governance|logging.png|![](../resources/oci/governance/logging.png =50x50)
-monitoring|email.png|![](../resources/oci/monitoring/email.png =50x50)
-monitoring|telemetry.png|![](../resources/oci/monitoring/telemetry.png =50x50)
-monitoring|email-white.png|![](../resources/oci/monitoring/email-white.png =50x50)
-monitoring|search-white.png|![](../resources/oci/monitoring/search-white.png =50x50)
-monitoring|health-check.png|![](../resources/oci/monitoring/health-check.png =50x50)
-monitoring|alarm-white.png|![](../resources/oci/monitoring/alarm-white.png =50x50)
-monitoring|telemetry-white.png|![](../resources/oci/monitoring/telemetry-white.png =50x50)
-monitoring|workflow-white.png|![](../resources/oci/monitoring/workflow-white.png =50x50)
-monitoring|events.png|![](../resources/oci/monitoring/events.png =50x50)
-monitoring|queue.png|![](../resources/oci/monitoring/queue.png =50x50)
-monitoring|health-check-white.png|![](../resources/oci/monitoring/health-check-white.png =50x50)
-monitoring|search.png|![](../resources/oci/monitoring/search.png =50x50)
-monitoring|alarm.png|![](../resources/oci/monitoring/alarm.png =50x50)
-monitoring|queue-white.png|![](../resources/oci/monitoring/queue-white.png =50x50)
-monitoring|notifications.png|![](../resources/oci/monitoring/notifications.png =50x50)
-monitoring|events-white.png|![](../resources/oci/monitoring/events-white.png =50x50)
-monitoring|workflow.png|![](../resources/oci/monitoring/workflow.png =50x50)
-monitoring|notifications-white.png|![](../resources/oci/monitoring/notifications-white.png =50x50)
+database|dms-white.png|<img src="../resources/oci/database/dms-white.png" witdh="50px" />
+database|database-service-white.png|<img src="../resources/oci/database/database-service-white.png" witdh="50px" />
+database|dataflow-apache-white.png|<img src="../resources/oci/database/dataflow-apache-white.png" witdh="50px" />
+database|science.png|<img src="../resources/oci/database/science.png" witdh="50px" />
+database|bigdata-service-white.png|<img src="../resources/oci/database/bigdata-service-white.png" witdh="50px" />
+database|dcat-white.png|<img src="../resources/oci/database/dcat-white.png" witdh="50px" />
+database|dis.png|<img src="../resources/oci/database/dis.png" witdh="50px" />
+database|stream-white.png|<img src="../resources/oci/database/stream-white.png" witdh="50px" />
+database|autonomous-white.png|<img src="../resources/oci/database/autonomous-white.png" witdh="50px" />
+database|autonomous.png|<img src="../resources/oci/database/autonomous.png" witdh="50px" />
+database|stream.png|<img src="../resources/oci/database/stream.png" witdh="50px" />
+database|dataflow-apache.png|<img src="../resources/oci/database/dataflow-apache.png" witdh="50px" />
+database|science-white.png|<img src="../resources/oci/database/science-white.png" witdh="50px" />
+database|dis-white.png|<img src="../resources/oci/database/dis-white.png" witdh="50px" />
+database|bigdata-service.png|<img src="../resources/oci/database/bigdata-service.png" witdh="50px" />
+database|database-service.png|<img src="../resources/oci/database/database-service.png" witdh="50px" />
+database|dcat.png|<img src="../resources/oci/database/dcat.png" witdh="50px" />
+database|dms.png|<img src="../resources/oci/database/dms.png" witdh="50px" />
+devops|resource-mgmt.png|<img src="../resources/oci/devops/resource-mgmt.png" witdh="50px" />
+devops|api-service.png|<img src="../resources/oci/devops/api-service.png" witdh="50px" />
+devops|api-service-white.png|<img src="../resources/oci/devops/api-service-white.png" witdh="50px" />
+devops|api-gateway-white.png|<img src="../resources/oci/devops/api-gateway-white.png" witdh="50px" />
+devops|api-gateway.png|<img src="../resources/oci/devops/api-gateway.png" witdh="50px" />
+devops|resource-mgmt-white.png|<img src="../resources/oci/devops/resource-mgmt-white.png" witdh="50px" />
+connectivity|fast-connect.png|<img src="../resources/oci/connectivity/fast-connect.png" witdh="50px" />
+connectivity|vpn.png|<img src="../resources/oci/connectivity/vpn.png" witdh="50px" />
+connectivity|backbone.png|<img src="../resources/oci/connectivity/backbone.png" witdh="50px" />
+connectivity|disconnected-regions-white.png|<img src="../resources/oci/connectivity/disconnected-regions-white.png" witdh="50px" />
+connectivity|dns.png|<img src="../resources/oci/connectivity/dns.png" witdh="50px" />
+connectivity|nat-gateway.png|<img src="../resources/oci/connectivity/nat-gateway.png" witdh="50px" />
+connectivity|customer-premise-white.png|<img src="../resources/oci/connectivity/customer-premise-white.png" witdh="50px" />
+connectivity|disconnected-regions.png|<img src="../resources/oci/connectivity/disconnected-regions.png" witdh="50px" />
+connectivity|customer-datacenter.png|<img src="../resources/oci/connectivity/customer-datacenter.png" witdh="50px" />
+connectivity|cdn-white.png|<img src="../resources/oci/connectivity/cdn-white.png" witdh="50px" />
+connectivity|vpn-white.png|<img src="../resources/oci/connectivity/vpn-white.png" witdh="50px" />
+connectivity|customer-datacntr-white.png|<img src="../resources/oci/connectivity/customer-datacntr-white.png" witdh="50px" />
+connectivity|backbone-white.png|<img src="../resources/oci/connectivity/backbone-white.png" witdh="50px" />
+connectivity|customer-premise.png|<img src="../resources/oci/connectivity/customer-premise.png" witdh="50px" />
+connectivity|cdn.png|<img src="../resources/oci/connectivity/cdn.png" witdh="50px" />
+connectivity|dns-white.png|<img src="../resources/oci/connectivity/dns-white.png" witdh="50px" />
+connectivity|fast-connect-white.png|<img src="../resources/oci/connectivity/fast-connect-white.png" witdh="50px" />
+connectivity|nat-gateway-white.png|<img src="../resources/oci/connectivity/nat-gateway-white.png" witdh="50px" />
+security|waf.png|<img src="../resources/oci/security/waf.png" witdh="50px" />
+security|encryption.png|<img src="../resources/oci/security/encryption.png" witdh="50px" />
+security|id-access-white.png|<img src="../resources/oci/security/id-access-white.png" witdh="50px" />
+security|cloud-guard.png|<img src="../resources/oci/security/cloud-guard.png" witdh="50px" />
+security|ddos.png|<img src="../resources/oci/security/ddos.png" witdh="50px" />
+security|max-security-zone-white.png|<img src="../resources/oci/security/max-security-zone-white.png" witdh="50px" />
+security|ddos-white.png|<img src="../resources/oci/security/ddos-white.png" witdh="50px" />
+security|key-management.png|<img src="../resources/oci/security/key-management.png" witdh="50px" />
+security|vault.png|<img src="../resources/oci/security/vault.png" witdh="50px" />
+security|vault-white.png|<img src="../resources/oci/security/vault-white.png" witdh="50px" />
+security|waf-white.png|<img src="../resources/oci/security/waf-white.png" witdh="50px" />
+security|key-management-white.png|<img src="../resources/oci/security/key-management-white.png" witdh="50px" />
+security|id-access.png|<img src="../resources/oci/security/id-access.png" witdh="50px" />
+security|max-security-zone.png|<img src="../resources/oci/security/max-security-zone.png" witdh="50px" />
+security|cloud-guard-white.png|<img src="../resources/oci/security/cloud-guard-white.png" witdh="50px" />
+security|encryption-white.png|<img src="../resources/oci/security/encryption-white.png" witdh="50px" />
+network|service-gateway.png|<img src="../resources/oci/network/service-gateway.png" witdh="50px" />
+network|route-table-white.png|<img src="../resources/oci/network/route-table-white.png" witdh="50px" />
+network|load-balancer-white.png|<img src="../resources/oci/network/load-balancer-white.png" witdh="50px" />
+network|firewall-white.png|<img src="../resources/oci/network/firewall-white.png" witdh="50px" />
+network|vcn.png|<img src="../resources/oci/network/vcn.png" witdh="50px" />
+network|firewall.png|<img src="../resources/oci/network/firewall.png" witdh="50px" />
+network|internet-gateway.png|<img src="../resources/oci/network/internet-gateway.png" witdh="50px" />
+network|load-balancer.png|<img src="../resources/oci/network/load-balancer.png" witdh="50px" />
+network|service-gateway-white.png|<img src="../resources/oci/network/service-gateway-white.png" witdh="50px" />
+network|security-lists.png|<img src="../resources/oci/network/security-lists.png" witdh="50px" />
+network|drg.png|<img src="../resources/oci/network/drg.png" witdh="50px" />
+network|security-lists-white.png|<img src="../resources/oci/network/security-lists-white.png" witdh="50px" />
+network|vcn-white.png|<img src="../resources/oci/network/vcn-white.png" witdh="50px" />
+network|internet-gateway-white.png|<img src="../resources/oci/network/internet-gateway-white.png" witdh="50px" />
+network|route-table.png|<img src="../resources/oci/network/route-table.png" witdh="50px" />
+network|drg-white.png|<img src="../resources/oci/network/drg-white.png" witdh="50px" />
+storage|block-storage-clone-white.png|<img src="../resources/oci/storage/block-storage-clone-white.png" witdh="50px" />
+storage|backup-restore.png|<img src="../resources/oci/storage/backup-restore.png" witdh="50px" />
+storage|buckets.png|<img src="../resources/oci/storage/buckets.png" witdh="50px" />
+storage|storage-gateway-white.png|<img src="../resources/oci/storage/storage-gateway-white.png" witdh="50px" />
+storage|block-storage-clone.png|<img src="../resources/oci/storage/block-storage-clone.png" witdh="50px" />
+storage|object-storage.png|<img src="../resources/oci/storage/object-storage.png" witdh="50px" />
+storage|elastic-performance-white.png|<img src="../resources/oci/storage/elastic-performance-white.png" witdh="50px" />
+storage|storage-gateway.png|<img src="../resources/oci/storage/storage-gateway.png" witdh="50px" />
+storage|file-storage.png|<img src="../resources/oci/storage/file-storage.png" witdh="50px" />
+storage|object-storage-white.png|<img src="../resources/oci/storage/object-storage-white.png" witdh="50px" />
+storage|elastic-performance.png|<img src="../resources/oci/storage/elastic-performance.png" witdh="50px" />
+storage|buckets-white.png|<img src="../resources/oci/storage/buckets-white.png" witdh="50px" />
+storage|block-storage-white.png|<img src="../resources/oci/storage/block-storage-white.png" witdh="50px" />
+storage|backup-restore-white.png|<img src="../resources/oci/storage/backup-restore-white.png" witdh="50px" />
+storage|data-transfer-white.png|<img src="../resources/oci/storage/data-transfer-white.png" witdh="50px" />
+storage|file-storage-white.png|<img src="../resources/oci/storage/file-storage-white.png" witdh="50px" />
+storage|data-transfer.png|<img src="../resources/oci/storage/data-transfer.png" witdh="50px" />
+storage|block-storage.png|<img src="../resources/oci/storage/block-storage.png" witdh="50px" />
+compute|functions.png|<img src="../resources/oci/compute/functions.png" witdh="50px" />
+compute|autoscale-white.png|<img src="../resources/oci/compute/autoscale-white.png" witdh="50px" />
+compute|oke.png|<img src="../resources/oci/compute/oke.png" witdh="50px" />
+compute|container.png|<img src="../resources/oci/compute/container.png" witdh="50px" />
+compute|bm-white.png|<img src="../resources/oci/compute/bm-white.png" witdh="50px" />
+compute|vm.png|<img src="../resources/oci/compute/vm.png" witdh="50px" />
+compute|bm.png|<img src="../resources/oci/compute/bm.png" witdh="50px" />
+compute|functions-white.png|<img src="../resources/oci/compute/functions-white.png" witdh="50px" />
+compute|instance-pools.png|<img src="../resources/oci/compute/instance-pools.png" witdh="50px" />
+compute|ocir-white.png|<img src="../resources/oci/compute/ocir-white.png" witdh="50px" />
+compute|instance-pools-white.png|<img src="../resources/oci/compute/instance-pools-white.png" witdh="50px" />
+compute|vm-white.png|<img src="../resources/oci/compute/vm-white.png" witdh="50px" />
+compute|ocir.png|<img src="../resources/oci/compute/ocir.png" witdh="50px" />
+compute|oke-white.png|<img src="../resources/oci/compute/oke-white.png" witdh="50px" />
+compute|container-white.png|<img src="../resources/oci/compute/container-white.png" witdh="50px" />
+compute|autoscale.png|<img src="../resources/oci/compute/autoscale.png" witdh="50px" />
+governance|audit-white.png|<img src="../resources/oci/governance/audit-white.png" witdh="50px" />
+governance|policies.png|<img src="../resources/oci/governance/policies.png" witdh="50px" />
+governance|tagging.png|<img src="../resources/oci/governance/tagging.png" witdh="50px" />
+governance|tagging-white.png|<img src="../resources/oci/governance/tagging-white.png" witdh="50px" />
+governance|audit.png|<img src="../resources/oci/governance/audit.png" witdh="50px" />
+governance|compartments-white.png|<img src="../resources/oci/governance/compartments-white.png" witdh="50px" />
+governance|groups-white.png|<img src="../resources/oci/governance/groups-white.png" witdh="50px" />
+governance|compartments.png|<img src="../resources/oci/governance/compartments.png" witdh="50px" />
+governance|ocid-white.png|<img src="../resources/oci/governance/ocid-white.png" witdh="50px" />
+governance|policies-white.png|<img src="../resources/oci/governance/policies-white.png" witdh="50px" />
+governance|ocid.png|<img src="../resources/oci/governance/ocid.png" witdh="50px" />
+governance|logging-white.png|<img src="../resources/oci/governance/logging-white.png" witdh="50px" />
+governance|groups.png|<img src="../resources/oci/governance/groups.png" witdh="50px" />
+governance|logging.png|<img src="../resources/oci/governance/logging.png" witdh="50px" />
+monitoring|email.png|<img src="../resources/oci/monitoring/email.png" witdh="50px" />
+monitoring|telemetry.png|<img src="../resources/oci/monitoring/telemetry.png" witdh="50px" />
+monitoring|email-white.png|<img src="../resources/oci/monitoring/email-white.png" witdh="50px" />
+monitoring|search-white.png|<img src="../resources/oci/monitoring/search-white.png" witdh="50px" />
+monitoring|health-check.png|<img src="../resources/oci/monitoring/health-check.png" witdh="50px" />
+monitoring|alarm-white.png|<img src="../resources/oci/monitoring/alarm-white.png" witdh="50px" />
+monitoring|telemetry-white.png|<img src="../resources/oci/monitoring/telemetry-white.png" witdh="50px" />
+monitoring|workflow-white.png|<img src="../resources/oci/monitoring/workflow-white.png" witdh="50px" />
+monitoring|events.png|<img src="../resources/oci/monitoring/events.png" witdh="50px" />
+monitoring|queue.png|<img src="../resources/oci/monitoring/queue.png" witdh="50px" />
+monitoring|health-check-white.png|<img src="../resources/oci/monitoring/health-check-white.png" witdh="50px" />
+monitoring|search.png|<img src="../resources/oci/monitoring/search.png" witdh="50px" />
+monitoring|alarm.png|<img src="../resources/oci/monitoring/alarm.png" witdh="50px" />
+monitoring|queue-white.png|<img src="../resources/oci/monitoring/queue-white.png" witdh="50px" />
+monitoring|notifications.png|<img src="../resources/oci/monitoring/notifications.png" witdh="50px" />
+monitoring|events-white.png|<img src="../resources/oci/monitoring/events-white.png" witdh="50px" />
+monitoring|workflow.png|<img src="../resources/oci/monitoring/workflow.png" witdh="50px" />
+monitoring|notifications-white.png|<img src="../resources/oci/monitoring/notifications-white.png" witdh="50px" />

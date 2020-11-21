@@ -2,141 +2,141 @@ onprem
 
 Type | Name | Icon
 --|--|--
-database|influxdb.png|![](../resources/onprem/database/influxdb.png =50x50)
-database|clickhouse.png|![](../resources/onprem/database/clickhouse.png =50x50)
-database|janusgraph.png|![](../resources/onprem/database/janusgraph.png =50x50)
-database|cockroachdb.png|![](../resources/onprem/database/cockroachdb.png =50x50)
-database|oracle.png|![](../resources/onprem/database/oracle.png =50x50)
-database|hbase.png|![](../resources/onprem/database/hbase.png =50x50)
-database|druid.png|![](../resources/onprem/database/druid.png =50x50)
-database|postgresql.png|![](../resources/onprem/database/postgresql.png =50x50)
-database|neo4j.png|![](../resources/onprem/database/neo4j.png =50x50)
-database|cassandra.png|![](../resources/onprem/database/cassandra.png =50x50)
-database|scylla.png|![](../resources/onprem/database/scylla.png =50x50)
-database|mysql.png|![](../resources/onprem/database/mysql.png =50x50)
-database|couchdb.png|![](../resources/onprem/database/couchdb.png =50x50)
-database|couchbase.png|![](../resources/onprem/database/couchbase.png =50x50)
-database|mssql.png|![](../resources/onprem/database/mssql.png =50x50)
-database|dgraph.png|![](../resources/onprem/database/dgraph.png =50x50)
-database|mongodb.png|![](../resources/onprem/database/mongodb.png =50x50)
-database|mariadb.png|![](../resources/onprem/database/mariadb.png =50x50)
-tracing|jaeger.png|![](../resources/onprem/tracing/jaeger.png =50x50)
-identity|dex.png|![](../resources/onprem/identity/dex.png =50x50)
-security|vault.png|![](../resources/onprem/security/vault.png =50x50)
-security|trivy.png|![](../resources/onprem/security/trivy.png =50x50)
-auth|oauth2-proxy.png|![](../resources/onprem/auth/oauth2-proxy.png =50x50)
-auth|buzzfeed-sso.png|![](../resources/onprem/auth/buzzfeed-sso.png =50x50)
-proxmox|pve.png|![](../resources/onprem/proxmox/pve.png =50x50)
-ci|gitlabci.png|![](../resources/onprem/ci/gitlabci.png =50x50)
-ci|teamcity.png|![](../resources/onprem/ci/teamcity.png =50x50)
-ci|concourseci.png|![](../resources/onprem/ci/concourseci.png =50x50)
-ci|zuulci.png|![](../resources/onprem/ci/zuulci.png =50x50)
-ci|droneci.png|![](../resources/onprem/ci/droneci.png =50x50)
-ci|circleci.png|![](../resources/onprem/ci/circleci.png =50x50)
-ci|jenkins.png|![](../resources/onprem/ci/jenkins.png =50x50)
-ci|github-actions.png|![](../resources/onprem/ci/github-actions.png =50x50)
-ci|travisci.png|![](../resources/onprem/ci/travisci.png =50x50)
-etl|embulk.png|![](../resources/onprem/etl/embulk.png =50x50)
-mlops|polyaxon.png|![](../resources/onprem/mlops/polyaxon.png =50x50)
-aggregator|fluentd.png|![](../resources/onprem/aggregator/fluentd.png =50x50)
-aggregator|vector.png|![](../resources/onprem/aggregator/vector.png =50x50)
-network|internet.png|![](../resources/onprem/network/internet.png =50x50)
-network|powerdns.png|![](../resources/onprem/network/powerdns.png =50x50)
-network|envoy.png|![](../resources/onprem/network/envoy.png =50x50)
-network|pfsense.png|![](../resources/onprem/network/pfsense.png =50x50)
-network|kong.png|![](../resources/onprem/network/kong.png =50x50)
-network|etcd.png|![](../resources/onprem/network/etcd.png =50x50)
-network|opnsense.png|![](../resources/onprem/network/opnsense.png =50x50)
-network|jbossas.png|![](../resources/onprem/network/jbossas.png =50x50)
-network|wildfly.png|![](../resources/onprem/network/wildfly.png =50x50)
-network|istio.png|![](../resources/onprem/network/istio.png =50x50)
-network|bind-9.png|![](../resources/onprem/network/bind-9.png =50x50)
-network|pomerium.png|![](../resources/onprem/network/pomerium.png =50x50)
-network|vyos.png|![](../resources/onprem/network/vyos.png =50x50)
-network|haproxy.png|![](../resources/onprem/network/haproxy.png =50x50)
-network|apache.png|![](../resources/onprem/network/apache.png =50x50)
-network|open-service-mesh.png|![](../resources/onprem/network/open-service-mesh.png =50x50)
-network|zookeeper.png|![](../resources/onprem/network/zookeeper.png =50x50)
-network|nginx.png|![](../resources/onprem/network/nginx.png =50x50)
-network|tomcat.png|![](../resources/onprem/network/tomcat.png =50x50)
-network|ocelot.png|![](../resources/onprem/network/ocelot.png =50x50)
-network|jetty.png|![](../resources/onprem/network/jetty.png =50x50)
-network|gunicorn.png|![](../resources/onprem/network/gunicorn.png =50x50)
-network|glassfish.png|![](../resources/onprem/network/glassfish.png =50x50)
-network|traefik.png|![](../resources/onprem/network/traefik.png =50x50)
-network|linkerd.png|![](../resources/onprem/network/linkerd.png =50x50)
-network|caddy.png|![](../resources/onprem/network/caddy.png =50x50)
-network|consul.png|![](../resources/onprem/network/consul.png =50x50)
-certificates|lets-encrypt.png|![](../resources/onprem/certificates/lets-encrypt.png =50x50)
-certificates|cert-manager.png|![](../resources/onprem/certificates/cert-manager.png =50x50)
-storage|ceph.png|![](../resources/onprem/storage/ceph.png =50x50)
-storage|glusterfs.png|![](../resources/onprem/storage/glusterfs.png =50x50)
-storage|ceph-osd.png|![](../resources/onprem/storage/ceph-osd.png =50x50)
-inmemory|aerospike.png|![](../resources/onprem/inmemory/aerospike.png =50x50)
-inmemory|hazelcast.png|![](../resources/onprem/inmemory/hazelcast.png =50x50)
-inmemory|redis.png|![](../resources/onprem/inmemory/redis.png =50x50)
-inmemory|memcached.png|![](../resources/onprem/inmemory/memcached.png =50x50)
-search|solr.png|![](../resources/onprem/search/solr.png =50x50)
-container|rkt.png|![](../resources/onprem/container/rkt.png =50x50)
-container|docker.png|![](../resources/onprem/container/docker.png =50x50)
-container|gvisor.png|![](../resources/onprem/container/gvisor.png =50x50)
-container|lxc.png|![](../resources/onprem/container/lxc.png =50x50)
-container|containerd.png|![](../resources/onprem/container/containerd.png =50x50)
-container|crio.png|![](../resources/onprem/container/crio.png =50x50)
-container|firecracker.png|![](../resources/onprem/container/firecracker.png =50x50)
-iac|atlantis.png|![](../resources/onprem/iac/atlantis.png =50x50)
-iac|awx.png|![](../resources/onprem/iac/awx.png =50x50)
-iac|ansible.png|![](../resources/onprem/iac/ansible.png =50x50)
-iac|terraform.png|![](../resources/onprem/iac/terraform.png =50x50)
-compute|server.png|![](../resources/onprem/compute/server.png =50x50)
-compute|nomad.png|![](../resources/onprem/compute/nomad.png =50x50)
-vcs|git.png|![](../resources/onprem/vcs/git.png =50x50)
-vcs|github.png|![](../resources/onprem/vcs/github.png =50x50)
-vcs|gitlab.png|![](../resources/onprem/vcs/gitlab.png =50x50)
-workflow|kubeflow.png|![](../resources/onprem/workflow/kubeflow.png =50x50)
-workflow|airflow.png|![](../resources/onprem/workflow/airflow.png =50x50)
-workflow|nifi.png|![](../resources/onprem/workflow/nifi.png =50x50)
-workflow|digdag.png|![](../resources/onprem/workflow/digdag.png =50x50)
-queue|zeromq.png|![](../resources/onprem/queue/zeromq.png =50x50)
-queue|celery.png|![](../resources/onprem/queue/celery.png =50x50)
-queue|activemq.png|![](../resources/onprem/queue/activemq.png =50x50)
-queue|nats.png|![](../resources/onprem/queue/nats.png =50x50)
-queue|kafka.png|![](../resources/onprem/queue/kafka.png =50x50)
-queue|rabbitmq.png|![](../resources/onprem/queue/rabbitmq.png =50x50)
-cd|tekton-cli.png|![](../resources/onprem/cd/tekton-cli.png =50x50)
-cd|tekton.png|![](../resources/onprem/cd/tekton.png =50x50)
-cd|spinnaker.png|![](../resources/onprem/cd/spinnaker.png =50x50)
-gitops|flagger.png|![](../resources/onprem/gitops/flagger.png =50x50)
-gitops|argocd.png|![](../resources/onprem/gitops/argocd.png =50x50)
-gitops|flux.png|![](../resources/onprem/gitops/flux.png =50x50)
-monitoring|prometheus.png|![](../resources/onprem/monitoring/prometheus.png =50x50)
-monitoring|prometheus-operator.png|![](../resources/onprem/monitoring/prometheus-operator.png =50x50)
-monitoring|sentry.png|![](../resources/onprem/monitoring/sentry.png =50x50)
-monitoring|thanos.png|![](../resources/onprem/monitoring/thanos.png =50x50)
-monitoring|cortex.png|![](../resources/onprem/monitoring/cortex.png =50x50)
-monitoring|zabbix.png|![](../resources/onprem/monitoring/zabbix.png =50x50)
-monitoring|grafana.png|![](../resources/onprem/monitoring/grafana.png =50x50)
-monitoring|splunk.png|![](../resources/onprem/monitoring/splunk.png =50x50)
-monitoring|datadog.png|![](../resources/onprem/monitoring/datadog.png =50x50)
-dns|powerdns.png|![](../resources/onprem/dns/powerdns.png =50x50)
-dns|coredns.png|![](../resources/onprem/dns/coredns.png =50x50)
-client|user.png|![](../resources/onprem/client/user.png =50x50)
-client|users.png|![](../resources/onprem/client/users.png =50x50)
-client|client.png|![](../resources/onprem/client/client.png =50x50)
-logging|syslog-ng.png|![](../resources/onprem/logging/syslog-ng.png =50x50)
-logging|fluentbit.png|![](../resources/onprem/logging/fluentbit.png =50x50)
-logging|rsyslog.png|![](../resources/onprem/logging/rsyslog.png =50x50)
-logging|loki.png|![](../resources/onprem/logging/loki.png =50x50)
-logging|graylog.png|![](../resources/onprem/logging/graylog.png =50x50)
-analytics|dbt.png|![](../resources/onprem/analytics/dbt.png =50x50)
-analytics|tableau.png|![](../resources/onprem/analytics/tableau.png =50x50)
-analytics|databricks.png|![](../resources/onprem/analytics/databricks.png =50x50)
-analytics|beam.png|![](../resources/onprem/analytics/beam.png =50x50)
-analytics|flink.png|![](../resources/onprem/analytics/flink.png =50x50)
-analytics|spark.png|![](../resources/onprem/analytics/spark.png =50x50)
-analytics|metabase.png|![](../resources/onprem/analytics/metabase.png =50x50)
-analytics|singer.png|![](../resources/onprem/analytics/singer.png =50x50)
-analytics|hadoop.png|![](../resources/onprem/analytics/hadoop.png =50x50)
-analytics|hive.png|![](../resources/onprem/analytics/hive.png =50x50)
-analytics|norikra.png|![](../resources/onprem/analytics/norikra.png =50x50)
-analytics|storm.png|![](../resources/onprem/analytics/storm.png =50x50)
+database|influxdb.png|<img src="../resources/onprem/database/influxdb.png" witdh="50px" />
+database|clickhouse.png|<img src="../resources/onprem/database/clickhouse.png" witdh="50px" />
+database|janusgraph.png|<img src="../resources/onprem/database/janusgraph.png" witdh="50px" />
+database|cockroachdb.png|<img src="../resources/onprem/database/cockroachdb.png" witdh="50px" />
+database|oracle.png|<img src="../resources/onprem/database/oracle.png" witdh="50px" />
+database|hbase.png|<img src="../resources/onprem/database/hbase.png" witdh="50px" />
+database|druid.png|<img src="../resources/onprem/database/druid.png" witdh="50px" />
+database|postgresql.png|<img src="../resources/onprem/database/postgresql.png" witdh="50px" />
+database|neo4j.png|<img src="../resources/onprem/database/neo4j.png" witdh="50px" />
+database|cassandra.png|<img src="../resources/onprem/database/cassandra.png" witdh="50px" />
+database|scylla.png|<img src="../resources/onprem/database/scylla.png" witdh="50px" />
+database|mysql.png|<img src="../resources/onprem/database/mysql.png" witdh="50px" />
+database|couchdb.png|<img src="../resources/onprem/database/couchdb.png" witdh="50px" />
+database|couchbase.png|<img src="../resources/onprem/database/couchbase.png" witdh="50px" />
+database|mssql.png|<img src="../resources/onprem/database/mssql.png" witdh="50px" />
+database|dgraph.png|<img src="../resources/onprem/database/dgraph.png" witdh="50px" />
+database|mongodb.png|<img src="../resources/onprem/database/mongodb.png" witdh="50px" />
+database|mariadb.png|<img src="../resources/onprem/database/mariadb.png" witdh="50px" />
+tracing|jaeger.png|<img src="../resources/onprem/tracing/jaeger.png" witdh="50px" />
+identity|dex.png|<img src="../resources/onprem/identity/dex.png" witdh="50px" />
+security|vault.png|<img src="../resources/onprem/security/vault.png" witdh="50px" />
+security|trivy.png|<img src="../resources/onprem/security/trivy.png" witdh="50px" />
+auth|oauth2-proxy.png|<img src="../resources/onprem/auth/oauth2-proxy.png" witdh="50px" />
+auth|buzzfeed-sso.png|<img src="../resources/onprem/auth/buzzfeed-sso.png" witdh="50px" />
+proxmox|pve.png|<img src="../resources/onprem/proxmox/pve.png" witdh="50px" />
+ci|gitlabci.png|<img src="../resources/onprem/ci/gitlabci.png" witdh="50px" />
+ci|teamcity.png|<img src="../resources/onprem/ci/teamcity.png" witdh="50px" />
+ci|concourseci.png|<img src="../resources/onprem/ci/concourseci.png" witdh="50px" />
+ci|zuulci.png|<img src="../resources/onprem/ci/zuulci.png" witdh="50px" />
+ci|droneci.png|<img src="../resources/onprem/ci/droneci.png" witdh="50px" />
+ci|circleci.png|<img src="../resources/onprem/ci/circleci.png" witdh="50px" />
+ci|jenkins.png|<img src="../resources/onprem/ci/jenkins.png" witdh="50px" />
+ci|github-actions.png|<img src="../resources/onprem/ci/github-actions.png" witdh="50px" />
+ci|travisci.png|<img src="../resources/onprem/ci/travisci.png" witdh="50px" />
+etl|embulk.png|<img src="../resources/onprem/etl/embulk.png" witdh="50px" />
+mlops|polyaxon.png|<img src="../resources/onprem/mlops/polyaxon.png" witdh="50px" />
+aggregator|fluentd.png|<img src="../resources/onprem/aggregator/fluentd.png" witdh="50px" />
+aggregator|vector.png|<img src="../resources/onprem/aggregator/vector.png" witdh="50px" />
+network|internet.png|<img src="../resources/onprem/network/internet.png" witdh="50px" />
+network|powerdns.png|<img src="../resources/onprem/network/powerdns.png" witdh="50px" />
+network|envoy.png|<img src="../resources/onprem/network/envoy.png" witdh="50px" />
+network|pfsense.png|<img src="../resources/onprem/network/pfsense.png" witdh="50px" />
+network|kong.png|<img src="../resources/onprem/network/kong.png" witdh="50px" />
+network|etcd.png|<img src="../resources/onprem/network/etcd.png" witdh="50px" />
+network|opnsense.png|<img src="../resources/onprem/network/opnsense.png" witdh="50px" />
+network|jbossas.png|<img src="../resources/onprem/network/jbossas.png" witdh="50px" />
+network|wildfly.png|<img src="../resources/onprem/network/wildfly.png" witdh="50px" />
+network|istio.png|<img src="../resources/onprem/network/istio.png" witdh="50px" />
+network|bind-9.png|<img src="../resources/onprem/network/bind-9.png" witdh="50px" />
+network|pomerium.png|<img src="../resources/onprem/network/pomerium.png" witdh="50px" />
+network|vyos.png|<img src="../resources/onprem/network/vyos.png" witdh="50px" />
+network|haproxy.png|<img src="../resources/onprem/network/haproxy.png" witdh="50px" />
+network|apache.png|<img src="../resources/onprem/network/apache.png" witdh="50px" />
+network|open-service-mesh.png|<img src="../resources/onprem/network/open-service-mesh.png" witdh="50px" />
+network|zookeeper.png|<img src="../resources/onprem/network/zookeeper.png" witdh="50px" />
+network|nginx.png|<img src="../resources/onprem/network/nginx.png" witdh="50px" />
+network|tomcat.png|<img src="../resources/onprem/network/tomcat.png" witdh="50px" />
+network|ocelot.png|<img src="../resources/onprem/network/ocelot.png" witdh="50px" />
+network|jetty.png|<img src="../resources/onprem/network/jetty.png" witdh="50px" />
+network|gunicorn.png|<img src="../resources/onprem/network/gunicorn.png" witdh="50px" />
+network|glassfish.png|<img src="../resources/onprem/network/glassfish.png" witdh="50px" />
+network|traefik.png|<img src="../resources/onprem/network/traefik.png" witdh="50px" />
+network|linkerd.png|<img src="../resources/onprem/network/linkerd.png" witdh="50px" />
+network|caddy.png|<img src="../resources/onprem/network/caddy.png" witdh="50px" />
+network|consul.png|<img src="../resources/onprem/network/consul.png" witdh="50px" />
+certificates|lets-encrypt.png|<img src="../resources/onprem/certificates/lets-encrypt.png" witdh="50px" />
+certificates|cert-manager.png|<img src="../resources/onprem/certificates/cert-manager.png" witdh="50px" />
+storage|ceph.png|<img src="../resources/onprem/storage/ceph.png" witdh="50px" />
+storage|glusterfs.png|<img src="../resources/onprem/storage/glusterfs.png" witdh="50px" />
+storage|ceph-osd.png|<img src="../resources/onprem/storage/ceph-osd.png" witdh="50px" />
+inmemory|aerospike.png|<img src="../resources/onprem/inmemory/aerospike.png" witdh="50px" />
+inmemory|hazelcast.png|<img src="../resources/onprem/inmemory/hazelcast.png" witdh="50px" />
+inmemory|redis.png|<img src="../resources/onprem/inmemory/redis.png" witdh="50px" />
+inmemory|memcached.png|<img src="../resources/onprem/inmemory/memcached.png" witdh="50px" />
+search|solr.png|<img src="../resources/onprem/search/solr.png" witdh="50px" />
+container|rkt.png|<img src="../resources/onprem/container/rkt.png" witdh="50px" />
+container|docker.png|<img src="../resources/onprem/container/docker.png" witdh="50px" />
+container|gvisor.png|<img src="../resources/onprem/container/gvisor.png" witdh="50px" />
+container|lxc.png|<img src="../resources/onprem/container/lxc.png" witdh="50px" />
+container|containerd.png|<img src="../resources/onprem/container/containerd.png" witdh="50px" />
+container|crio.png|<img src="../resources/onprem/container/crio.png" witdh="50px" />
+container|firecracker.png|<img src="../resources/onprem/container/firecracker.png" witdh="50px" />
+iac|atlantis.png|<img src="../resources/onprem/iac/atlantis.png" witdh="50px" />
+iac|awx.png|<img src="../resources/onprem/iac/awx.png" witdh="50px" />
+iac|ansible.png|<img src="../resources/onprem/iac/ansible.png" witdh="50px" />
+iac|terraform.png|<img src="../resources/onprem/iac/terraform.png" witdh="50px" />
+compute|server.png|<img src="../resources/onprem/compute/server.png" witdh="50px" />
+compute|nomad.png|<img src="../resources/onprem/compute/nomad.png" witdh="50px" />
+vcs|git.png|<img src="../resources/onprem/vcs/git.png" witdh="50px" />
+vcs|github.png|<img src="../resources/onprem/vcs/github.png" witdh="50px" />
+vcs|gitlab.png|<img src="../resources/onprem/vcs/gitlab.png" witdh="50px" />
+workflow|kubeflow.png|<img src="../resources/onprem/workflow/kubeflow.png" witdh="50px" />
+workflow|airflow.png|<img src="../resources/onprem/workflow/airflow.png" witdh="50px" />
+workflow|nifi.png|<img src="../resources/onprem/workflow/nifi.png" witdh="50px" />
+workflow|digdag.png|<img src="../resources/onprem/workflow/digdag.png" witdh="50px" />
+queue|zeromq.png|<img src="../resources/onprem/queue/zeromq.png" witdh="50px" />
+queue|celery.png|<img src="../resources/onprem/queue/celery.png" witdh="50px" />
+queue|activemq.png|<img src="../resources/onprem/queue/activemq.png" witdh="50px" />
+queue|nats.png|<img src="../resources/onprem/queue/nats.png" witdh="50px" />
+queue|kafka.png|<img src="../resources/onprem/queue/kafka.png" witdh="50px" />
+queue|rabbitmq.png|<img src="../resources/onprem/queue/rabbitmq.png" witdh="50px" />
+cd|tekton-cli.png|<img src="../resources/onprem/cd/tekton-cli.png" witdh="50px" />
+cd|tekton.png|<img src="../resources/onprem/cd/tekton.png" witdh="50px" />
+cd|spinnaker.png|<img src="../resources/onprem/cd/spinnaker.png" witdh="50px" />
+gitops|flagger.png|<img src="../resources/onprem/gitops/flagger.png" witdh="50px" />
+gitops|argocd.png|<img src="../resources/onprem/gitops/argocd.png" witdh="50px" />
+gitops|flux.png|<img src="../resources/onprem/gitops/flux.png" witdh="50px" />
+monitoring|prometheus.png|<img src="../resources/onprem/monitoring/prometheus.png" witdh="50px" />
+monitoring|prometheus-operator.png|<img src="../resources/onprem/monitoring/prometheus-operator.png" witdh="50px" />
+monitoring|sentry.png|<img src="../resources/onprem/monitoring/sentry.png" witdh="50px" />
+monitoring|thanos.png|<img src="../resources/onprem/monitoring/thanos.png" witdh="50px" />
+monitoring|cortex.png|<img src="../resources/onprem/monitoring/cortex.png" witdh="50px" />
+monitoring|zabbix.png|<img src="../resources/onprem/monitoring/zabbix.png" witdh="50px" />
+monitoring|grafana.png|<img src="../resources/onprem/monitoring/grafana.png" witdh="50px" />
+monitoring|splunk.png|<img src="../resources/onprem/monitoring/splunk.png" witdh="50px" />
+monitoring|datadog.png|<img src="../resources/onprem/monitoring/datadog.png" witdh="50px" />
+dns|powerdns.png|<img src="../resources/onprem/dns/powerdns.png" witdh="50px" />
+dns|coredns.png|<img src="../resources/onprem/dns/coredns.png" witdh="50px" />
+client|user.png|<img src="../resources/onprem/client/user.png" witdh="50px" />
+client|users.png|<img src="../resources/onprem/client/users.png" witdh="50px" />
+client|client.png|<img src="../resources/onprem/client/client.png" witdh="50px" />
+logging|syslog-ng.png|<img src="../resources/onprem/logging/syslog-ng.png" witdh="50px" />
+logging|fluentbit.png|<img src="../resources/onprem/logging/fluentbit.png" witdh="50px" />
+logging|rsyslog.png|<img src="../resources/onprem/logging/rsyslog.png" witdh="50px" />
+logging|loki.png|<img src="../resources/onprem/logging/loki.png" witdh="50px" />
+logging|graylog.png|<img src="../resources/onprem/logging/graylog.png" witdh="50px" />
+analytics|dbt.png|<img src="../resources/onprem/analytics/dbt.png" witdh="50px" />
+analytics|tableau.png|<img src="../resources/onprem/analytics/tableau.png" witdh="50px" />
+analytics|databricks.png|<img src="../resources/onprem/analytics/databricks.png" witdh="50px" />
+analytics|beam.png|<img src="../resources/onprem/analytics/beam.png" witdh="50px" />
+analytics|flink.png|<img src="../resources/onprem/analytics/flink.png" witdh="50px" />
+analytics|spark.png|<img src="../resources/onprem/analytics/spark.png" witdh="50px" />
+analytics|metabase.png|<img src="../resources/onprem/analytics/metabase.png" witdh="50px" />
+analytics|singer.png|<img src="../resources/onprem/analytics/singer.png" witdh="50px" />
+analytics|hadoop.png|<img src="../resources/onprem/analytics/hadoop.png" witdh="50px" />
+analytics|hive.png|<img src="../resources/onprem/analytics/hive.png" witdh="50px" />
+analytics|norikra.png|<img src="../resources/onprem/analytics/norikra.png" witdh="50px" />
+analytics|storm.png|<img src="../resources/onprem/analytics/storm.png" witdh="50px" />

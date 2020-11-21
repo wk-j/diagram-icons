@@ -2,23 +2,23 @@ saas
 
 Type | Name | Icon
 --|--|--
-alerting|opsgenie.png|![](../resources/saas/alerting/opsgenie.png =50x50)
-alerting|pushover.png|![](../resources/saas/alerting/pushover.png =50x50)
-recommendation|recombee.png|![](../resources/saas/recommendation/recombee.png =50x50)
-identity|okta.png|![](../resources/saas/identity/okta.png =50x50)
-identity|auth0.png|![](../resources/saas/identity/auth0.png =50x50)
-chat|telegram.png|![](../resources/saas/chat/telegram.png =50x50)
-chat|mattermost.png|![](../resources/saas/chat/mattermost.png =50x50)
-chat|rocket-chat.png|![](../resources/saas/chat/rocket-chat.png =50x50)
-chat|slack.png|![](../resources/saas/chat/slack.png =50x50)
-chat|discord.png|![](../resources/saas/chat/discord.png =50x50)
-chat|teams.png|![](../resources/saas/chat/teams.png =50x50)
-social|twitter.png|![](../resources/saas/social/twitter.png =50x50)
-social|facebook.png|![](../resources/saas/social/facebook.png =50x50)
-cdn|akamai.png|![](../resources/saas/cdn/akamai.png =50x50)
-cdn|cloudflare.png|![](../resources/saas/cdn/cloudflare.png =50x50)
-logging|datadog.png|![](../resources/saas/logging/datadog.png =50x50)
-logging|papertrail.png|![](../resources/saas/logging/papertrail.png =50x50)
-analytics|snowflake.png|![](../resources/saas/analytics/snowflake.png =50x50)
-analytics|stitch.png|![](../resources/saas/analytics/stitch.png =50x50)
-media|cloudinary.png|![](../resources/saas/media/cloudinary.png =50x50)
+alerting|opsgenie.png|<img src="../resources/saas/alerting/opsgenie.png" witdh="50px" />
+alerting|pushover.png|<img src="../resources/saas/alerting/pushover.png" witdh="50px" />
+recommendation|recombee.png|<img src="../resources/saas/recommendation/recombee.png" witdh="50px" />
+identity|okta.png|<img src="../resources/saas/identity/okta.png" witdh="50px" />
+identity|auth0.png|<img src="../resources/saas/identity/auth0.png" witdh="50px" />
+chat|telegram.png|<img src="../resources/saas/chat/telegram.png" witdh="50px" />
+chat|mattermost.png|<img src="../resources/saas/chat/mattermost.png" witdh="50px" />
+chat|rocket-chat.png|<img src="../resources/saas/chat/rocket-chat.png" witdh="50px" />
+chat|slack.png|<img src="../resources/saas/chat/slack.png" witdh="50px" />
+chat|discord.png|<img src="../resources/saas/chat/discord.png" witdh="50px" />
+chat|teams.png|<img src="../resources/saas/chat/teams.png" witdh="50px" />
+social|twitter.png|<img src="../resources/saas/social/twitter.png" witdh="50px" />
+social|facebook.png|<img src="../resources/saas/social/facebook.png" witdh="50px" />
+cdn|akamai.png|<img src="../resources/saas/cdn/akamai.png" witdh="50px" />
+cdn|cloudflare.png|<img src="../resources/saas/cdn/cloudflare.png" witdh="50px" />
+logging|datadog.png|<img src="../resources/saas/logging/datadog.png" witdh="50px" />
+logging|papertrail.png|<img src="../resources/saas/logging/papertrail.png" witdh="50px" />
+analytics|snowflake.png|<img src="../resources/saas/analytics/snowflake.png" witdh="50px" />
+analytics|stitch.png|<img src="../resources/saas/analytics/stitch.png" witdh="50px" />
+media|cloudinary.png|<img src="../resources/saas/media/cloudinary.png" witdh="50px" />

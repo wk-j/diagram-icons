@@ -2,34 +2,34 @@ programming
 
 Type | Name | Icon
 --|--|--
-framework|flask.png|![](../resources/programming/framework/flask.png =50x50)
-framework|backbone.png|![](../resources/programming/framework/backbone.png =50x50)
-framework|flutter.png|![](../resources/programming/framework/flutter.png =50x50)
-framework|angular.png|![](../resources/programming/framework/angular.png =50x50)
-framework|vue.png|![](../resources/programming/framework/vue.png =50x50)
-framework|spring.png|![](../resources/programming/framework/spring.png =50x50)
-framework|django.png|![](../resources/programming/framework/django.png =50x50)
-framework|ember.png|![](../resources/programming/framework/ember.png =50x50)
-framework|react.png|![](../resources/programming/framework/react.png =50x50)
-framework|rails.png|![](../resources/programming/framework/rails.png =50x50)
-framework|laravel.png|![](../resources/programming/framework/laravel.png =50x50)
-language|erlang.png|![](../resources/programming/language/erlang.png =50x50)
-language|python.png|![](../resources/programming/language/python.png =50x50)
-language|ruby.png|![](../resources/programming/language/ruby.png =50x50)
-language|cpp.png|![](../resources/programming/language/cpp.png =50x50)
-language|bash.png|![](../resources/programming/language/bash.png =50x50)
-language|java.png|![](../resources/programming/language/java.png =50x50)
-language|rust.png|![](../resources/programming/language/rust.png =50x50)
-language|javascript.png|![](../resources/programming/language/javascript.png =50x50)
-language|matlab.png|![](../resources/programming/language/matlab.png =50x50)
-language|go.png|![](../resources/programming/language/go.png =50x50)
-language|csharp.png|![](../resources/programming/language/csharp.png =50x50)
-language|swift.png|![](../resources/programming/language/swift.png =50x50)
-language|c.png|![](../resources/programming/language/c.png =50x50)
-language|typescript.png|![](../resources/programming/language/typescript.png =50x50)
-language|php.png|![](../resources/programming/language/php.png =50x50)
-language|dart.png|![](../resources/programming/language/dart.png =50x50)
-language|r.png|![](../resources/programming/language/r.png =50x50)
-language|kotlin.png|![](../resources/programming/language/kotlin.png =50x50)
-language|elixir.png|![](../resources/programming/language/elixir.png =50x50)
-language|nodejs.png|![](../resources/programming/language/nodejs.png =50x50)
+framework|flask.png|<img src="../resources/programming/framework/flask.png" witdh="50px" />
+framework|backbone.png|<img src="../resources/programming/framework/backbone.png" witdh="50px" />
+framework|flutter.png|<img src="../resources/programming/framework/flutter.png" witdh="50px" />
+framework|angular.png|<img src="../resources/programming/framework/angular.png" witdh="50px" />
+framework|vue.png|<img src="../resources/programming/framework/vue.png" witdh="50px" />
+framework|spring.png|<img src="../resources/programming/framework/spring.png" witdh="50px" />
+framework|django.png|<img src="../resources/programming/framework/django.png" witdh="50px" />
+framework|ember.png|<img src="../resources/programming/framework/ember.png" witdh="50px" />
+framework|react.png|<img src="../resources/programming/framework/react.png" witdh="50px" />
+framework|rails.png|<img src="../resources/programming/framework/rails.png" witdh="50px" />
+framework|laravel.png|<img src="../resources/programming/framework/laravel.png" witdh="50px" />
+language|erlang.png|<img src="../resources/programming/language/erlang.png" witdh="50px" />
+language|python.png|<img src="../resources/programming/language/python.png" witdh="50px" />
+language|ruby.png|<img src="../resources/programming/language/ruby.png" witdh="50px" />
+language|cpp.png|<img src="../resources/programming/language/cpp.png" witdh="50px" />
+language|bash.png|<img src="../resources/programming/language/bash.png" witdh="50px" />
+language|java.png|<img src="../resources/programming/language/java.png" witdh="50px" />
+language|rust.png|<img src="../resources/programming/language/rust.png" witdh="50px" />
+language|javascript.png|<img src="../resources/programming/language/javascript.png" witdh="50px" />
+language|matlab.png|<img src="../resources/programming/language/matlab.png" witdh="50px" />
+language|go.png|<img src="../resources/programming/language/go.png" witdh="50px" />
+language|csharp.png|<img src="../resources/programming/language/csharp.png" witdh="50px" />
+language|swift.png|<img src="../resources/programming/language/swift.png" witdh="50px" />
+language|c.png|<img src="../resources/programming/language/c.png" witdh="50px" />
+language|typescript.png|<img src="../resources/programming/language/typescript.png" witdh="50px" />
+language|php.png|<img src="../resources/programming/language/php.png" witdh="50px" />
+language|dart.png|<img src="../resources/programming/language/dart.png" witdh="50px" />
+language|r.png|<img src="../resources/programming/language/r.png" witdh="50px" />
+language|kotlin.png|<img src="../resources/programming/language/kotlin.png" witdh="50px" />
+language|elixir.png|<img src="../resources/programming/language/elixir.png" witdh="50px" />
+language|nodejs.png|<img src="../resources/programming/language/nodejs.png" witdh="50px" />

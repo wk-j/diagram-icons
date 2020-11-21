@@ -2,25 +2,25 @@ firebase
 
 Type | Name | Icon
 --|--|--
-develop|functions.png|![](../resources/firebase/develop/functions.png =50x50)
-develop|authentication.png|![](../resources/firebase/develop/authentication.png =50x50)
-develop|firestore.png|![](../resources/firebase/develop/firestore.png =50x50)
-develop|realtime-database.png|![](../resources/firebase/develop/realtime-database.png =50x50)
-develop|ml-kit.png|![](../resources/firebase/develop/ml-kit.png =50x50)
-develop|storage.png|![](../resources/firebase/develop/storage.png =50x50)
-develop|hosting.png|![](../resources/firebase/develop/hosting.png =50x50)
-quality|crash-reporting.png|![](../resources/firebase/quality/crash-reporting.png =50x50)
-quality|test-lab.png|![](../resources/firebase/quality/test-lab.png =50x50)
-quality|app-distribution.png|![](../resources/firebase/quality/app-distribution.png =50x50)
-quality|performance-monitoring.png|![](../resources/firebase/quality/performance-monitoring.png =50x50)
-quality|crashlytics.png|![](../resources/firebase/quality/crashlytics.png =50x50)
-grow|ab-testing.png|![](../resources/firebase/grow/ab-testing.png =50x50)
-grow|messaging.png|![](../resources/firebase/grow/messaging.png =50x50)
-grow|app-indexing.png|![](../resources/firebase/grow/app-indexing.png =50x50)
-grow|remote-config.png|![](../resources/firebase/grow/remote-config.png =50x50)
-grow|in-app-messaging.png|![](../resources/firebase/grow/in-app-messaging.png =50x50)
-grow|dynamic-links.png|![](../resources/firebase/grow/dynamic-links.png =50x50)
-grow|predictions.png|![](../resources/firebase/grow/predictions.png =50x50)
-grow|invites.png|![](../resources/firebase/grow/invites.png =50x50)
-extentions|extensions.png|![](../resources/firebase/extentions/extensions.png =50x50)
-base|firebase.png|![](../resources/firebase/base/firebase.png =50x50)
+develop|functions.png|<img src="../resources/firebase/develop/functions.png" witdh="50px" />
+develop|authentication.png|<img src="../resources/firebase/develop/authentication.png" witdh="50px" />
+develop|firestore.png|<img src="../resources/firebase/develop/firestore.png" witdh="50px" />
+develop|realtime-database.png|<img src="../resources/firebase/develop/realtime-database.png" witdh="50px" />
+develop|ml-kit.png|<img src="../resources/firebase/develop/ml-kit.png" witdh="50px" />
+develop|storage.png|<img src="../resources/firebase/develop/storage.png" witdh="50px" />
+develop|hosting.png|<img src="../resources/firebase/develop/hosting.png" witdh="50px" />
+quality|crash-reporting.png|<img src="../resources/firebase/quality/crash-reporting.png" witdh="50px" />
+quality|test-lab.png|<img src="../resources/firebase/quality/test-lab.png" witdh="50px" />
+quality|app-distribution.png|<img src="../resources/firebase/quality/app-distribution.png" witdh="50px" />
+quality|performance-monitoring.png|<img src="../resources/firebase/quality/performance-monitoring.png" witdh="50px" />
+quality|crashlytics.png|<img src="../resources/firebase/quality/crashlytics.png" witdh="50px" />
+grow|ab-testing.png|<img src="../resources/firebase/grow/ab-testing.png" witdh="50px" />
+grow|messaging.png|<img src="../resources/firebase/grow/messaging.png" witdh="50px" />
+grow|app-indexing.png|<img src="../resources/firebase/grow/app-indexing.png" witdh="50px" />
+grow|remote-config.png|<img src="../resources/firebase/grow/remote-config.png" witdh="50px" />
+grow|in-app-messaging.png|<img src="../resources/firebase/grow/in-app-messaging.png" witdh="50px" />
+grow|dynamic-links.png|<img src="../resources/firebase/grow/dynamic-links.png" witdh="50px" />
+grow|predictions.png|<img src="../resources/firebase/grow/predictions.png" witdh="50px" />
+grow|invites.png|<img src="../resources/firebase/grow/invites.png" witdh="50px" />
+extentions|extensions.png|<img src="../resources/firebase/extentions/extensions.png" witdh="50px" />
+base|firebase.png|<img src="../resources/firebase/base/firebase.png" witdh="50px" />

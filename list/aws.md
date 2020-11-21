@@ -2,301 +2,301 @@ aws
 
 Type | Name | Icon
 --|--|--
-database|quantum-ledger-database-qldb.png|![](../resources/aws/database/quantum-ledger-database-qldb.png =50x50)
-database|redshift.png|![](../resources/aws/database/redshift.png =50x50)
-database|dynamodb.png|![](../resources/aws/database/dynamodb.png =50x50)
-database|dynamodb-table.png|![](../resources/aws/database/dynamodb-table.png =50x50)
-database|database.png|![](../resources/aws/database/database.png =50x50)
-database|database-migration-service.png|![](../resources/aws/database/database-migration-service.png =50x50)
-database|aurora.png|![](../resources/aws/database/aurora.png =50x50)
-database|timestream.png|![](../resources/aws/database/timestream.png =50x50)
-database|dynamodb-global-secondary-index.png|![](../resources/aws/database/dynamodb-global-secondary-index.png =50x50)
-database|dynamodb-dax.png|![](../resources/aws/database/dynamodb-dax.png =50x50)
-database|neptune.png|![](../resources/aws/database/neptune.png =50x50)
-database|rds.png|![](../resources/aws/database/rds.png =50x50)
-database|documentdb-mongodb-compatibility.png|![](../resources/aws/database/documentdb-mongodb-compatibility.png =50x50)
-database|rds-on-vmware.png|![](../resources/aws/database/rds-on-vmware.png =50x50)
-database|elasticache.png|![](../resources/aws/database/elasticache.png =50x50)
-security|security-hub.png|![](../resources/aws/security/security-hub.png =50x50)
-security|waf.png|![](../resources/aws/security/waf.png =50x50)
-security|shield.png|![](../resources/aws/security/shield.png =50x50)
-security|cloud-directory.png|![](../resources/aws/security/cloud-directory.png =50x50)
-security|identity-and-access-management-iam-role.png|![](../resources/aws/security/identity-and-access-management-iam-role.png =50x50)
-security|identity-and-access-management-iam-permissions.png|![](../resources/aws/security/identity-and-access-management-iam-permissions.png =50x50)
-security|detective.png|![](../resources/aws/security/detective.png =50x50)
-security|inspector.png|![](../resources/aws/security/inspector.png =50x50)
-security|single-sign-on.png|![](../resources/aws/security/single-sign-on.png =50x50)
-security|secrets-manager.png|![](../resources/aws/security/secrets-manager.png =50x50)
-security|artifact.png|![](../resources/aws/security/artifact.png =50x50)
-security|identity-and-access-management-iam.png|![](../resources/aws/security/identity-and-access-management-iam.png =50x50)
-security|cognito.png|![](../resources/aws/security/cognito.png =50x50)
-security|directory-service.png|![](../resources/aws/security/directory-service.png =50x50)
-security|key-management-service.png|![](../resources/aws/security/key-management-service.png =50x50)
-security|identity-and-access-management-iam-aws-sts.png|![](../resources/aws/security/identity-and-access-management-iam-aws-sts.png =50x50)
-security|resource-access-manager.png|![](../resources/aws/security/resource-access-manager.png =50x50)
-security|firewall-manager.png|![](../resources/aws/security/firewall-manager.png =50x50)
-security|guardduty.png|![](../resources/aws/security/guardduty.png =50x50)
-security|certificate-manager.png|![](../resources/aws/security/certificate-manager.png =50x50)
-security|identity-and-access-management-iam-access-analyzer.png|![](../resources/aws/security/identity-and-access-management-iam-access-analyzer.png =50x50)
-security|security-identity-and-compliance.png|![](../resources/aws/security/security-identity-and-compliance.png =50x50)
-security|macie.png|![](../resources/aws/security/macie.png =50x50)
-security|cloudhsm.png|![](../resources/aws/security/cloudhsm.png =50x50)
-general|generic-office-building.png|![](../resources/aws/general/generic-office-building.png =50x50)
-general|traditional-server.png|![](../resources/aws/general/traditional-server.png =50x50)
-general|generic-firewall.png|![](../resources/aws/general/generic-firewall.png =50x50)
-general|generic-database.png|![](../resources/aws/general/generic-database.png =50x50)
-general|user.png|![](../resources/aws/general/user.png =50x50)
-general|users.png|![](../resources/aws/general/users.png =50x50)
-general|generic-saml-token.png|![](../resources/aws/general/generic-saml-token.png =50x50)
-general|marketplace.png|![](../resources/aws/general/marketplace.png =50x50)
-general|general.png|![](../resources/aws/general/general.png =50x50)
-general|disk.png|![](../resources/aws/general/disk.png =50x50)
-general|generic-sdk.png|![](../resources/aws/general/generic-sdk.png =50x50)
-integration|application-integration.png|![](../resources/aws/integration/application-integration.png =50x50)
-integration|mq.png|![](../resources/aws/integration/mq.png =50x50)
-integration|step-functions.png|![](../resources/aws/integration/step-functions.png =50x50)
-integration|appsync.png|![](../resources/aws/integration/appsync.png =50x50)
-integration|eventbridge.png|![](../resources/aws/integration/eventbridge.png =50x50)
-integration|console-mobile-application.png|![](../resources/aws/integration/console-mobile-application.png =50x50)
-integration|simple-notification-service-sns.png|![](../resources/aws/integration/simple-notification-service-sns.png =50x50)
-integration|simple-queue-service-sqs.png|![](../resources/aws/integration/simple-queue-service-sqs.png =50x50)
-enduser|workspaces.png|![](../resources/aws/enduser/workspaces.png =50x50)
-enduser|worklink.png|![](../resources/aws/enduser/worklink.png =50x50)
-enduser|appstream-2-0.png|![](../resources/aws/enduser/appstream-2-0.png =50x50)
-enduser|workdocs.png|![](../resources/aws/enduser/workdocs.png =50x50)
-robotics|robomaker-simulator.png|![](../resources/aws/robotics/robomaker-simulator.png =50x50)
-robotics|robomaker.png|![](../resources/aws/robotics/robomaker.png =50x50)
-robotics|robotics.png|![](../resources/aws/robotics/robotics.png =50x50)
-network|networking-and-content-delivery.png|![](../resources/aws/network/networking-and-content-delivery.png =50x50)
-network|vpc-peering.png|![](../resources/aws/network/vpc-peering.png =50x50)
-network|nat-gateway.png|![](../resources/aws/network/nat-gateway.png =50x50)
-network|site-to-site-vpn.png|![](../resources/aws/network/site-to-site-vpn.png =50x50)
-network|route-53.png|![](../resources/aws/network/route-53.png =50x50)
-network|internet-gateway.png|![](../resources/aws/network/internet-gateway.png =50x50)
-network|cloudfront.png|![](../resources/aws/network/cloudfront.png =50x50)
-network|elastic-load-balancing.png|![](../resources/aws/network/elastic-load-balancing.png =50x50)
-network|vpc-router.png|![](../resources/aws/network/vpc-router.png =50x50)
-network|app-mesh.png|![](../resources/aws/network/app-mesh.png =50x50)
-network|transit-gateway.png|![](../resources/aws/network/transit-gateway.png =50x50)
-network|global-accelerator.png|![](../resources/aws/network/global-accelerator.png =50x50)
-network|privatelink.png|![](../resources/aws/network/privatelink.png =50x50)
-network|direct-connect.png|![](../resources/aws/network/direct-connect.png =50x50)
-network|private-subnet.png|![](../resources/aws/network/private-subnet.png =50x50)
-network|cloud-map.png|![](../resources/aws/network/cloud-map.png =50x50)
-network|route-table.png|![](../resources/aws/network/route-table.png =50x50)
-network|endpoint.png|![](../resources/aws/network/endpoint.png =50x50)
-network|api-gateway.png|![](../resources/aws/network/api-gateway.png =50x50)
-network|nacl.png|![](../resources/aws/network/nacl.png =50x50)
-network|public-subnet.png|![](../resources/aws/network/public-subnet.png =50x50)
-network|client-vpn.png|![](../resources/aws/network/client-vpn.png =50x50)
-network|vpc.png|![](../resources/aws/network/vpc.png =50x50)
-cost|savings-plans.png|![](../resources/aws/cost/savings-plans.png =50x50)
-cost|cost-and-usage-report.png|![](../resources/aws/cost/cost-and-usage-report.png =50x50)
-cost|reserved-instance-reporting.png|![](../resources/aws/cost/reserved-instance-reporting.png =50x50)
-cost|budgets.png|![](../resources/aws/cost/budgets.png =50x50)
-cost|cost-explorer.png|![](../resources/aws/cost/cost-explorer.png =50x50)
-business|alexa-for-business.png|![](../resources/aws/business/alexa-for-business.png =50x50)
-business|workmail.png|![](../resources/aws/business/workmail.png =50x50)
-business|chime.png|![](../resources/aws/business/chime.png =50x50)
-management|managed-services.png|![](../resources/aws/management/managed-services.png =50x50)
-management|command-line-interface.png|![](../resources/aws/management/command-line-interface.png =50x50)
-management|trusted-advisor.png|![](../resources/aws/management/trusted-advisor.png =50x50)
-management|license-manager.png|![](../resources/aws/management/license-manager.png =50x50)
-management|opsworks.png|![](../resources/aws/management/opsworks.png =50x50)
-management|config.png|![](../resources/aws/management/config.png =50x50)
-management|codeguru.png|![](../resources/aws/management/codeguru.png =50x50)
-management|auto-scaling.png|![](../resources/aws/management/auto-scaling.png =50x50)
-management|systems-manager.png|![](../resources/aws/management/systems-manager.png =50x50)
-management|organizations.png|![](../resources/aws/management/organizations.png =50x50)
-management|control-tower.png|![](../resources/aws/management/control-tower.png =50x50)
-management|management-console.png|![](../resources/aws/management/management-console.png =50x50)
-management|cloudtrail.png|![](../resources/aws/management/cloudtrail.png =50x50)
-management|cloudwatch.png|![](../resources/aws/management/cloudwatch.png =50x50)
-management|systems-manager-parameter-store.png|![](../resources/aws/management/systems-manager-parameter-store.png =50x50)
-management|service-catalog.png|![](../resources/aws/management/service-catalog.png =50x50)
-management|cloudformation.png|![](../resources/aws/management/cloudformation.png =50x50)
-management|well-architected-tool.png|![](../resources/aws/management/well-architected-tool.png =50x50)
-game|gamelift.png|![](../resources/aws/game/gamelift.png =50x50)
-storage|fsx-for-windows-file-server.png|![](../resources/aws/storage/fsx-for-windows-file-server.png =50x50)
-storage|cloudendure-disaster-recovery.png|![](../resources/aws/storage/cloudendure-disaster-recovery.png =50x50)
-storage|efs-infrequentaccess-primary-bg.png|![](../resources/aws/storage/efs-infrequentaccess-primary-bg.png =50x50)
-storage|simple-storage-service-s3.png|![](../resources/aws/storage/simple-storage-service-s3.png =50x50)
-storage|snowball.png|![](../resources/aws/storage/snowball.png =50x50)
-storage|efs-standard-primary-bg.png|![](../resources/aws/storage/efs-standard-primary-bg.png =50x50)
-storage|fsx.png|![](../resources/aws/storage/fsx.png =50x50)
-storage|storage-gateway.png|![](../resources/aws/storage/storage-gateway.png =50x50)
-storage|backup.png|![](../resources/aws/storage/backup.png =50x50)
-storage|snowball-edge.png|![](../resources/aws/storage/snowball-edge.png =50x50)
-storage|snowmobile.png|![](../resources/aws/storage/snowmobile.png =50x50)
-storage|elastic-block-store-ebs.png|![](../resources/aws/storage/elastic-block-store-ebs.png =50x50)
-storage|fsx-for-lustre.png|![](../resources/aws/storage/fsx-for-lustre.png =50x50)
-storage|s3-glacier.png|![](../resources/aws/storage/s3-glacier.png =50x50)
-storage|storage.png|![](../resources/aws/storage/storage.png =50x50)
-storage|elastic-file-system-efs.png|![](../resources/aws/storage/elastic-file-system-efs.png =50x50)
-iot|iot-rule.png|![](../resources/aws/iot/iot-rule.png =50x50)
-iot|iot-events.png|![](../resources/aws/iot/iot-events.png =50x50)
-iot|internet-of-things.png|![](../resources/aws/iot/internet-of-things.png =50x50)
-iot|freertos.png|![](../resources/aws/iot/freertos.png =50x50)
-iot|iot-http2.png|![](../resources/aws/iot/iot-http2.png =50x50)
-iot|iot-alexa-echo.png|![](../resources/aws/iot/iot-alexa-echo.png =50x50)
-iot|iot-policy.png|![](../resources/aws/iot/iot-policy.png =50x50)
-iot|iot-action.png|![](../resources/aws/iot/iot-action.png =50x50)
-iot|iot-http.png|![](../resources/aws/iot/iot-http.png =50x50)
-iot|iot-policy-emergency.png|![](../resources/aws/iot/iot-policy-emergency.png =50x50)
-iot|iot-greengrass-connector.png|![](../resources/aws/iot/iot-greengrass-connector.png =50x50)
-iot|iot-things-graph.png|![](../resources/aws/iot/iot-things-graph.png =50x50)
-iot|iot-jobs.png|![](../resources/aws/iot/iot-jobs.png =50x50)
-iot|iot-button.png|![](../resources/aws/iot/iot-button.png =50x50)
-iot|iot-topic.png|![](../resources/aws/iot/iot-topic.png =50x50)
-iot|iot-camera.png|![](../resources/aws/iot/iot-camera.png =50x50)
-iot|iot-1-click.png|![](../resources/aws/iot/iot-1-click.png =50x50)
-iot|iot-hardware-board.png|![](../resources/aws/iot/iot-hardware-board.png =50x50)
-iot|iot-shadow.png|![](../resources/aws/iot/iot-shadow.png =50x50)
-iot|iot-device-management.png|![](../resources/aws/iot/iot-device-management.png =50x50)
-iot|iot-alexa-skill.png|![](../resources/aws/iot/iot-alexa-skill.png =50x50)
-iot|iot-device-defender.png|![](../resources/aws/iot/iot-device-defender.png =50x50)
-iot|iot-sitewise.png|![](../resources/aws/iot/iot-sitewise.png =50x50)
-iot|iot-core.png|![](../resources/aws/iot/iot-core.png =50x50)
-iot|iot-lambda.png|![](../resources/aws/iot/iot-lambda.png =50x50)
-iot|iot-greengrass.png|![](../resources/aws/iot/iot-greengrass.png =50x50)
-iot|iot-mqtt.png|![](../resources/aws/iot/iot-mqtt.png =50x50)
-iot|iot-certificate.png|![](../resources/aws/iot/iot-certificate.png =50x50)
-iot|iot-analytics.png|![](../resources/aws/iot/iot-analytics.png =50x50)
-engagement|pinpoint.png|![](../resources/aws/engagement/pinpoint.png =50x50)
-engagement|connect.png|![](../resources/aws/engagement/connect.png =50x50)
-engagement|simple-email-service-ses.png|![](../resources/aws/engagement/simple-email-service-ses.png =50x50)
-blockchain|quantum-ledger-database-qldb.png|![](../resources/aws/blockchain/quantum-ledger-database-qldb.png =50x50)
-blockchain|managed-blockchain.png|![](../resources/aws/blockchain/managed-blockchain.png =50x50)
-compute|batch.png|![](../resources/aws/compute/batch.png =50x50)
-compute|elastic-kubernetes-service.png|![](../resources/aws/compute/elastic-kubernetes-service.png =50x50)
-compute|compute.png|![](../resources/aws/compute/compute.png =50x50)
-compute|elastic-beanstalk-rounded.png|![](../resources/aws/compute/elastic-beanstalk-rounded.png =50x50)
-compute|thinkbox-frost.png|![](../resources/aws/compute/thinkbox-frost.png =50x50)
-compute|ec2-container-registry-rounded.png|![](../resources/aws/compute/ec2-container-registry-rounded.png =50x50)
-compute|thinkbox-deadline-rounded.png|![](../resources/aws/compute/thinkbox-deadline-rounded.png =50x50)
-compute|thinkbox-stoke-rounded.png|![](../resources/aws/compute/thinkbox-stoke-rounded.png =50x50)
-compute|compute-rounded.png|![](../resources/aws/compute/compute-rounded.png =50x50)
-compute|thinkbox-stoke.png|![](../resources/aws/compute/thinkbox-stoke.png =50x50)
-compute|ec2-rounded.png|![](../resources/aws/compute/ec2-rounded.png =50x50)
-compute|thinkbox-draft-rounded.png|![](../resources/aws/compute/thinkbox-draft-rounded.png =50x50)
-compute|ec2-container-registry.png|![](../resources/aws/compute/ec2-container-registry.png =50x50)
-compute|ec2.png|![](../resources/aws/compute/ec2.png =50x50)
-compute|batch-rounded.png|![](../resources/aws/compute/batch-rounded.png =50x50)
-compute|thinkbox-deadline.png|![](../resources/aws/compute/thinkbox-deadline.png =50x50)
-compute|fargate.png|![](../resources/aws/compute/fargate.png =50x50)
-compute|thinkbox-krakatoa-rounded.png|![](../resources/aws/compute/thinkbox-krakatoa-rounded.png =50x50)
-compute|outposts.png|![](../resources/aws/compute/outposts.png =50x50)
-compute|application-auto-scaling-rounded.png|![](../resources/aws/compute/application-auto-scaling-rounded.png =50x50)
-compute|elastic-container-service-rounded.png|![](../resources/aws/compute/elastic-container-service-rounded.png =50x50)
-compute|elastic-kubernetes-service-rounded.png|![](../resources/aws/compute/elastic-kubernetes-service-rounded.png =50x50)
-compute|lambda-rounded.png|![](../resources/aws/compute/lambda-rounded.png =50x50)
-compute|thinkbox-draft.png|![](../resources/aws/compute/thinkbox-draft.png =50x50)
-compute|thinkbox-frost-rounded.png|![](../resources/aws/compute/thinkbox-frost-rounded.png =50x50)
-compute|fargate-rounded.png|![](../resources/aws/compute/fargate-rounded.png =50x50)
-compute|vmware-cloud-on-aws.png|![](../resources/aws/compute/vmware-cloud-on-aws.png =50x50)
-compute|thinkbox-xmesh-rounded.png|![](../resources/aws/compute/thinkbox-xmesh-rounded.png =50x50)
-compute|thinkbox-xmesh.png|![](../resources/aws/compute/thinkbox-xmesh.png =50x50)
-compute|lambda.png|![](../resources/aws/compute/lambda.png =50x50)
-compute|vmware-cloud-on-aws-rounded.png|![](../resources/aws/compute/vmware-cloud-on-aws-rounded.png =50x50)
-compute|outposts-rounded.png|![](../resources/aws/compute/outposts-rounded.png =50x50)
-compute|thinkbox-krakatoa.png|![](../resources/aws/compute/thinkbox-krakatoa.png =50x50)
-compute|thinkbox-sequoia-rounded.png|![](../resources/aws/compute/thinkbox-sequoia-rounded.png =50x50)
-compute|elastic-container-service.png|![](../resources/aws/compute/elastic-container-service.png =50x50)
-compute|lightsail-rounded.png|![](../resources/aws/compute/lightsail-rounded.png =50x50)
-compute|application-auto-scaling.png|![](../resources/aws/compute/application-auto-scaling.png =50x50)
-compute|serverless-application-repository-rounded.png|![](../resources/aws/compute/serverless-application-repository-rounded.png =50x50)
-compute|serverless-application-repository.png|![](../resources/aws/compute/serverless-application-repository.png =50x50)
-compute|elastic-beanstalk.png|![](../resources/aws/compute/elastic-beanstalk.png =50x50)
-compute|thinkbox-sequoia.png|![](../resources/aws/compute/thinkbox-sequoia.png =50x50)
-compute|lightsail.png|![](../resources/aws/compute/lightsail.png =50x50)
-devtools|x-ray.png|![](../resources/aws/devtools/x-ray.png =50x50)
-devtools|command-line-interface.png|![](../resources/aws/devtools/command-line-interface.png =50x50)
-devtools|tools-and-sdks.png|![](../resources/aws/devtools/tools-and-sdks.png =50x50)
-devtools|codepipeline.png|![](../resources/aws/devtools/codepipeline.png =50x50)
-devtools|codebuild.png|![](../resources/aws/devtools/codebuild.png =50x50)
-devtools|cloud9.png|![](../resources/aws/devtools/cloud9.png =50x50)
-devtools|cloud-development-kit.png|![](../resources/aws/devtools/cloud-development-kit.png =50x50)
-devtools|codestar.png|![](../resources/aws/devtools/codestar.png =50x50)
-devtools|developer-tools.png|![](../resources/aws/devtools/developer-tools.png =50x50)
-devtools|codecommit.png|![](../resources/aws/devtools/codecommit.png =50x50)
-devtools|codedeploy.png|![](../resources/aws/devtools/codedeploy.png =50x50)
-ml|deepracer.png|![](../resources/aws/ml/deepracer.png =50x50)
-ml|sagemaker.png|![](../resources/aws/ml/sagemaker.png =50x50)
-ml|sagemaker-ground-truth.png|![](../resources/aws/ml/sagemaker-ground-truth.png =50x50)
-ml|polly.png|![](../resources/aws/ml/polly.png =50x50)
-ml|transcribe.png|![](../resources/aws/ml/transcribe.png =50x50)
-ml|machine-learning.png|![](../resources/aws/ml/machine-learning.png =50x50)
-ml|rekognition.png|![](../resources/aws/ml/rekognition.png =50x50)
-ml|lex.png|![](../resources/aws/ml/lex.png =50x50)
-ml|sagemaker-model.png|![](../resources/aws/ml/sagemaker-model.png =50x50)
-ml|sagemaker-notebook.png|![](../resources/aws/ml/sagemaker-notebook.png =50x50)
-ml|deeplens.png|![](../resources/aws/ml/deeplens.png =50x50)
-ml|tensorflow-on-aws.png|![](../resources/aws/ml/tensorflow-on-aws.png =50x50)
-ml|deep-learning-containers.png|![](../resources/aws/ml/deep-learning-containers.png =50x50)
-ml|translate.png|![](../resources/aws/ml/translate.png =50x50)
-ml|textract.png|![](../resources/aws/ml/textract.png =50x50)
-ml|deep-learning-amis.png|![](../resources/aws/ml/deep-learning-amis.png =50x50)
-ml|comprehend.png|![](../resources/aws/ml/comprehend.png =50x50)
-ml|personalize.png|![](../resources/aws/ml/personalize.png =50x50)
-ml|apache-mxnet-on-aws.png|![](../resources/aws/ml/apache-mxnet-on-aws.png =50x50)
-ml|sagemaker-training-job.png|![](../resources/aws/ml/sagemaker-training-job.png =50x50)
-ml|forecast.png|![](../resources/aws/ml/forecast.png =50x50)
-ml|elastic-inference.png|![](../resources/aws/ml/elastic-inference.png =50x50)
-mobile|pinpoint.png|![](../resources/aws/mobile/pinpoint.png =50x50)
-mobile|appsync.png|![](../resources/aws/mobile/appsync.png =50x50)
-mobile|api-gateway-endpoint.png|![](../resources/aws/mobile/api-gateway-endpoint.png =50x50)
-mobile|amplify.png|![](../resources/aws/mobile/amplify.png =50x50)
-mobile|api-gateway.png|![](../resources/aws/mobile/api-gateway.png =50x50)
-mobile|device-farm.png|![](../resources/aws/mobile/device-farm.png =50x50)
-ar|sumerian.png|![](../resources/aws/ar/sumerian.png =50x50)
-satellite|ground-station.png|![](../resources/aws/satellite/ground-station.png =50x50)
-migration|server-migration-service.png|![](../resources/aws/migration/server-migration-service.png =50x50)
-migration|application-discovery-service.png|![](../resources/aws/migration/application-discovery-service.png =50x50)
-migration|transfer-for-sftp.png|![](../resources/aws/migration/transfer-for-sftp.png =50x50)
-migration|migration-and-transfer.png|![](../resources/aws/migration/migration-and-transfer.png =50x50)
-migration|datasync.png|![](../resources/aws/migration/datasync.png =50x50)
-migration|database-migration-service.png|![](../resources/aws/migration/database-migration-service.png =50x50)
-migration|snowball.png|![](../resources/aws/migration/snowball.png =50x50)
-migration|cloudendure-migration.png|![](../resources/aws/migration/cloudendure-migration.png =50x50)
-migration|migration-hub.png|![](../resources/aws/migration/migration-hub.png =50x50)
-migration|snowball-edge.png|![](../resources/aws/migration/snowball-edge.png =50x50)
-migration|snowmobile.png|![](../resources/aws/migration/snowmobile.png =50x50)
-enablement|managed-services.png|![](../resources/aws/enablement/managed-services.png =50x50)
-enablement|support.png|![](../resources/aws/enablement/support.png =50x50)
-enablement|iq.png|![](../resources/aws/enablement/iq.png =50x50)
-enablement|professional-services.png|![](../resources/aws/enablement/professional-services.png =50x50)
-analytics|kinesis-video-streams.png|![](../resources/aws/analytics/kinesis-video-streams.png =50x50)
-analytics|redshift-dense-compute-node.png|![](../resources/aws/analytics/redshift-dense-compute-node.png =50x50)
-analytics|redshift.png|![](../resources/aws/analytics/redshift.png =50x50)
-analytics|athena.png|![](../resources/aws/analytics/athena.png =50x50)
-analytics|data-pipeline.png|![](../resources/aws/analytics/data-pipeline.png =50x50)
-analytics|glue-crawlers.png|![](../resources/aws/analytics/glue-crawlers.png =50x50)
-analytics|emr-hdfs-cluster.png|![](../resources/aws/analytics/emr-hdfs-cluster.png =50x50)
-analytics|elasticsearch-service.png|![](../resources/aws/analytics/elasticsearch-service.png =50x50)
-analytics|kinesis-data-streams.png|![](../resources/aws/analytics/kinesis-data-streams.png =50x50)
-analytics|kinesis-data-firehose.png|![](../resources/aws/analytics/kinesis-data-firehose.png =50x50)
-analytics|emr-cluster.png|![](../resources/aws/analytics/emr-cluster.png =50x50)
-analytics|emr.png|![](../resources/aws/analytics/emr.png =50x50)
-analytics|quicksight.png|![](../resources/aws/analytics/quicksight.png =50x50)
-analytics|cloudsearch-search-documents.png|![](../resources/aws/analytics/cloudsearch-search-documents.png =50x50)
-analytics|glue.png|![](../resources/aws/analytics/glue.png =50x50)
-analytics|kinesis-data-analytics.png|![](../resources/aws/analytics/kinesis-data-analytics.png =50x50)
-analytics|redshift-dense-storage-node.png|![](../resources/aws/analytics/redshift-dense-storage-node.png =50x50)
-analytics|managed-streaming-for-kafka.png|![](../resources/aws/analytics/managed-streaming-for-kafka.png =50x50)
-analytics|glue-data-catalog.png|![](../resources/aws/analytics/glue-data-catalog.png =50x50)
-analytics|analytics.png|![](../resources/aws/analytics/analytics.png =50x50)
-analytics|kinesis.png|![](../resources/aws/analytics/kinesis.png =50x50)
-analytics|lake-formation.png|![](../resources/aws/analytics/lake-formation.png =50x50)
-analytics|cloudsearch.png|![](../resources/aws/analytics/cloudsearch.png =50x50)
-quantum|braket.png|![](../resources/aws/quantum/braket.png =50x50)
-media|elemental-live.png|![](../resources/aws/media/elemental-live.png =50x50)
-media|elemental-mediaconvert.png|![](../resources/aws/media/elemental-mediaconvert.png =50x50)
-media|elemental-mediastore.png|![](../resources/aws/media/elemental-mediastore.png =50x50)
-media|elemental-mediatailor.png|![](../resources/aws/media/elemental-mediatailor.png =50x50)
-media|elemental-delta.png|![](../resources/aws/media/elemental-delta.png =50x50)
-media|elemental-conductor.png|![](../resources/aws/media/elemental-conductor.png =50x50)
-media|elemental-server.png|![](../resources/aws/media/elemental-server.png =50x50)
-media|elemental-medialive.png|![](../resources/aws/media/elemental-medialive.png =50x50)
-media|elemental-mediapackage.png|![](../resources/aws/media/elemental-mediapackage.png =50x50)
-media|elastic-transcoder.png|![](../resources/aws/media/elastic-transcoder.png =50x50)
-media|elemental-mediaconnect.png|![](../resources/aws/media/elemental-mediaconnect.png =50x50)
+database|quantum-ledger-database-qldb.png|<img src="../resources/aws/database/quantum-ledger-database-qldb.png" witdh="50px" />
+database|redshift.png|<img src="../resources/aws/database/redshift.png" witdh="50px" />
+database|dynamodb.png|<img src="../resources/aws/database/dynamodb.png" witdh="50px" />
+database|dynamodb-table.png|<img src="../resources/aws/database/dynamodb-table.png" witdh="50px" />
+database|database.png|<img src="../resources/aws/database/database.png" witdh="50px" />
+database|database-migration-service.png|<img src="../resources/aws/database/database-migration-service.png" witdh="50px" />
+database|aurora.png|<img src="../resources/aws/database/aurora.png" witdh="50px" />
+database|timestream.png|<img src="../resources/aws/database/timestream.png" witdh="50px" />
+database|dynamodb-global-secondary-index.png|<img src="../resources/aws/database/dynamodb-global-secondary-index.png" witdh="50px" />
+database|dynamodb-dax.png|<img src="../resources/aws/database/dynamodb-dax.png" witdh="50px" />
+database|neptune.png|<img src="../resources/aws/database/neptune.png" witdh="50px" />
+database|rds.png|<img src="../resources/aws/database/rds.png" witdh="50px" />
+database|documentdb-mongodb-compatibility.png|<img src="../resources/aws/database/documentdb-mongodb-compatibility.png" witdh="50px" />
+database|rds-on-vmware.png|<img src="../resources/aws/database/rds-on-vmware.png" witdh="50px" />
+database|elasticache.png|<img src="../resources/aws/database/elasticache.png" witdh="50px" />
+security|security-hub.png|<img src="../resources/aws/security/security-hub.png" witdh="50px" />
+security|waf.png|<img src="../resources/aws/security/waf.png" witdh="50px" />
+security|shield.png|<img src="../resources/aws/security/shield.png" witdh="50px" />
+security|cloud-directory.png|<img src="../resources/aws/security/cloud-directory.png" witdh="50px" />
+security|identity-and-access-management-iam-role.png|<img src="../resources/aws/security/identity-and-access-management-iam-role.png" witdh="50px" />
+security|identity-and-access-management-iam-permissions.png|<img src="../resources/aws/security/identity-and-access-management-iam-permissions.png" witdh="50px" />
+security|detective.png|<img src="../resources/aws/security/detective.png" witdh="50px" />
+security|inspector.png|<img src="../resources/aws/security/inspector.png" witdh="50px" />
+security|single-sign-on.png|<img src="../resources/aws/security/single-sign-on.png" witdh="50px" />
+security|secrets-manager.png|<img src="../resources/aws/security/secrets-manager.png" witdh="50px" />
+security|artifact.png|<img src="../resources/aws/security/artifact.png" witdh="50px" />
+security|identity-and-access-management-iam.png|<img src="../resources/aws/security/identity-and-access-management-iam.png" witdh="50px" />
+security|cognito.png|<img src="../resources/aws/security/cognito.png" witdh="50px" />
+security|directory-service.png|<img src="../resources/aws/security/directory-service.png" witdh="50px" />
+security|key-management-service.png|<img src="../resources/aws/security/key-management-service.png" witdh="50px" />
+security|identity-and-access-management-iam-aws-sts.png|<img src="../resources/aws/security/identity-and-access-management-iam-aws-sts.png" witdh="50px" />
+security|resource-access-manager.png|<img src="../resources/aws/security/resource-access-manager.png" witdh="50px" />
+security|firewall-manager.png|<img src="../resources/aws/security/firewall-manager.png" witdh="50px" />
+security|guardduty.png|<img src="../resources/aws/security/guardduty.png" witdh="50px" />
+security|certificate-manager.png|<img src="../resources/aws/security/certificate-manager.png" witdh="50px" />
+security|identity-and-access-management-iam-access-analyzer.png|<img src="../resources/aws/security/identity-and-access-management-iam-access-analyzer.png" witdh="50px" />
+security|security-identity-and-compliance.png|<img src="../resources/aws/security/security-identity-and-compliance.png" witdh="50px" />
+security|macie.png|<img src="../resources/aws/security/macie.png" witdh="50px" />
+security|cloudhsm.png|<img src="../resources/aws/security/cloudhsm.png" witdh="50px" />
+general|generic-office-building.png|<img src="../resources/aws/general/generic-office-building.png" witdh="50px" />
+general|traditional-server.png|<img src="../resources/aws/general/traditional-server.png" witdh="50px" />
+general|generic-firewall.png|<img src="../resources/aws/general/generic-firewall.png" witdh="50px" />
+general|generic-database.png|<img src="../resources/aws/general/generic-database.png" witdh="50px" />
+general|user.png|<img src="../resources/aws/general/user.png" witdh="50px" />
+general|users.png|<img src="../resources/aws/general/users.png" witdh="50px" />
+general|generic-saml-token.png|<img src="../resources/aws/general/generic-saml-token.png" witdh="50px" />
+general|marketplace.png|<img src="../resources/aws/general/marketplace.png" witdh="50px" />
+general|general.png|<img src="../resources/aws/general/general.png" witdh="50px" />
+general|disk.png|<img src="../resources/aws/general/disk.png" witdh="50px" />
+general|generic-sdk.png|<img src="../resources/aws/general/generic-sdk.png" witdh="50px" />
+integration|application-integration.png|<img src="../resources/aws/integration/application-integration.png" witdh="50px" />
+integration|mq.png|<img src="../resources/aws/integration/mq.png" witdh="50px" />
+integration|step-functions.png|<img src="../resources/aws/integration/step-functions.png" witdh="50px" />
+integration|appsync.png|<img src="../resources/aws/integration/appsync.png" witdh="50px" />
+integration|eventbridge.png|<img src="../resources/aws/integration/eventbridge.png" witdh="50px" />
+integration|console-mobile-application.png|<img src="../resources/aws/integration/console-mobile-application.png" witdh="50px" />
+integration|simple-notification-service-sns.png|<img src="../resources/aws/integration/simple-notification-service-sns.png" witdh="50px" />
+integration|simple-queue-service-sqs.png|<img src="../resources/aws/integration/simple-queue-service-sqs.png" witdh="50px" />
+enduser|workspaces.png|<img src="../resources/aws/enduser/workspaces.png" witdh="50px" />
+enduser|worklink.png|<img src="../resources/aws/enduser/worklink.png" witdh="50px" />
+enduser|appstream-2-0.png|<img src="../resources/aws/enduser/appstream-2-0.png" witdh="50px" />
+enduser|workdocs.png|<img src="../resources/aws/enduser/workdocs.png" witdh="50px" />
+robotics|robomaker-simulator.png|<img src="../resources/aws/robotics/robomaker-simulator.png" witdh="50px" />
+robotics|robomaker.png|<img src="../resources/aws/robotics/robomaker.png" witdh="50px" />
+robotics|robotics.png|<img src="../resources/aws/robotics/robotics.png" witdh="50px" />
+network|networking-and-content-delivery.png|<img src="../resources/aws/network/networking-and-content-delivery.png" witdh="50px" />
+network|vpc-peering.png|<img src="../resources/aws/network/vpc-peering.png" witdh="50px" />
+network|nat-gateway.png|<img src="../resources/aws/network/nat-gateway.png" witdh="50px" />
+network|site-to-site-vpn.png|<img src="../resources/aws/network/site-to-site-vpn.png" witdh="50px" />
+network|route-53.png|<img src="../resources/aws/network/route-53.png" witdh="50px" />
+network|internet-gateway.png|<img src="../resources/aws/network/internet-gateway.png" witdh="50px" />
+network|cloudfront.png|<img src="../resources/aws/network/cloudfront.png" witdh="50px" />
+network|elastic-load-balancing.png|<img src="../resources/aws/network/elastic-load-balancing.png" witdh="50px" />
+network|vpc-router.png|<img src="../resources/aws/network/vpc-router.png" witdh="50px" />
+network|app-mesh.png|<img src="../resources/aws/network/app-mesh.png" witdh="50px" />
+network|transit-gateway.png|<img src="../resources/aws/network/transit-gateway.png" witdh="50px" />
+network|global-accelerator.png|<img src="../resources/aws/network/global-accelerator.png" witdh="50px" />
+network|privatelink.png|<img src="../resources/aws/network/privatelink.png" witdh="50px" />
+network|direct-connect.png|<img src="../resources/aws/network/direct-connect.png" witdh="50px" />
+network|private-subnet.png|<img src="../resources/aws/network/private-subnet.png" witdh="50px" />
+network|cloud-map.png|<img src="../resources/aws/network/cloud-map.png" witdh="50px" />
+network|route-table.png|<img src="../resources/aws/network/route-table.png" witdh="50px" />
+network|endpoint.png|<img src="../resources/aws/network/endpoint.png" witdh="50px" />
+network|api-gateway.png|<img src="../resources/aws/network/api-gateway.png" witdh="50px" />
+network|nacl.png|<img src="../resources/aws/network/nacl.png" witdh="50px" />
+network|public-subnet.png|<img src="../resources/aws/network/public-subnet.png" witdh="50px" />
+network|client-vpn.png|<img src="../resources/aws/network/client-vpn.png" witdh="50px" />
+network|vpc.png|<img src="../resources/aws/network/vpc.png" witdh="50px" />
+cost|savings-plans.png|<img src="../resources/aws/cost/savings-plans.png" witdh="50px" />
+cost|cost-and-usage-report.png|<img src="../resources/aws/cost/cost-and-usage-report.png" witdh="50px" />
+cost|reserved-instance-reporting.png|<img src="../resources/aws/cost/reserved-instance-reporting.png" witdh="50px" />
+cost|budgets.png|<img src="../resources/aws/cost/budgets.png" witdh="50px" />
+cost|cost-explorer.png|<img src="../resources/aws/cost/cost-explorer.png" witdh="50px" />
+business|alexa-for-business.png|<img src="../resources/aws/business/alexa-for-business.png" witdh="50px" />
+business|workmail.png|<img src="../resources/aws/business/workmail.png" witdh="50px" />
+business|chime.png|<img src="../resources/aws/business/chime.png" witdh="50px" />
+management|managed-services.png|<img src="../resources/aws/management/managed-services.png" witdh="50px" />
+management|command-line-interface.png|<img src="../resources/aws/management/command-line-interface.png" witdh="50px" />
+management|trusted-advisor.png|<img src="../resources/aws/management/trusted-advisor.png" witdh="50px" />
+management|license-manager.png|<img src="../resources/aws/management/license-manager.png" witdh="50px" />
+management|opsworks.png|<img src="../resources/aws/management/opsworks.png" witdh="50px" />
+management|config.png|<img src="../resources/aws/management/config.png" witdh="50px" />
+management|codeguru.png|<img src="../resources/aws/management/codeguru.png" witdh="50px" />
+management|auto-scaling.png|<img src="../resources/aws/management/auto-scaling.png" witdh="50px" />
+management|systems-manager.png|<img src="../resources/aws/management/systems-manager.png" witdh="50px" />
+management|organizations.png|<img src="../resources/aws/management/organizations.png" witdh="50px" />
+management|control-tower.png|<img src="../resources/aws/management/control-tower.png" witdh="50px" />
+management|management-console.png|<img src="../resources/aws/management/management-console.png" witdh="50px" />
+management|cloudtrail.png|<img src="../resources/aws/management/cloudtrail.png" witdh="50px" />
+management|cloudwatch.png|<img src="../resources/aws/management/cloudwatch.png" witdh="50px" />
+management|systems-manager-parameter-store.png|<img src="../resources/aws/management/systems-manager-parameter-store.png" witdh="50px" />
+management|service-catalog.png|<img src="../resources/aws/management/service-catalog.png" witdh="50px" />
+management|cloudformation.png|<img src="../resources/aws/management/cloudformation.png" witdh="50px" />
+management|well-architected-tool.png|<img src="../resources/aws/management/well-architected-tool.png" witdh="50px" />
+game|gamelift.png|<img src="../resources/aws/game/gamelift.png" witdh="50px" />
+storage|fsx-for-windows-file-server.png|<img src="../resources/aws/storage/fsx-for-windows-file-server.png" witdh="50px" />
+storage|cloudendure-disaster-recovery.png|<img src="../resources/aws/storage/cloudendure-disaster-recovery.png" witdh="50px" />
+storage|efs-infrequentaccess-primary-bg.png|<img src="../resources/aws/storage/efs-infrequentaccess-primary-bg.png" witdh="50px" />
+storage|simple-storage-service-s3.png|<img src="../resources/aws/storage/simple-storage-service-s3.png" witdh="50px" />
+storage|snowball.png|<img src="../resources/aws/storage/snowball.png" witdh="50px" />
+storage|efs-standard-primary-bg.png|<img src="../resources/aws/storage/efs-standard-primary-bg.png" witdh="50px" />
+storage|fsx.png|<img src="../resources/aws/storage/fsx.png" witdh="50px" />
+storage|storage-gateway.png|<img src="../resources/aws/storage/storage-gateway.png" witdh="50px" />
+storage|backup.png|<img src="../resources/aws/storage/backup.png" witdh="50px" />
+storage|snowball-edge.png|<img src="../resources/aws/storage/snowball-edge.png" witdh="50px" />
+storage|snowmobile.png|<img src="../resources/aws/storage/snowmobile.png" witdh="50px" />
+storage|elastic-block-store-ebs.png|<img src="../resources/aws/storage/elastic-block-store-ebs.png" witdh="50px" />
+storage|fsx-for-lustre.png|<img src="../resources/aws/storage/fsx-for-lustre.png" witdh="50px" />
+storage|s3-glacier.png|<img src="../resources/aws/storage/s3-glacier.png" witdh="50px" />
+storage|storage.png|<img src="../resources/aws/storage/storage.png" witdh="50px" />
+storage|elastic-file-system-efs.png|<img src="../resources/aws/storage/elastic-file-system-efs.png" witdh="50px" />
+iot|iot-rule.png|<img src="../resources/aws/iot/iot-rule.png" witdh="50px" />
+iot|iot-events.png|<img src="../resources/aws/iot/iot-events.png" witdh="50px" />
+iot|internet-of-things.png|<img src="../resources/aws/iot/internet-of-things.png" witdh="50px" />
+iot|freertos.png|<img src="../resources/aws/iot/freertos.png" witdh="50px" />
+iot|iot-http2.png|<img src="../resources/aws/iot/iot-http2.png" witdh="50px" />
+iot|iot-alexa-echo.png|<img src="../resources/aws/iot/iot-alexa-echo.png" witdh="50px" />
+iot|iot-policy.png|<img src="../resources/aws/iot/iot-policy.png" witdh="50px" />
+iot|iot-action.png|<img src="../resources/aws/iot/iot-action.png" witdh="50px" />
+iot|iot-http.png|<img src="../resources/aws/iot/iot-http.png" witdh="50px" />
+iot|iot-policy-emergency.png|<img src="../resources/aws/iot/iot-policy-emergency.png" witdh="50px" />
+iot|iot-greengrass-connector.png|<img src="../resources/aws/iot/iot-greengrass-connector.png" witdh="50px" />
+iot|iot-things-graph.png|<img src="../resources/aws/iot/iot-things-graph.png" witdh="50px" />
+iot|iot-jobs.png|<img src="../resources/aws/iot/iot-jobs.png" witdh="50px" />
+iot|iot-button.png|<img src="../resources/aws/iot/iot-button.png" witdh="50px" />
+iot|iot-topic.png|<img src="../resources/aws/iot/iot-topic.png" witdh="50px" />
+iot|iot-camera.png|<img src="../resources/aws/iot/iot-camera.png" witdh="50px" />
+iot|iot-1-click.png|<img src="../resources/aws/iot/iot-1-click.png" witdh="50px" />
+iot|iot-hardware-board.png|<img src="../resources/aws/iot/iot-hardware-board.png" witdh="50px" />
+iot|iot-shadow.png|<img src="../resources/aws/iot/iot-shadow.png" witdh="50px" />
+iot|iot-device-management.png|<img src="../resources/aws/iot/iot-device-management.png" witdh="50px" />
+iot|iot-alexa-skill.png|<img src="../resources/aws/iot/iot-alexa-skill.png" witdh="50px" />
+iot|iot-device-defender.png|<img src="../resources/aws/iot/iot-device-defender.png" witdh="50px" />
+iot|iot-sitewise.png|<img src="../resources/aws/iot/iot-sitewise.png" witdh="50px" />
+iot|iot-core.png|<img src="../resources/aws/iot/iot-core.png" witdh="50px" />
+iot|iot-lambda.png|<img src="../resources/aws/iot/iot-lambda.png" witdh="50px" />
+iot|iot-greengrass.png|<img src="../resources/aws/iot/iot-greengrass.png" witdh="50px" />
+iot|iot-mqtt.png|<img src="../resources/aws/iot/iot-mqtt.png" witdh="50px" />
+iot|iot-certificate.png|<img src="../resources/aws/iot/iot-certificate.png" witdh="50px" />
+iot|iot-analytics.png|<img src="../resources/aws/iot/iot-analytics.png" witdh="50px" />
+engagement|pinpoint.png|<img src="../resources/aws/engagement/pinpoint.png" witdh="50px" />
+engagement|connect.png|<img src="../resources/aws/engagement/connect.png" witdh="50px" />
+engagement|simple-email-service-ses.png|<img src="../resources/aws/engagement/simple-email-service-ses.png" witdh="50px" />
+blockchain|quantum-ledger-database-qldb.png|<img src="../resources/aws/blockchain/quantum-ledger-database-qldb.png" witdh="50px" />
+blockchain|managed-blockchain.png|<img src="../resources/aws/blockchain/managed-blockchain.png" witdh="50px" />
+compute|batch.png|<img src="../resources/aws/compute/batch.png" witdh="50px" />
+compute|elastic-kubernetes-service.png|<img src="../resources/aws/compute/elastic-kubernetes-service.png" witdh="50px" />
+compute|compute.png|<img src="../resources/aws/compute/compute.png" witdh="50px" />
+compute|elastic-beanstalk-rounded.png|<img src="../resources/aws/compute/elastic-beanstalk-rounded.png" witdh="50px" />
+compute|thinkbox-frost.png|<img src="../resources/aws/compute/thinkbox-frost.png" witdh="50px" />
+compute|ec2-container-registry-rounded.png|<img src="../resources/aws/compute/ec2-container-registry-rounded.png" witdh="50px" />
+compute|thinkbox-deadline-rounded.png|<img src="../resources/aws/compute/thinkbox-deadline-rounded.png" witdh="50px" />
+compute|thinkbox-stoke-rounded.png|<img src="../resources/aws/compute/thinkbox-stoke-rounded.png" witdh="50px" />
+compute|compute-rounded.png|<img src="../resources/aws/compute/compute-rounded.png" witdh="50px" />
+compute|thinkbox-stoke.png|<img src="../resources/aws/compute/thinkbox-stoke.png" witdh="50px" />
+compute|ec2-rounded.png|<img src="../resources/aws/compute/ec2-rounded.png" witdh="50px" />
+compute|thinkbox-draft-rounded.png|<img src="../resources/aws/compute/thinkbox-draft-rounded.png" witdh="50px" />
+compute|ec2-container-registry.png|<img src="../resources/aws/compute/ec2-container-registry.png" witdh="50px" />
+compute|ec2.png|<img src="../resources/aws/compute/ec2.png" witdh="50px" />
+compute|batch-rounded.png|<img src="../resources/aws/compute/batch-rounded.png" witdh="50px" />
+compute|thinkbox-deadline.png|<img src="../resources/aws/compute/thinkbox-deadline.png" witdh="50px" />
+compute|fargate.png|<img src="../resources/aws/compute/fargate.png" witdh="50px" />
+compute|thinkbox-krakatoa-rounded.png|<img src="../resources/aws/compute/thinkbox-krakatoa-rounded.png" witdh="50px" />
+compute|outposts.png|<img src="../resources/aws/compute/outposts.png" witdh="50px" />
+compute|application-auto-scaling-rounded.png|<img src="../resources/aws/compute/application-auto-scaling-rounded.png" witdh="50px" />
+compute|elastic-container-service-rounded.png|<img src="../resources/aws/compute/elastic-container-service-rounded.png" witdh="50px" />
+compute|elastic-kubernetes-service-rounded.png|<img src="../resources/aws/compute/elastic-kubernetes-service-rounded.png" witdh="50px" />
+compute|lambda-rounded.png|<img src="../resources/aws/compute/lambda-rounded.png" witdh="50px" />
+compute|thinkbox-draft.png|<img src="../resources/aws/compute/thinkbox-draft.png" witdh="50px" />
+compute|thinkbox-frost-rounded.png|<img src="../resources/aws/compute/thinkbox-frost-rounded.png" witdh="50px" />
+compute|fargate-rounded.png|<img src="../resources/aws/compute/fargate-rounded.png" witdh="50px" />
+compute|vmware-cloud-on-aws.png|<img src="../resources/aws/compute/vmware-cloud-on-aws.png" witdh="50px" />
+compute|thinkbox-xmesh-rounded.png|<img src="../resources/aws/compute/thinkbox-xmesh-rounded.png" witdh="50px" />
+compute|thinkbox-xmesh.png|<img src="../resources/aws/compute/thinkbox-xmesh.png" witdh="50px" />
+compute|lambda.png|<img src="../resources/aws/compute/lambda.png" witdh="50px" />
+compute|vmware-cloud-on-aws-rounded.png|<img src="../resources/aws/compute/vmware-cloud-on-aws-rounded.png" witdh="50px" />
+compute|outposts-rounded.png|<img src="../resources/aws/compute/outposts-rounded.png" witdh="50px" />
+compute|thinkbox-krakatoa.png|<img src="../resources/aws/compute/thinkbox-krakatoa.png" witdh="50px" />
+compute|thinkbox-sequoia-rounded.png|<img src="../resources/aws/compute/thinkbox-sequoia-rounded.png" witdh="50px" />
+compute|elastic-container-service.png|<img src="../resources/aws/compute/elastic-container-service.png" witdh="50px" />
+compute|lightsail-rounded.png|<img src="../resources/aws/compute/lightsail-rounded.png" witdh="50px" />
+compute|application-auto-scaling.png|<img src="../resources/aws/compute/application-auto-scaling.png" witdh="50px" />
+compute|serverless-application-repository-rounded.png|<img src="../resources/aws/compute/serverless-application-repository-rounded.png" witdh="50px" />
+compute|serverless-application-repository.png|<img src="../resources/aws/compute/serverless-application-repository.png" witdh="50px" />
+compute|elastic-beanstalk.png|<img src="../resources/aws/compute/elastic-beanstalk.png" witdh="50px" />
+compute|thinkbox-sequoia.png|<img src="../resources/aws/compute/thinkbox-sequoia.png" witdh="50px" />
+compute|lightsail.png|<img src="../resources/aws/compute/lightsail.png" witdh="50px" />
+devtools|x-ray.png|<img src="../resources/aws/devtools/x-ray.png" witdh="50px" />
+devtools|command-line-interface.png|<img src="../resources/aws/devtools/command-line-interface.png" witdh="50px" />
+devtools|tools-and-sdks.png|<img src="../resources/aws/devtools/tools-and-sdks.png" witdh="50px" />
+devtools|codepipeline.png|<img src="../resources/aws/devtools/codepipeline.png" witdh="50px" />
+devtools|codebuild.png|<img src="../resources/aws/devtools/codebuild.png" witdh="50px" />
+devtools|cloud9.png|<img src="../resources/aws/devtools/cloud9.png" witdh="50px" />
+devtools|cloud-development-kit.png|<img src="../resources/aws/devtools/cloud-development-kit.png" witdh="50px" />
+devtools|codestar.png|<img src="../resources/aws/devtools/codestar.png" witdh="50px" />
+devtools|developer-tools.png|<img src="../resources/aws/devtools/developer-tools.png" witdh="50px" />
+devtools|codecommit.png|<img src="../resources/aws/devtools/codecommit.png" witdh="50px" />
+devtools|codedeploy.png|<img src="../resources/aws/devtools/codedeploy.png" witdh="50px" />
+ml|deepracer.png|<img src="../resources/aws/ml/deepracer.png" witdh="50px" />
+ml|sagemaker.png|<img src="../resources/aws/ml/sagemaker.png" witdh="50px" />
+ml|sagemaker-ground-truth.png|<img src="../resources/aws/ml/sagemaker-ground-truth.png" witdh="50px" />
+ml|polly.png|<img src="../resources/aws/ml/polly.png" witdh="50px" />
+ml|transcribe.png|<img src="../resources/aws/ml/transcribe.png" witdh="50px" />
+ml|machine-learning.png|<img src="../resources/aws/ml/machine-learning.png" witdh="50px" />
+ml|rekognition.png|<img src="../resources/aws/ml/rekognition.png" witdh="50px" />
+ml|lex.png|<img src="../resources/aws/ml/lex.png" witdh="50px" />
+ml|sagemaker-model.png|<img src="../resources/aws/ml/sagemaker-model.png" witdh="50px" />
+ml|sagemaker-notebook.png|<img src="../resources/aws/ml/sagemaker-notebook.png" witdh="50px" />
+ml|deeplens.png|<img src="../resources/aws/ml/deeplens.png" witdh="50px" />
+ml|tensorflow-on-aws.png|<img src="../resources/aws/ml/tensorflow-on-aws.png" witdh="50px" />
+ml|deep-learning-containers.png|<img src="../resources/aws/ml/deep-learning-containers.png" witdh="50px" />
+ml|translate.png|<img src="../resources/aws/ml/translate.png" witdh="50px" />
+ml|textract.png|<img src="../resources/aws/ml/textract.png" witdh="50px" />
+ml|deep-learning-amis.png|<img src="../resources/aws/ml/deep-learning-amis.png" witdh="50px" />
+ml|comprehend.png|<img src="../resources/aws/ml/comprehend.png" witdh="50px" />
+ml|personalize.png|<img src="../resources/aws/ml/personalize.png" witdh="50px" />
+ml|apache-mxnet-on-aws.png|<img src="../resources/aws/ml/apache-mxnet-on-aws.png" witdh="50px" />
+ml|sagemaker-training-job.png|<img src="../resources/aws/ml/sagemaker-training-job.png" witdh="50px" />
+ml|forecast.png|<img src="../resources/aws/ml/forecast.png" witdh="50px" />
+ml|elastic-inference.png|<img src="../resources/aws/ml/elastic-inference.png" witdh="50px" />
+mobile|pinpoint.png|<img src="../resources/aws/mobile/pinpoint.png" witdh="50px" />
+mobile|appsync.png|<img src="../resources/aws/mobile/appsync.png" witdh="50px" />
+mobile|api-gateway-endpoint.png|<img src="../resources/aws/mobile/api-gateway-endpoint.png" witdh="50px" />
+mobile|amplify.png|<img src="../resources/aws/mobile/amplify.png" witdh="50px" />
+mobile|api-gateway.png|<img src="../resources/aws/mobile/api-gateway.png" witdh="50px" />
+mobile|device-farm.png|<img src="../resources/aws/mobile/device-farm.png" witdh="50px" />
+ar|sumerian.png|<img src="../resources/aws/ar/sumerian.png" witdh="50px" />
+satellite|ground-station.png|<img src="../resources/aws/satellite/ground-station.png" witdh="50px" />
+migration|server-migration-service.png|<img src="../resources/aws/migration/server-migration-service.png" witdh="50px" />
+migration|application-discovery-service.png|<img src="../resources/aws/migration/application-discovery-service.png" witdh="50px" />
+migration|transfer-for-sftp.png|<img src="../resources/aws/migration/transfer-for-sftp.png" witdh="50px" />
+migration|migration-and-transfer.png|<img src="../resources/aws/migration/migration-and-transfer.png" witdh="50px" />
+migration|datasync.png|<img src="../resources/aws/migration/datasync.png" witdh="50px" />
+migration|database-migration-service.png|<img src="../resources/aws/migration/database-migration-service.png" witdh="50px" />
+migration|snowball.png|<img src="../resources/aws/migration/snowball.png" witdh="50px" />
+migration|cloudendure-migration.png|<img src="../resources/aws/migration/cloudendure-migration.png" witdh="50px" />
+migration|migration-hub.png|<img src="../resources/aws/migration/migration-hub.png" witdh="50px" />
+migration|snowball-edge.png|<img src="../resources/aws/migration/snowball-edge.png" witdh="50px" />
+migration|snowmobile.png|<img src="../resources/aws/migration/snowmobile.png" witdh="50px" />
+enablement|managed-services.png|<img src="../resources/aws/enablement/managed-services.png" witdh="50px" />
+enablement|support.png|<img src="../resources/aws/enablement/support.png" witdh="50px" />
+enablement|iq.png|<img src="../resources/aws/enablement/iq.png" witdh="50px" />
+enablement|professional-services.png|<img src="../resources/aws/enablement/professional-services.png" witdh="50px" />
+analytics|kinesis-video-streams.png|<img src="../resources/aws/analytics/kinesis-video-streams.png" witdh="50px" />
+analytics|redshift-dense-compute-node.png|<img src="../resources/aws/analytics/redshift-dense-compute-node.png" witdh="50px" />
+analytics|redshift.png|<img src="../resources/aws/analytics/redshift.png" witdh="50px" />
+analytics|athena.png|<img src="../resources/aws/analytics/athena.png" witdh="50px" />
+analytics|data-pipeline.png|<img src="../resources/aws/analytics/data-pipeline.png" witdh="50px" />
+analytics|glue-crawlers.png|<img src="../resources/aws/analytics/glue-crawlers.png" witdh="50px" />
+analytics|emr-hdfs-cluster.png|<img src="../resources/aws/analytics/emr-hdfs-cluster.png" witdh="50px" />
+analytics|elasticsearch-service.png|<img src="../resources/aws/analytics/elasticsearch-service.png" witdh="50px" />
+analytics|kinesis-data-streams.png|<img src="../resources/aws/analytics/kinesis-data-streams.png" witdh="50px" />
+analytics|kinesis-data-firehose.png|<img src="../resources/aws/analytics/kinesis-data-firehose.png" witdh="50px" />
+analytics|emr-cluster.png|<img src="../resources/aws/analytics/emr-cluster.png" witdh="50px" />
+analytics|emr.png|<img src="../resources/aws/analytics/emr.png" witdh="50px" />
+analytics|quicksight.png|<img src="../resources/aws/analytics/quicksight.png" witdh="50px" />
+analytics|cloudsearch-search-documents.png|<img src="../resources/aws/analytics/cloudsearch-search-documents.png" witdh="50px" />
+analytics|glue.png|<img src="../resources/aws/analytics/glue.png" witdh="50px" />
+analytics|kinesis-data-analytics.png|<img src="../resources/aws/analytics/kinesis-data-analytics.png" witdh="50px" />
+analytics|redshift-dense-storage-node.png|<img src="../resources/aws/analytics/redshift-dense-storage-node.png" witdh="50px" />
+analytics|managed-streaming-for-kafka.png|<img src="../resources/aws/analytics/managed-streaming-for-kafka.png" witdh="50px" />
+analytics|glue-data-catalog.png|<img src="../resources/aws/analytics/glue-data-catalog.png" witdh="50px" />
+analytics|analytics.png|<img src="../resources/aws/analytics/analytics.png" witdh="50px" />
+analytics|kinesis.png|<img src="../resources/aws/analytics/kinesis.png" witdh="50px" />
+analytics|lake-formation.png|<img src="../resources/aws/analytics/lake-formation.png" witdh="50px" />
+analytics|cloudsearch.png|<img src="../resources/aws/analytics/cloudsearch.png" witdh="50px" />
+quantum|braket.png|<img src="../resources/aws/quantum/braket.png" witdh="50px" />
+media|elemental-live.png|<img src="../resources/aws/media/elemental-live.png" witdh="50px" />
+media|elemental-mediaconvert.png|<img src="../resources/aws/media/elemental-mediaconvert.png" witdh="50px" />
+media|elemental-mediastore.png|<img src="../resources/aws/media/elemental-mediastore.png" witdh="50px" />
+media|elemental-mediatailor.png|<img src="../resources/aws/media/elemental-mediatailor.png" witdh="50px" />
+media|elemental-delta.png|<img src="../resources/aws/media/elemental-delta.png" witdh="50px" />
+media|elemental-conductor.png|<img src="../resources/aws/media/elemental-conductor.png" witdh="50px" />
+media|elemental-server.png|<img src="../resources/aws/media/elemental-server.png" witdh="50px" />
+media|elemental-medialive.png|<img src="../resources/aws/media/elemental-medialive.png" witdh="50px" />
+media|elemental-mediapackage.png|<img src="../resources/aws/media/elemental-mediapackage.png" witdh="50px" />
+media|elastic-transcoder.png|<img src="../resources/aws/media/elastic-transcoder.png" witdh="50px" />
+media|elemental-mediaconnect.png|<img src="../resources/aws/media/elemental-mediaconnect.png" witdh="50px" />
