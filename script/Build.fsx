@@ -31,7 +31,7 @@ let getIconInfo(dir: DirectoryInfo) =
         let fullDirName = item.Directory.FullName
 
         let ns =
-            fullDirNamegi
+            fullDirName
                 .Replace(currentDir, "")
                 .Replace("resources", "")
                 .Replace("/", ".").ToLower()
