@@ -34,7 +34,7 @@ let createMD (icons: ResizeArray<IconInfo>) =
     let builder = StringBuilder()
 
     for item in icons do
-        let fmt = $"{item.Category}|{item.Name}|![]({item.Path})\n"
+        let fmt = $"{item.Category}|{item.Name}|![]({item.Path} =50x50)\n"
         builder.Append(fmt)
 
     builder.ToString()
