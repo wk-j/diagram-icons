@@ -1,0 +1,26 @@
+generic
+
+Type | Name | Icon
+--|--|--
+database|sql.png|![](../resources/generic/database/sql.png)
+virtualization|vmware.png|![](../resources/generic/virtualization/vmware.png)
+virtualization|virtualbox.png|![](../resources/generic/virtualization/virtualbox.png)
+virtualization|xen.png|![](../resources/generic/virtualization/xen.png)
+network|vpn.png|![](../resources/generic/network/vpn.png)
+network|firewall.png|![](../resources/generic/network/firewall.png)
+network|switch.png|![](../resources/generic/network/switch.png)
+network|router.png|![](../resources/generic/network/router.png)
+network|subnet.png|![](../resources/generic/network/subnet.png)
+storage|storage.png|![](../resources/generic/storage/storage.png)
+blank|blank.png|![](../resources/generic/blank/blank.png)
+compute|rack.png|![](../resources/generic/compute/rack.png)
+device|tablet.png|![](../resources/generic/device/tablet.png)
+device|mobile.png|![](../resources/generic/device/mobile.png)
+os|android.png|![](../resources/generic/os/android.png)
+os|ios.png|![](../resources/generic/os/ios.png)
+os|windows.png|![](../resources/generic/os/windows.png)
+os|suse.png|![](../resources/generic/os/suse.png)
+os|ubuntu.png|![](../resources/generic/os/ubuntu.png)
+os|centos.png|![](../resources/generic/os/centos.png)
+os|linux-general.png|![](../resources/generic/os/linux-general.png)
+place|datacenter.png|![](../resources/generic/place/datacenter.png)
