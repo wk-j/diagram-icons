@@ -1,5 +1,5 @@
-{_title_}
+# {_title_}
 
-Type | Name | Icon
+Namespace | Name | Icon
 --|--|--
 {_icons_}

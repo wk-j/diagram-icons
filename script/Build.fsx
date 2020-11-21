@@ -12,6 +12,11 @@ let topDir =
     let dir = DirectoryInfo("resources")
     dir.GetDirectories()
 
+let toPascal (input: string) =
+    let info = System.Globalization.CultureInfo.CurrentCulture.TextInfo
+    let title = info.ToTitleCase(input.Replace("-", " ").Replace(".png", ""))
+    title.Replace(" ", "")
+
 let getIconInfo(dir: DirectoryInfo) =
     let files =
         dir.GetFiles("*.png", SearchOption.AllDirectories)
@@ -24,7 +29,7 @@ let getIconInfo(dir: DirectoryInfo) =
         let vendor = item.Directory.Parent.Name
 
         data.Add
-            { Name = name
+            { Name = name |> toPascal
               Category = cateogry
               Vendor = vendor
               Path = $"../resources/{vendor}/{cateogry}/{name}" }
@@ -35,7 +40,7 @@ let createMD (icons: ResizeArray<IconInfo>) =
 
     for item in icons do
         // let fmt = $"{item.Category}|{item.Name}|![]({item.Path} =50x50)\n"
-        let fmt = $"{item.Category}|{item.Name}|<img src=\"{item.Path}\" width=\"50px\" />\n"
+        let fmt = $"diagram.{item.Vendor}.{item.Category}|{item.Name}|<img src=\"{item.Path}\" width=\"50px\" />\n"
         builder.Append(fmt) |> ignore
 
     builder.ToString()
